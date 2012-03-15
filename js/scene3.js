@@ -190,7 +190,7 @@ ROOM3.Room.prototype = {
         sphere.useQuaternion = true;
         this.scene.add(sphere);
 
-        new TWEEN.Tween(sphere.material).to({ opacity: 1}, 500).start();
+        new TWEEN.Tween(sphere.material).to({ opacity: 1 }, 500).start();
 
         var mass = 3 * 3 * 3;
         var startTransform = new Ammo.btTransform();
@@ -211,6 +211,50 @@ ROOM3.Room.prototype = {
 
         sphereAmmo.mesh = sphere;
         this.objects.push(sphereAmmo);
+    },
+
+    addCylinder: function (options) {
+        var settings = $.extend(true, {
+            color: ROOM3.getRandomColorName(),
+            position: {
+                x: Math.random() * 10 - 5,
+                y: 20,
+                z: Math.random() * 10 - 5
+            }
+        }, options);
+
+        var color = ROOM3.getColorByName(settings.color);
+
+        var cylinder = new THREE.Mesh(
+                new THREE.CylinderGeometry(1.5, 1.5, 3),
+                new THREE.MeshLambertMaterial({ opacity: 0, transparent: true }));
+        cylinder.material.color.setRGB(color.r, color.g, color.b);
+        cylinder.castShadow = true;
+        cylinder.receiveShadow = true;
+        cylinder.useQuaternion = true;
+        this.scene.add(cylinder);
+
+        new TWEEN.Tween(cylinder.material).to({ opacity: 1}, 500).start();
+
+        var mass = 3 * 3 * 3;
+        var startTransform = new Ammo.btTransform();
+        startTransform.setIdentity();
+        startTransform.setOrigin(new Ammo.btVector3(settings.position.x,
+                                                    settings.position.y,
+                                                    settings.position.z));
+
+        var localInertia = new Ammo.btVector3(0, 0, 0);
+
+        var cylinderShape = new Ammo.btCylinderShape(new Ammo.btVector3(1.5, 1.5, 1.5));
+        cylinderShape.calculateLocalInertia(mass, localInertia);
+
+        var motionState = new Ammo.btDefaultMotionState(startTransform);
+        var rbInfo = new Ammo.btRigidBodyConstructionInfo(mass, motionState, cylinderShape, localInertia);
+        var cylinderAmmo = new Ammo.btRigidBody(rbInfo);
+        this.world.addRigidBody(cylinderAmmo);
+
+        cylinderAmmo.mesh = cylinder;
+        this.objects.push(cylinderAmmo);
     },
 
     render: function () {
