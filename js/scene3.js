@@ -169,6 +169,50 @@ ROOM3.Room.prototype = {
         this.objects.push(boxAmmo);
     },
 
+    addSphere: function (options) {
+        var settings = $.extend(true, {
+            color: ROOM3.getRandomColorName(),
+            position: {
+                x: Math.random() * 10 - 5,
+                y: 20,
+                z: Math.random() * 10 - 5
+            }
+        }, options);
+
+        var color = ROOM3.getColorByName(settings.color);
+
+        var sphere = new THREE.Mesh(
+                new THREE.SphereGeometry(1.5),
+                new THREE.MeshLambertMaterial({ opacity: 0, transparent: true }));
+        sphere.material.color.setRGB(color.r, color.g, color.b);
+        sphere.castShadow = true;
+        sphere.receiveShadow = true;
+        sphere.useQuaternion = true;
+        this.scene.add(sphere);
+
+        new TWEEN.Tween(sphere.material).to({ opacity: 1}, 500).start();
+
+        var mass = 3 * 3 * 3;
+        var startTransform = new Ammo.btTransform();
+        startTransform.setIdentity();
+        startTransform.setOrigin(new Ammo.btVector3(settings.position.x,
+                                                    settings.position.y,
+                                                    settings.position.z));
+
+        var localInertia = new Ammo.btVector3(0, 0, 0);
+
+        var sphereShape = new Ammo.btSphereShape(1.5);
+        sphereShape.calculateLocalInertia(mass, localInertia);
+
+        var motionState = new Ammo.btDefaultMotionState(startTransform);
+        var rbInfo = new Ammo.btRigidBodyConstructionInfo(mass, motionState, sphereShape, localInertia);
+        var sphereAmmo = new Ammo.btRigidBody(rbInfo);
+        this.world.addRigidBody(sphereAmmo);
+
+        sphereAmmo.mesh = sphere;
+        this.objects.push(sphereAmmo);
+    },
+
     render: function () {
         this.renderer.render(this.scene, this.camera);
     },
