@@ -9,13 +9,22 @@
         <script type="text/javascript" src="js/Tween.js"></script>
         <script type="text/javascript" src="js/SphereControls.js"></script>
         <script type="text/javascript" src="js/colors.js"></script>
-        <script type="text/javascript" src="js/scene3.js"></script>
+        <script type="text/javascript" src="js/room3.js"></script>
         <script type="text/javascript">
             var room;
             $(document).ready(function () {
                 room = new ROOM3.Room($('#viewport'));
                 room.init();
                 room.animate();
+
+                $(document).keypress(function (e) {
+                    if (e.which === 's'.charCodeAt() || e.which === 'S'.charCodeAt()) {
+                        var dataurl = room.toDataURL();
+                        $.post('/savescene', {
+                            dataurl: dataurl
+                        });
+                    }
+                });
             });
             var addBlocks = function (n) {
                 var added = 0;

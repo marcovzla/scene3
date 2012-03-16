@@ -32,13 +32,16 @@ ROOM3.Room = function (container) {
                 position: { x: 40, y: 40, z: 25 }
             },
             ground: {
-                color: 0xDDDDDD,
+                width: 50,
+                height: 50,
+                color: 0x808080,
                 receiveShadow: true
             }
         }, options);
 
         // create renderer
         var renderer = new THREE.WebGLRenderer({
+            preserveDrawingBuffer: true,  // required for taking screenshots
             antialias: settings.renderer.antialias
         });
         renderer.shadowMapEnabled = settings.renderer.shadowMapEnabled;
@@ -81,7 +84,7 @@ ROOM3.Room = function (container) {
         this.light = light;
 
         // ground
-        var ground = new THREE.Mesh(new THREE.PlaneGeometry(50, 50),
+        var ground = new THREE.Mesh(new THREE.PlaneGeometry(settings.ground.width, settings.ground.height),
                                     new THREE.MeshLambertMaterial({
                                         color: settings.ground.color
                                     }));
@@ -106,7 +109,9 @@ ROOM3.Room = function (container) {
         this.world = world;
 
         // ground physics
-        var groundShape = new Ammo.btBoxShape(new Ammo.btVector3(25, 1, 25));
+        var groundShape = new Ammo.btBoxShape(new Ammo.btVector3(settings.ground.width/2,
+                                                                 1,
+                                                                 settings.ground.height/2));
         var groundTransform = new Ammo.btTransform();
         groundTransform.setIdentity();
         groundTransform.setOrigin(new Ammo.btVector3(0, -1, 0));
@@ -290,5 +295,10 @@ ROOM3.Room.prototype = {
             requestAnimationFrame(anim);
         };
         requestAnimationFrame(anim);
+    },
+
+    toDataURL: function (mimetype) {
+        var mimetype = mimetype || 'image/png';
+        return this.renderer.domElement.toDataURL(mimetype);
     }
 }
