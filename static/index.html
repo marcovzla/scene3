@@ -10,6 +10,7 @@
         <script type="text/javascript" src="js/ammo.js"></script>
         <script type="text/javascript" src="js/Tween.js"></script>
         <script type="text/javascript" src="js/SphereControls.js"></script>
+        <script type="text/javascript" src="js/json2.js"></script>
         <script type="text/javascript" src="js/colors.js"></script>
         <script type="text/javascript" src="js/room3.js"></script>
         <script type="text/javascript">
@@ -34,7 +35,8 @@
                             var dataurl = room.toDataURL();
                             $.post('/savescene', {
                                 name: name,
-                                dataurl: dataurl
+                                dataurl: dataurl,
+                                data: room.toJSON()
                             });
                             $(this).dialog('close');
                         },

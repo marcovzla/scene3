@@ -24,6 +24,7 @@ def server_static(filename):
 def save_scene():
     name = request.POST.get('name').strip()
     dataurl = request.POST.get('dataurl').strip()
+    data = request.POST.get('data').strip()
     match = re.search(r'^data:(?P<mimetype>[^;]+);base64,(?P<data>.+)$', dataurl)
     if match:
         # create directory to store scene
@@ -31,9 +32,14 @@ def save_scene():
         if not os.path.exists(dirname):
             os.makedirs(dirname)
 
+        # save image
         ext = mimetypes.guess_extension(match.group('mimetype'))
-        filename = os.path.join(dirname, 'snapshot' + ext)
-        with open(filename, 'wb') as screenshot:
-            screenshot.write(base64.b64decode(match.group('data')))
+        imagename = os.path.join(dirname, 'snapshot' + ext)
+        with open(imagename, 'wb') as image:
+            image.write(base64.b64decode(match.group('data')))
+
+        dataname = os.path.join(dirname, 'data.json')
+        with open(dataname, 'wb') as datafile:
+            datafile.write(data)
 
 run(host='localhost', port=8080)

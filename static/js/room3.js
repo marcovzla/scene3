@@ -300,5 +300,59 @@ ROOM3.Room.prototype = {
     toDataURL: function (mimetype) {
         var mimetype = mimetype || 'image/png';
         return this.renderer.domElement.toDataURL(mimetype);
+    },
+
+    toJSON: function (key) {
+        var data = [{
+            type: "perspective_camera",
+            near: this.camera.near,
+            far: this.camera.far,
+            fov: this.camera.fov,
+            aspect: this.camera.aspect,
+            lookAt: { x:0, y:0, z:0 },
+            position: {
+                x: this.camera.position.x,
+                y: this.camera.position.y,
+                z: this.camera.position.z
+            },
+            rotation: {
+                x: this.camera.position.x,
+                y: this.camera.position.y,
+                z: this.camera.position.z
+            }
+        }];
+
+        for (var i in this.objects) {
+            var m = this.objects[i].mesh;
+
+            var type;
+            if (m.geometry.constructor === THREE.CubeGeometry) {
+                type = 'cube';
+            } else if (m.geometry.constructor === THREE.SphereGeometry) {
+                type = 'sphere';
+            } else if (m.geometry.constructor === THREE.CylinderGeometry) {
+                type = 'cylinder';
+            }
+
+            data.push({
+                type: type,
+                position: {
+                    x: m.position.x,
+                    y: m.position.y,
+                    z: m.position.z
+                },
+                quaternion: {
+                    x: m.quaternion.x,
+                    y: m.quaternion.y,
+                    z: m.quaternion.z
+                },
+                color: {
+                    r: m.material.color.r,
+                    g: m.material.color.g,
+                    b: m.material.color.b
+                }
+            });
+        }
+        return JSON.stringify(data, null, 4);
     }
 }
