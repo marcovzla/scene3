@@ -3,7 +3,9 @@
     <head>
         <meta charset="utf-8">
         <title>room</title>
+        <link rel="stylesheet" type="text/css" href="css/ui-lightness/jquery-ui-1.8.18.custom.css" />
         <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+        <script type="text/javascript" src="js/jquery-ui-1.8.18.custom.min.js"></script>
         <script type="text/javascript" src="js/Three.js"></script>
         <script type="text/javascript" src="js/ammo.js"></script>
         <script type="text/javascript" src="js/Tween.js"></script>
@@ -19,10 +21,31 @@
 
                 $(document).keypress(function (e) {
                     if (e.which === 's'.charCodeAt() || e.which === 'S'.charCodeAt()) {
-                        var dataurl = room.toDataURL();
-                        $.post('/savescene', {
-                            dataurl: dataurl
-                        });
+                        $('#save_snapshot').dialog('open');
+                    }
+                });
+
+                $('#save_snapshot').dialog({
+                    autoOpen: false,
+                    height: 300,
+                    width: 350,
+                    modal: true,
+                    buttons: {
+                        ok: function () {
+                            var name = $('#name').val();
+                            var dataurl = room.toDataURL();
+                            $.post('/savescene', {
+                                name: name,
+                                dataurl: dataurl
+                            });
+                            $(this).dialog('close');
+                        },
+                        cancel: function () {
+                            $(this).dialog('close');
+                        }
+                    },
+                    close: function () {
+                        $('#name').val('');
                     }
                 });
             });
@@ -40,5 +63,13 @@
     </head>
     <body>
         <div id="viewport"></div>
+        <div id="save_snapshot" title="save snapshot" style="display:none">
+            <form>
+                <fieldset>
+                    <label for="name">name</label>
+                    <input type="text" name="name" id="name" class="text ui-widget-content ui-corner-all" />
+                </fieldset>
+            </form>
+        </div>
     </body>
 </html>
