@@ -176,6 +176,7 @@ ROOM3.Room.prototype = {
 
     addSphere: function (options) {
         var settings = $.extend(true, {
+            radius: 1.5,
             color: ROOM3.getRandomColorName(),
             position: {
                 x: Math.random() * 10 - 5,
@@ -187,7 +188,7 @@ ROOM3.Room.prototype = {
         var color = ROOM3.getColorByName(settings.color);
 
         var sphere = new THREE.Mesh(
-                new THREE.SphereGeometry(1.5),
+                new THREE.SphereGeometry(settings.radius),
                 new THREE.MeshLambertMaterial({ opacity: 0, transparent: true }));
         sphere.material.color.setRGB(color.r, color.g, color.b);
         sphere.castShadow = true;
@@ -197,7 +198,7 @@ ROOM3.Room.prototype = {
 
         new TWEEN.Tween(sphere.material).to({ opacity: 1 }, 500).start();
 
-        var mass = 3 * 3 * 3;
+        var mass = (4/3) * Math.PI * Math.pow(settings.radius, 3);
         var startTransform = new Ammo.btTransform();
         startTransform.setIdentity();
         startTransform.setOrigin(new Ammo.btVector3(settings.position.x,
@@ -206,7 +207,7 @@ ROOM3.Room.prototype = {
 
         var localInertia = new Ammo.btVector3(0, 0, 0);
 
-        var sphereShape = new Ammo.btSphereShape(1.5);
+        var sphereShape = new Ammo.btSphereShape(settings.radius);
         sphereShape.calculateLocalInertia(mass, localInertia);
 
         var motionState = new Ammo.btDefaultMotionState(startTransform);
