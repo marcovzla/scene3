@@ -316,14 +316,15 @@ ROOM3.Room.prototype = {
                 z: this.camera.position.z
             },
             rotation: {
-                x: this.camera.position.x,
-                y: this.camera.position.y,
-                z: this.camera.position.z
+                x: this.camera.rotation.x,
+                y: this.camera.rotation.y,
+                z: this.camera.rotation.z
             }
         }];
 
         for (var i in this.objects) {
             var m = this.objects[i].mesh;
+            m.geometry.computeBoundingBox();
 
             var type;
             if (m.geometry.constructor === THREE.CubeGeometry) {
@@ -344,12 +345,25 @@ ROOM3.Room.prototype = {
                 quaternion: {
                     x: m.quaternion.x,
                     y: m.quaternion.y,
-                    z: m.quaternion.z
+                    z: m.quaternion.z,
+                    w: m.quaternion.w
                 },
                 color: {
                     r: m.material.color.r,
                     g: m.material.color.g,
                     b: m.material.color.b
+                },
+                bounding_box: {
+                    min: {
+                        x: m.geometry.boundingBox.min.x,
+                        y: m.geometry.boundingBox.min.y,
+                        z: m.geometry.boundingBox.min.z
+                    },
+                    max: {
+                        x: m.geometry.boundingBox.max.x,
+                        y: m.geometry.boundingBox.max.y,
+                        z: m.geometry.boundingBox.max.z
+                    }
                 }
             });
         }
