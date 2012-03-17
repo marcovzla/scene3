@@ -19,10 +19,8 @@
                 room.init();
                 room.animate();
 
-                $(document).keypress(function (e) {
-                    if (e.which === 's'.charCodeAt() || e.which === 'S'.charCodeAt()) {
-                        $('#save_snapshot').dialog('open');
-                    }
+                $('button').click(function () {
+                    $('#save_snapshot').dialog('open');
                 });
 
                 $('#save_snapshot').dialog({
@@ -62,6 +60,7 @@
         </script>
     </head>
     <body>
+        <button>save scene</button>
         <div id="viewport"></div>
         <div id="save_snapshot" title="save snapshot" style="display:none">
             <form>
