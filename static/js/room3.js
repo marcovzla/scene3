@@ -132,6 +132,9 @@ ROOM3.Room = function (container) {
 ROOM3.Room.prototype = {
     addBox: function (options) {
         var settings = $.extend(true, {
+            width: 3,
+            height: 3,
+            depth: 3,
             color: ROOM3.getRandomColorName(),
             position: {
                 x: Math.random() * 10 - 5,
@@ -143,7 +146,9 @@ ROOM3.Room.prototype = {
         var color = ROOM3.getColorByName(settings.color);
 
         var box = new THREE.Mesh(
-                new THREE.CubeGeometry(3, 3, 3),
+                new THREE.CubeGeometry(settings.width,
+                                       settings.height,
+                                       settings.depth),
                 new THREE.MeshLambertMaterial({ opacity: 0, transparent: true }));
         box.material.color.setRGB(color.r, color.g, color.b);
         box.castShadow = true;
@@ -153,7 +158,7 @@ ROOM3.Room.prototype = {
 
         new TWEEN.Tween(box.material).to({ opacity: 1 }, 500).start();
 
-        var mass = 3 * 3 * 3;
+        var mass = settings.width * settings.height * settings.depth;
         var startTransform = new Ammo.btTransform();
         startTransform.setIdentity();
         startTransform.setOrigin(new Ammo.btVector3(settings.position.x,
@@ -162,7 +167,9 @@ ROOM3.Room.prototype = {
 
         var localInertia = new Ammo.btVector3(0, 0, 0);
 
-        var boxShape = new Ammo.btBoxShape(new Ammo.btVector3(1.5, 1.5, 1.5));
+        var boxShape = new Ammo.btBoxShape(new Ammo.btVector3(settings.width/2,
+                                                              settings.height/2,
+                                                              settings.depth/2));
         boxShape.calculateLocalInertia(mass, localInertia);
 
         var motionState = new Ammo.btDefaultMotionState(startTransform);
