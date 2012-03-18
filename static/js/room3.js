@@ -337,7 +337,13 @@ ROOM3.Room.prototype = {
         }];
 
         for (var i in this.objects) {
-            var m = this.objects[i].mesh;
+            var o = this.objects[i];
+
+            var aabb_min = new Ammo.btVector3(0,0,0);
+            var aabb_max = new Ammo.btVector3(0,0,0);
+            o.getAabb(aabb_min, aabb_max);
+
+            var m = o.mesh;
             m.geometry.computeBoundingBox();
 
             var type;
@@ -377,6 +383,18 @@ ROOM3.Room.prototype = {
                         x: m.geometry.boundingBox.max.x,
                         y: m.geometry.boundingBox.max.y,
                         z: m.geometry.boundingBox.max.z
+                    }
+                },
+                aabb: {
+                    min: {
+                        x: aabb_min.x(),
+                        y: aabb_min.y(),
+                        z: aabb_min.z()
+                    },
+                    max: {
+                        x: aabb_max.x(),
+                        y: aabb_max.y(),
+                        z: aabb_max.z()
                     }
                 }
             });
