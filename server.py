@@ -6,8 +6,6 @@ import base64
 import mimetypes
 from bottle import route, run, static_file, redirect, request, post
 
-mimetypes.init()
-
 def abspath(*relpath):
     currdir = os.path.dirname(os.path.abspath(__file__))
     return os.path.join(currdir, *relpath)
@@ -42,4 +40,6 @@ def save_scene():
         with open(dataname, 'wb') as datafile:
             datafile.write(data)
 
-run(host='localhost', port=8080)
+if __name__ == '__main__':
+    mimetypes.init()
+    run(host='localhost', port=8080)
