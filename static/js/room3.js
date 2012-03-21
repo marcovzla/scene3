@@ -178,6 +178,7 @@ ROOM3.Room.prototype = {
         this.world.addRigidBody(boxAmmo);
 
         boxAmmo.mesh = box;
+        boxAmmo.settings = settings;
         this.objects.push(boxAmmo);
     },
 
@@ -223,6 +224,7 @@ ROOM3.Room.prototype = {
         this.world.addRigidBody(sphereAmmo);
 
         sphereAmmo.mesh = sphere;
+        sphereAmmo.settings = settings;
         this.objects.push(sphereAmmo);
     },
 
@@ -273,6 +275,7 @@ ROOM3.Room.prototype = {
         this.world.addRigidBody(cylinderAmmo);
 
         cylinderAmmo.mesh = cylinder;
+        cylinderAmmo.settings = settings;
         this.objects.push(cylinderAmmo);
     },
 
@@ -357,6 +360,7 @@ ROOM3.Room.prototype = {
 
             data.push({
                 type: type,
+                settings: o.settings,
                 position: {
                     x: m.position.x,
                     y: m.position.y,
