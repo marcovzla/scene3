@@ -19,6 +19,7 @@
                 room = new ROOM3.Room($('#viewport'));
                 room.init();
                 room.animate();
+                //randomScene(10);
 
                 $('button').click(function () {
                     $('#save_snapshot').dialog('open');
@@ -49,10 +50,13 @@
                     }
                 });
             });
-            var addBlocks = function (n) {
+
+            var randomScene = function (n) {
                 var added = 0;
                 var interval = setInterval(function () {
-                    room.addBox();
+                    //var methods = ['addBox', 'addSphere', 'addCylinder'];
+                    var methods = ['addBox', 'addCylinder'];
+                    room[methods[Math.floor(Math.random() * methods.length)]]();
                     added += 1;
                     if (added === n) {
                         clearInterval(interval);

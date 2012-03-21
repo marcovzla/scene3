@@ -29,12 +29,12 @@ ROOM3.Room = function (container) {
                 shadowCameraRight: 25,
                 shadowCameraBottom: 25,
                 shadowBias: -0.0001,
-                position: { x: 40, y: 40, z: 25 }
+                position: { x: 50, y: 40, z: 50 }
             },
             ground: {
-                width: 50,
-                height: 50,
-                color: 0x808080,
+                width: 100,
+                height: 100,
+                color: 0xDDDDDD,
                 receiveShadow: true
             }
         }, options);
@@ -132,14 +132,14 @@ ROOM3.Room = function (container) {
 ROOM3.Room.prototype = {
     addBox: function (options) {
         var settings = $.extend(true, {
-            width: 3,
-            height: 3,
-            depth: 3,
+            width: Math.random() * 10 + 1,
+            height: Math.random() * 10 + 1,
+            depth: Math.random() * 10 + 1,
             color: ROOM3.getRandomColorName(),
             position: {
-                x: Math.random() * 10 - 5,
+                x: Math.random() * 50 - 25,
                 y: 20,
-                z: Math.random() * 10 - 5
+                z: Math.random() * 50 - 25
             }
         }, options);
 
@@ -184,12 +184,12 @@ ROOM3.Room.prototype = {
 
     addSphere: function (options) {
         var settings = $.extend(true, {
-            radius: 1.5,
+            radius: Math.random() * 5 + 1,
             color: ROOM3.getRandomColorName(),
             position: {
-                x: Math.random() * 10 - 5,
+                x: Math.random() * 50 - 25,
                 y: 20,
-                z: Math.random() * 10 - 5
+                z: Math.random() * 50 - 25
             }
         }, options);
 
@@ -230,13 +230,13 @@ ROOM3.Room.prototype = {
 
     addCylinder: function (options) {
         var settings = $.extend(true, {
-            radius: 1.5,
-            height: 3,
+            radius: Math.random() * 5 + 1,
+            height: Math.random() * 10 + 1,
             color: ROOM3.getRandomColorName(),
             position: {
-                x: Math.random() * 10 - 5,
+                x: Math.random() * 50 - 25,
                 y: 20,
-                z: Math.random() * 10 - 5
+                z: Math.random() * 50 - 25
             }
         }, options);
 
