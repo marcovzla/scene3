@@ -5,7 +5,6 @@
 
 import os
 import re
-import sys
 import json
 import socket
 
@@ -60,7 +59,7 @@ class SparQ(object):
             'scene': str(scene),
             'opt': opt,
         })
-        return self.readline()
+        return QualitativeSceneDescription(calculus, self.readline())
 
 
 class SparQEntity(object):
@@ -82,7 +81,36 @@ class QuantitativeSceneDescription(SparQEntity):
 
 
 class QualitativeSceneDescription(SparQEntity):
-    pass
+    def __init__(self, calculus, data):
+        self.calculus = calculus
+        self.data = data
+        self.predicates = []
+
+        # parse data
+        data = self.data[1:-1].strip()
+        while True:
+            match = re.search(r'^\(([^)]*)\)\s*', data)
+            if not match:
+                break
+            data = data[match.end():]
+            parts = match.group(1).split()
+            self.predicates.append(Predicate(calculus, parts))
+
+    def dump(self, format='lisp'):
+        if format == 'lisp':
+            return self.data
+        elif format == 'prolog':
+            return '\n'.join('%s.'%p for p in self.predicates)
+
+
+class Predicate(SparQEntity):
+    def __init__(self, calculus, args):
+        self.calculus = calculus
+        self.name = args[-2].lower()
+        self.args = tuple(a.lower() for a in args if a is not args[-2])
+
+    def dump(self):
+        return '%s_%s(%s)' % (self.calculus, self.name, ', '.join(self.args))
 
 
 class Point1(SparQEntity):
@@ -157,101 +185,54 @@ def get_positions(scene, plane):
     return qsd
 
 
-
 if __name__ == '__main__':
     sparq = SparQ('localhost', 4443)
-    scene = read_scene(sys.argv[1])
+    scenes_dir = abspath('scenes')
 
-    ints_x = get_intervals(scene, 'x')
-    ints_y = get_intervals(scene, 'y')
-    ints_z = get_intervals(scene, 'z')
+    for scenename in os.listdir(scenes_dir):
+        if scenename.startswith('.'):
+            continue
 
-    pts_xy = get_positions(scene, 'xy')
-    pts_xz = get_positions(scene, 'xz')
-    pts_yz = get_positions(scene, 'yz')
+        print 'processing', scenename
+        scene = read_scene(scenename)
+        pts_xy = get_positions(scene, 'xy')
+        pts_xz = get_positions(scene, 'xz')
+        pts_yz = get_positions(scene, 'yz')
 
-    print 'interval calculus (x)'
-    print sparq.qualify('allen', ints_x)
-    print
+        # write new data in scene directory
+        dirname = os.path.join(scenes_dir, scenename)
+        def write(filename, data):
+            filename = os.path.join(dirname, filename)
+            with open(filename, 'wb') as f:
+                f.write(data)
 
-    print 'interval calculus (y)'
-    print sparq.qualify('allen', ints_y)
-    print
+        def write_data(calc, **scenes):
+            for s in scenes:
+                sd = sparq.qualify(calc, scenes[s])
+                for f in ('lisp', 'prolog'):
+                    write('%s_%s.%s'%(calc, s, f), sd.dump(f))
 
-    print 'interval calculus (z)'
-    print sparq.qualify('allen', ints_z)
-    print
+        print '\tinterval algebra'
+        write_data('allen', x=get_intervals(scene, 'x'),
+                            y=get_intervals(scene, 'y'),
+                            z=get_intervals(scene, 'z'))
 
-    print 'cardinal direction calculus (xy)'
-    print sparq.qualify('cardir', pts_xy)
-    print
+        print '\tcardinal direction calculus'
+        write_data('cardir', xy=pts_xy, xz=pts_xz, yz=pts_yz)
 
-    print 'cardinal direction calculus (xz)'
-    print sparq.qualify('cardir', pts_xz)
-    print
+        print '\tdoublecross calculus'
+        write_data('dcc', xy=pts_xy, xz=pts_xz, yz=pts_yz)
 
-    print 'cardinal direction calculus (yz)'
-    print sparq.qualify('cardir', pts_yz)
-    print
+        print '\talternative doublecross calculus'
+        write_data('adcc', xy=pts_xy, xz=pts_xz, yz=pts_yz)
 
-    print 'doublecross calculus (xy)'
-    print sparq.qualify('dcc', pts_xy)
-    print
+        print '\tflipflop calculus'
+        write_data('ffc', xy=pts_xy, xz=pts_xz, yz=pts_yz)
 
-    print 'doublecross calculus (xz)'
-    print sparq.qualify('dcc', pts_xz)
-    print
+        print '\tsinglecross calculus'
+        write_data('scc',  xy=pts_xy, xz=pts_xz, yz=pts_yz)
 
-    print 'doublecross calculus (yz)'
-    print sparq.qualify('dcc', pts_yz)
-    print
-
-    print 'alternative doublecross calculus (xy)'
-    print sparq.qualify('adcc', pts_xy)
-    print
-
-    print 'alternative doublecross calculus (xz)'
-    print sparq.qualify('adcc', pts_xz)
-    print
-
-    print 'alternative doublecross calculus (yz)'
-    print sparq.qualify('adcc', pts_yz)
-    print
-
-    print 'flipflop calculus (xy)'
-    print sparq.qualify('ffc', pts_xy)
-    print
-
-    print 'flipflop calculus (xz)'
-    print sparq.qualify('ffc', pts_xz)
-    print
-
-    print 'flipflop calculus (yz)'
-    print sparq.qualify('ffc', pts_yz)
-    print
-
-    print 'singlecross calculus (xy)'
-    print sparq.qualify('scc', pts_xy)
-    print
-
-    print 'singlecross calculus (xz)'
-    print sparq.qualify('scc', pts_xz)
-    print
-
-    print 'singlecross calculus (yz)'
-    print sparq.qualify('scc', pts_yz)
-    print
-
-    print 'relative distance calculus (xy)'
-    print sparq.qualify('reldistcalculus', pts_xy)
-    print
-
-    print 'relative distance calculus (xz)'
-    print sparq.qualify('reldistcalculus', pts_xz)
-    print
-
-    print 'relative distance calculus (yz)'
-    print sparq.qualify('reldistcalculus', pts_yz)
-    print
+        print '\trelative distance calculus'
+        write_data('reldistcalculus',  xy=pts_xy, xz=pts_xz, yz=pts_yz)
 
     sparq.quit()
