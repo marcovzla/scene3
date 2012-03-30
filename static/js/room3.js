@@ -24,12 +24,12 @@ ROOM3.Room = function (container) {
             light: {
                 color: 0xFFFFFF,
                 castShadow: true,
-                shadowCameraLeft: -25,
-                shadowCameraTop: -25,
-                shadowCameraRight: 25,
-                shadowCameraBottom: 25,
+                shadowCameraLeft: -55,
+                shadowCameraTop: -55,
+                shadowCameraRight: 55,
+                shadowCameraBottom: 55,
                 shadowBias: -0.0001,
-                position: { x: 50, y: 40, z: 50 }
+                position: { x: 60, y: 70, z: 80 }
             },
             ground: {
                 width: 100,
