@@ -186,6 +186,8 @@ ROOM3.Room.prototype = {
         var settings = $.extend(true, {
             radius: Math.random() * 5 + 1,
             color: ROOM3.getRandomColorName(),
+            segmentsWidth: 50,
+            segmentsHeight: 50,
             position: {
                 x: Math.random() * 50 - 25,
                 y: 20,
@@ -196,7 +198,9 @@ ROOM3.Room.prototype = {
         var color = ROOM3.getColorByName(settings.color);
 
         var sphere = new THREE.Mesh(
-                new THREE.SphereGeometry(settings.radius),
+                new THREE.SphereGeometry(settings.radius,
+                                         settings.segmentsWidth,
+                                         settings.segmentsHeight),
                 new THREE.MeshLambertMaterial({ opacity: 0, transparent: true }));
         sphere.material.color.setRGB(color.r, color.g, color.b);
         sphere.castShadow = true;
@@ -233,6 +237,7 @@ ROOM3.Room.prototype = {
             radius: Math.random() * 5 + 1,
             height: Math.random() * 10 + 1,
             color: ROOM3.getRandomColorName(),
+            segmentsRadius: 50,
             position: {
                 x: Math.random() * 50 - 25,
                 y: 20,
@@ -245,7 +250,8 @@ ROOM3.Room.prototype = {
         var cylinder = new THREE.Mesh(
                 new THREE.CylinderGeometry(settings.radius,
                                            settings.radius,
-                                           settings.height),
+                                           settings.height,
+                                           settings.segmentsRadius),
                 new THREE.MeshLambertMaterial({ opacity: 0, transparent: true }));
         cylinder.material.color.setRGB(color.r, color.g, color.b);
         cylinder.castShadow = true;
