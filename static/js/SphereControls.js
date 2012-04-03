@@ -22,6 +22,11 @@ THREE.SphereControls = function ( object, domElement, radius, theta, phi ) {
 	
 	this.onMouseDown = function( event ) {
 
+        // only move camera if the ctrl key is pressed
+        if (!event.ctrlKey) {
+            return;
+        }
+
 		event.preventDefault();
 
 		this.isMouseDown = true;
