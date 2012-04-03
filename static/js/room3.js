@@ -7,7 +7,7 @@ ROOM3.Room = function (container) {
 
     this.init = function (options) {
         var settings = $.extend(true, {
-            width: window.innerWidth,
+            width: window.innerWidth - 50,
             height: window.innerHeight,
             renderer: {
                 antialias: true,
@@ -16,7 +16,7 @@ ROOM3.Room = function (container) {
             },
             camera: {
                 fov: 45,
-                aspect: window.innerWidth / window.innerHeight,
+                aspect: (window.innerWidth-50) / (window.innerHeight),
                 near: 1,
                 far: 1000,
                 position: { x: 60, y: 50, z: 60 }
@@ -66,7 +66,10 @@ ROOM3.Room = function (container) {
         this.scene.add(camera);
         this.camera = camera;
 
-        this.controls = new THREE.SphereControls(this.camera, this.container[0], 100);
+        this.projector = new THREE.Projector();
+        this.controls = new THREE.SphereControls(this.camera,
+                                                 this.container[0],
+                                                 100);
 
         // add a light
         var light = new THREE.DirectionalLight(settings.light.color);
@@ -84,10 +87,11 @@ ROOM3.Room = function (container) {
         this.light = light;
 
         // ground
-        var ground = new THREE.Mesh(new THREE.PlaneGeometry(settings.ground.width, settings.ground.height),
-                                    new THREE.MeshLambertMaterial({
-                                        color: settings.ground.color
-                                    }));
+        var ground = new THREE.Mesh(
+                new THREE.PlaneGeometry(settings.ground.width,
+                                        settings.ground.height),
+                new THREE.MeshLambertMaterial({color:settings.ground.color})
+        );
         ground.receiveShadow = settings.ground.receiveShadow;
         ground.rotation.x = -Math.PI / 2;
         this.scene.add(ground);
@@ -109,9 +113,10 @@ ROOM3.Room = function (container) {
         this.world = world;
 
         // ground physics
-        var groundShape = new Ammo.btBoxShape(new Ammo.btVector3(settings.ground.width/2,
-                                                                 1,
-                                                                 settings.ground.height/2));
+        var groundShape = new Ammo.btBoxShape(
+                new Ammo.btVector3(settings.ground.width/2,
+                                   1,
+                                   settings.ground.height/2));
         var groundTransform = new Ammo.btTransform();
         groundTransform.setIdentity();
         groundTransform.setOrigin(new Ammo.btVector3(0, -1, 0));
@@ -125,6 +130,48 @@ ROOM3.Room = function (container) {
         var groundAmmo = new Ammo.btRigidBody(rbInfo);
         this.world.addRigidBody(groundAmmo);
     };
+
+    var that = this;
+    var object_data = $('#object_data').dialog({
+        autoOpen: false,
+        close: function () {
+            $(this).html('');
+        }
+    });
+    $(this.container).click(function (e) {
+        if (e.ctrlKey) return;
+        if (that.objects.length === 0) return;
+        e.preventDefault();
+        // mouse coordinates relative to container
+        var x = e.clientX - this.offsetLeft;
+        var y = e.clientY - this.offsetTop;
+        var width = that.container.width();
+        var height = that.container.height();
+        // normalized device coordinates
+        var vector = new THREE.Vector3(x/width*2-1, -y/height*2+1);
+        var ray = that.projector.pickingRay(vector, that.camera);
+        // FIXME we shouldn't have to build this array every time
+        var objects = [];
+        for (var i in that.objects) {
+            objects.push(that.objects[i].mesh);
+        }
+        var intersects = ray.intersectObjects(objects);
+        if (intersects.length > 0) {
+            var idx = $.inArray(intersects[0].object, objects);
+            var shape, m = objects[idx];
+            if (m.geometry.constructor === THREE.CubeGeometry) {
+                shape = 'cube';
+            } else if (m.geometry.constructor === THREE.SphereGeometry) {
+                shape = 'sphere';
+            } else if (m.geometry.constructor === THREE.CylinderGeometry) {
+                shape = 'cylinder';
+            }
+            object_data.html('index: ' + idx + '<br>' +
+                             'shape: ' + shape + '<br>' +
+                             'color: ' + that.objects[idx].settings.color);
+            object_data.dialog('open');
+        }
+    });
 
     return this;
 };
