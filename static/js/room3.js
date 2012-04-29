@@ -39,6 +39,8 @@ ROOM3.Room = function (container) {
             }
         }, options);
 
+        this.animate_objects = true;
+
         // create renderer
         var renderer = new THREE.WebGLRenderer({
             preserveDrawingBuffer: true,  // required for taking screenshots
@@ -337,6 +339,10 @@ ROOM3.Room.prototype = {
     },
 
     updateObjects: function () {
+        if (!this.animate_objects) {
+            return;
+        }
+
         this.world.stepSimulation(1/60, 5);
         var transform = new Ammo.btTransform();
 
@@ -457,5 +463,58 @@ ROOM3.Room.prototype = {
             });
         }
         return JSON.stringify(data, null, 4);
+    },
+
+    emptyScene: function () {
+        for (var i in this.objects) {
+            var o = this.objects[i];
+            this.world.removeRigidBody(o);
+            this.scene.remove(o.mesh);
+        }
+        this.objects = [];
+    },
+
+    loadData: function (data) {
+        this.animate_objects = false;
+        this.emptyScene();
+
+        // reset controls
+        this.controls.theta = 45;
+        this.controls.phi = 45;
+
+        // reset camera
+        var camera = data[0];
+        this.camera.near = camera.near;
+        this.camera.far = camera.far;
+        this.camera.fov = camera.fov;
+        this.camera.position.set(camera.position.x,
+                                 camera.position.y,
+                                 camera.position.z);
+        this.camera.lookAt(new THREE.Vector3(0,0,0));
+        this.camera.updateMatrix();
+
+        // reset objects
+        for (var i = 1; i < data.length; i++) {
+            var o = data[i];
+            if (o.type === "cube") {
+                this.addBox(o.settings);
+            }
+            else if (o.type === "cylinder") {
+                this.addCylinder(o.settings);
+            }
+            else if (o.type === "sphere") {
+                this.addSphere(o.settings);
+            }
+
+            var mesh = this.objects[i-1].mesh;
+            mesh.position.x = o.position.x;
+            mesh.position.y = o.position.y;
+            mesh.position.z = o.position.z;
+
+            mesh.quaternion.x = o.quaternion.x;
+            mesh.quaternion.y = o.quaternion.y;
+            mesh.quaternion.z = o.quaternion.z;
+            mesh.quaternion.w = o.quaternion.w;
+        }
     }
 }

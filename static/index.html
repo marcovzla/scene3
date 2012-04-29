@@ -21,8 +21,12 @@
                 room.animate();
                 //randomScene(10);
 
-                $('button').click(function () {
+                $('button#save').click(function () {
                     $('#save_snapshot').dialog('open');
+                });
+
+                $('button#load').click(function () {
+                    $('#load_scene').dialog('open');
                 });
 
                 $('#save_snapshot').dialog({
@@ -49,6 +53,28 @@
                         $('#name').val('');
                     }
                 });
+
+                $('#load_scene').dialog({
+                    autoOpen: false,
+                    height: 300,
+                    width: 350,
+                    modal: true,
+                    buttons: {
+                        ok: function () {
+                            var sid = $('#sid').val();
+                            $.getJSON('/static/scenes/' + sid + '/data.json', function (data) {
+                                room.loadData(data);
+                            });
+                            $(this).dialog('close');
+                        },
+                        cancel: function () {
+                            $(this).dialog('close');
+                        }
+                    },
+                    close: function () {
+                        $('#sid').val('');
+                    }
+                });
             });
 
             var randomScene = function (n) {
@@ -66,13 +92,22 @@
         </script>
     </head>
     <body>
-        <button>save scene</button>
+        <button id="save">save scene</button>
+        <button id="load">load scene</button>
         <div id="viewport"></div>
         <div id="save_snapshot" title="save snapshot" style="display:none">
             <form>
                 <fieldset>
                     <label for="name">name</label>
                     <input type="text" name="name" id="name" class="text ui-widget-content ui-corner-all" />
+                </fieldset>
+            </form>
+        </div>
+        <div id="load_scene" title="load scene" style="display:none">
+            <form>
+                <fieldset>
+                    <label for="sid">sid</label>
+                    <input type="text" name="sid" id="sid" class="text ui-widget-content ui-corner-all" />
                 </fieldset>
             </form>
         </div>

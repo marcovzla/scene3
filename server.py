@@ -26,7 +26,7 @@ def save_scene():
     match = re.search(r'^data:(?P<mimetype>[^;]+);base64,(?P<data>.+)$', dataurl)
     if match:
         # create directory to store scene
-        dirname = abspath('scenes', name)
+        dirname = abspath('static', 'scenes', name)
         if not os.path.exists(dirname):
             os.makedirs(dirname)
 
