@@ -1,3 +1,11 @@
+var _startX = 0;            // mouse starting positions
+var _startY = 0;
+var _offsetX = 0;           // current element offset
+var _offsetY = 0;
+var _dragElement;           // needs to be passed from OnMouseDown to OnMouseMove
+var _oldZIndex = 0;         // we temporarily increase the z-index during drag
+var _debug = $('debug');    // post results into div with id debug if it exists
+
 InitDragDrop();
 
 function InitDragDrop()
@@ -69,6 +77,18 @@ function OnMouseMove(e)
         _dragElement.style.top + ')';   
 }
 
+function show_dialog(str)
+{
+    var object_data = $('#object_data').dialog({
+        autoOpen: false,
+        close: function () {
+            $(this).html('');
+        }
+    });
+    object_data.html(str);
+    object_data.dialog('open');
+}
+
 function OnMouseUp(e)
 {
     if (_dragElement != null)
@@ -79,6 +99,10 @@ function OnMouseUp(e)
         var offset_x = viewport.offsetLeft;
         var offset_y = viewport.offsetTop;
         var object = room.objectAt(e.clientX - offset_x, e.clientY - offset_y);
+        if (object != undefined) {
+            // temp for demonstration
+            show_dialog(object);
+        }
 
         // we're done with these events until the next OnMouseDown
         document.onmousemove = null;
@@ -99,8 +123,13 @@ function ExtractNumber(value)
     return n == null || isNaN(n) ? 0 : n;
 }
 
-// this is simply a shortcut for the eyes and fingers
-//function $(id)
-//{
-//    return document.getElementById(id);
-//}
+function load_string(str)
+{
+    sub_strings = str.split(/\s+/g);
+    console.log(sub_strings);
+
+    for (var i = 0; i < sub_strings.length; i++){ 
+        console.log(sub_strings[i]);
+        $("#word_box").append("<div class=\"drag\">" + sub_strings[i] + "</div>");
+    } 
+}
