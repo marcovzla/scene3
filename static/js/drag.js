@@ -108,7 +108,7 @@ function OnMouseUp(e)
         document.onmousemove = null;
         document.onselectstart = null;
         _dragElement.ondragstart = null;
-
+        $(_dragElement).hide();
         // this is how we know we're not dragging      
         _dragElement = null;
         
@@ -132,4 +132,9 @@ function load_string(str)
         console.log(sub_strings[i]);
         $("#word_box").append("<div class=\"drag\">" + sub_strings[i] + "</div>");
     } 
+}
+
+function clear_words()
+{
+    $(".drag").remove();
 }
