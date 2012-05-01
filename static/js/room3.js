@@ -152,7 +152,6 @@ ROOM3.Room = function (container) {
             objects.push(that.objects[i].mesh);
         }
         var intersects = ray.intersectObjects(objects);
-        console.log(intersects);
         if (intersects.length > 0) {
             return $.inArray(intersects[0].object, objects);
         }
@@ -165,7 +164,6 @@ ROOM3.Room = function (container) {
         // mouse coordinates relative to container
         var x = e.clientX - this.offsetLeft;
         var y = e.clientY - this.offsetTop;
-        console.log(x + ", " + y);
         var width = that.container.width();
         var height = that.container.height();
         // normalized device coordinates

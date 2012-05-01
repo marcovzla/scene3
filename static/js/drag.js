@@ -74,13 +74,11 @@ function OnMouseUp(e)
     if (_dragElement != null)
     {
         _dragElement.style.zIndex = _oldZIndex;
-        _dragElement.innerHTML = "" + e.clientX + ", " + e.clientY;
         
         var viewport = document.getElementById("viewport");
-        console.log(viewport);
         var offset_x = viewport.offsetLeft;
         var offset_y = viewport.offsetTop;
-        console.log(room.objectAt(e.clientX - offset_x, e.clientY - offset_y));
+        var object = room.objectAt(e.clientX - offset_x, e.clientY - offset_y);
 
         // we're done with these events until the next OnMouseDown
         document.onmousemove = null;
