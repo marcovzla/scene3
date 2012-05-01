@@ -4,6 +4,9 @@
         <meta charset="utf-8">
         <title>room</title>
         <link rel="stylesheet" type="text/css" href="css/ui-lightness/jquery-ui-1.8.18.custom.css" />
+        <style type="text/css">
+            .drag {border: 1px solid black; background-color: rgb(240, 240, 240); position: relative; padding: 0.5em; margin: 0 0 0.5em 1.5em; cursor: move;}
+        </style>
         <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
         <script type="text/javascript" src="js/jquery-ui-1.8.18.custom.min.js"></script>
         <script type="text/javascript" src="js/Three.js"></script>
@@ -13,8 +16,17 @@
         <script type="text/javascript" src="js/json2.js"></script>
         <script type="text/javascript" src="js/colors.js"></script>
         <script type="text/javascript" src="js/room3.js"></script>
+        <script type="text/javascript" src="js/drag.js"></script>
         <script type="text/javascript">
             var room;
+
+            var _startX = 0;            // mouse starting positions
+            var _startY = 0;
+            var _offsetX = 0;           // current element offset
+            var _offsetY = 0;
+            var _dragElement;           // needs to be passed from OnMouseDown to OnMouseMove
+            var _oldZIndex = 0;         // we temporarily increase the z-index during drag
+            var _debug = $('debug');    // makes life easier
             $(document).ready(function () {
                 room = new ROOM3.Room($('#viewport'));
                 room.init();
@@ -94,6 +106,8 @@
     <body>
         <button id="save">save scene</button>
         <button id="load">load scene</button>
+        <div class="drag">Test1</div>
+        <div class="drag">Test2</div>
         <div id="viewport"></div>
         <div id="save_snapshot" title="save snapshot" style="display:none">
             <form>

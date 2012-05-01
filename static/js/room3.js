@@ -140,6 +140,24 @@ ROOM3.Room = function (container) {
             $(this).html('');
         }
     });
+    this.objectAt = function(x, y) {
+        var width = that.container.width();
+        var height = that.container.height();
+        // normalized device coordinates
+        var vector = new THREE.Vector3(x/width*2-1, -y/height*2+1);
+        var ray = that.projector.pickingRay(vector, that.camera);
+        // FIXME we shouldn't have to build this array every time
+        var objects = [];
+        for (var i in that.objects) {
+            objects.push(that.objects[i].mesh);
+        }
+        var intersects = ray.intersectObjects(objects);
+        console.log(intersects);
+        if (intersects.length > 0) {
+            return $.inArray(intersects[0].object, objects);
+        }
+        
+    };
     $(this.container).click(function (e) {
         if (e.ctrlKey) return;
         if (that.objects.length === 0) return;
@@ -147,6 +165,7 @@ ROOM3.Room = function (container) {
         // mouse coordinates relative to container
         var x = e.clientX - this.offsetLeft;
         var y = e.clientY - this.offsetTop;
+        console.log(x + ", " + y);
         var width = that.container.width();
         var height = that.container.height();
         // normalized device coordinates
