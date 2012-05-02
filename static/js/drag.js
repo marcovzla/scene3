@@ -7,6 +7,9 @@ var _wordsSelectedMask = [];
 var _dragElements = []; // so we don't have to iterate through wordsSelectedMask every time the mouse moves
 var _dragElementsOffsets = [];
 
+var _responses = [];
+var _currentResponseIndex = -1;
+
 UNSELECTED_BORDER = "1px solid black"
 SELECTED_BORDER   = "1px solid yellow"
 
@@ -42,7 +45,7 @@ function OnMouseDown(e)
         // toggle selection status of target
         var target_index = 0;
         for (; target_index < _words.length; target_index++) {
-            console.log("" + target_index + " " + target + " " + _words[target_index].div);
+            //console.log("" + target_index + " " + target + " " + _words[target_index].div);
             if (target == _words[target_index].div) {
                 break;
             }
@@ -68,7 +71,7 @@ function OnMouseDown(e)
             if (_wordsSelectedMask[i])
             {
                 _dragElements.push(_words[i].div);
-                console.log($(_words[i].div).offset());
+                //console.log($(_words[i].div).offset());
                 _dragElementsOffsets.push($(_words[i].div).offset());
             }
         }
@@ -143,7 +146,6 @@ function OnMouseUp(e)
                 {
                     //$(_words[i].div).hide();
                     // unselect element
-                    _wordsSelectedMask[i] = false;
                     $(_words[i].div).css("background-color", color);
                     _words[i].binding = idx
                 }
@@ -158,6 +160,10 @@ function OnMouseUp(e)
         _dragElements = [];
         _dragElementsOffsets = [];
 
+        // unselect words
+        for (var i = 0; i < _wordsSelectedMask.length; i++) {
+            _wordsSelectedMask[i] = false;
+        };
         // we're done with these events until the next OnMouseDown
         document.onmousemove = null;
         document.onselectstart = null;
@@ -174,23 +180,42 @@ function ExtractNumber(value)
 function load_string(str)
 {
     clear_words();
-    sub_strings = str.match(/\w+/g);
+    $('#response_display').text(str);
+    sub_strings = str.match(/[\w']+/g);
 
     for (var i = 0; i < sub_strings.length; i++){ 
-        console.log(sub_strings[i]);
+        //console.log(sub_strings[i]);
         var newDivs = $('<div class="drag">' + sub_strings[i] + "</div>"); // there will only be one created
         $("#word_box").append(newDivs);
         var word = new Word(sub_strings[i], newDivs.offset(), newDivs[0]);
         _words.push(word);
         _wordsSelectedMask.push(false);
     } 
-    console.log(_words);
+    //console.log(_words);
+}
+
+function load_responses(responses)
+{
+    for (var i = 0; i < responses.length; i++) {
+        _responses.push(responses[i]);
+    };
+}
+
+function load_response_index(i)
+{
+    if (_responses.length > i) 
+    {
+        _currentResponseIndex = i;
+        load_string(_responses[i]);
+        $("#count_remaining").text("response " + (_currentResponseIndex + 1) + " of " + _responses.length);
+    }
 }
 
 function clear_words()
 {
     // clear divs
     $(".drag").remove();
+    $('#response_display').text("");
 
     // clear arrays
     _words = [];

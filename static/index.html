@@ -70,6 +70,9 @@
                             $.getJSON('/static/scenes/' + sid + '/data.json', function (data) {
                                 room.loadData(data);
                             });
+                            $.getJSON('/static/scenes/' + sid + '/responses.json', function (data) {
+                                room.loadData(data);
+                            });
                             $(this).dialog('close');
                         },
                         cancel: function () {
@@ -99,6 +102,8 @@
     <body>
         <button id="save">save scene</button>
         <button id="load">load scene</button>
+        <div id="count_remaining"></div>
+        <div id="response_display"></div>
         <div id="word_box"> </div>
         <div id="viewport"></div>
         <div id="save_snapshot" title="save snapshot" style="display:none">
