@@ -153,7 +153,17 @@ ROOM3.Room = function (container) {
         }
         var intersects = ray.intersectObjects(objects);
         if (intersects.length > 0) {
-            return $.inArray(intersects[0].object, objects);
+            var idx = $.inArray(intersects[0].object, objects);
+            var shape, m = objects[idx];
+            if (m.geometry.constructor === THREE.CubeGeometry) {
+                shape = 'cube';
+            } else if (m.geometry.constructor === THREE.SphereGeometry) {
+                shape = 'sphere';
+            } else if (m.geometry.constructor === THREE.CylinderGeometry) {
+                shape = 'cylinder';
+            }
+            var color = that.objects[idx].settings.color;
+            return [idx, shape, color];
         }
         
     };
