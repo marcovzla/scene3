@@ -50,10 +50,11 @@ def save_responses():
     if not os.path.exists(dirname):
         os.makedirs(dirname)
 
-        # save response data
-        dataname = os.path.join(dirname, 'responses.json')
-        with open(dataname, 'wb') as datafile:
-            datafile.write(response_data)
+    # save response data
+    dataname = os.path.join(dirname, 'responses.json')
+    with open(dataname, 'wb') as datafile:
+        datafile.write(response_data)
+
 
 if __name__ == '__main__':
     mimetypes.init()

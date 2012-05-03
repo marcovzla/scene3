@@ -1,13 +1,12 @@
 var _startX = 0;            // mouse starting positions
 var _startY = 0;
 
-var _words = [];
-var _wordsSelectedMask = [];
-
 var _dragElements = []; // so we don't have to iterate through wordsSelectedMask every time the mouse moves
 var _dragElementsOffsets = [];
 
 var _responses = [];
+var _wordsSelectedMask = [];
+
 var _currentResponseIndex = -1;
 
 var _sequence = 0;
@@ -19,12 +18,14 @@ UNBOUND_BACKGROUND = "rgb(240, 240, 240)";
 
 InitDragDrop();
 
+/*
 function Word(text, base_offset, div, binding) {
     this.text = text;
     this.base_offset = base_offset;
     this.div = div;
     this.binding = binding;
 }
+*/
 
 function InitDragDrop()
 {
@@ -47,6 +48,8 @@ function OnMouseDown(e)
     
     // IE uses srcElement, others use target
     var target = e.target != null ? e.target : e.srcElement;
+
+    var word_list = _responses[_currentResponseIndex].word_list;
     
     // for IE, left click == 1
     // for Firefox, left click == 0
@@ -54,35 +57,35 @@ function OnMouseDown(e)
     {
         // toggle selection status of target
         var target_index = 0;
-        for (; target_index < _words.length; target_index++) {
+        for (; target_index < word_list.length; target_index++) {
             //console.log("" + target_index + " " + target + " " + _words[target_index].div);
-            if (target == _words[target_index].div) {
+            if (target == _responses[_currentResponseIndex].word_list[target_index].div) {
                 break;
             }
         }
-        if (target_index >= _words.length) {
+        if (target_index >= word_list.length) {
             console.log("target " + target + " not found in _words");
             return false;
         } 
         if (_wordsSelectedMask[target_index]) { // selected
             _wordsSelectedMask[target_index] = false;
-            $(_words[target_index].div).css("border", UNSELECTED_BORDER);
+            $(word_list[target_index].div).css("border", UNSELECTED_BORDER);
             
         } else { // not selected
             _wordsSelectedMask[target_index] = true;
-            $(_words[target_index].div).css("border", SELECTED_BORDER);
+            $(word_list[target_index].div).css("border", SELECTED_BORDER);
         }
     } else if ((e.button == 1 && window.event != null || 
         e.button == 0) && 
         target.className == 'drag')
     {
         // build the array of dragElements
-        for (var i = 0; i < _words.length; i++) {
+        for (var i = 0; i < word_list.length; i++) {
             if (_wordsSelectedMask[i])
             {
-                _dragElements.push(_words[i].div);
+                _dragElements.push(word_list[i].div);
                 //console.log($(_words[i].div).offset());
-                _dragElementsOffsets.push($(_words[i].div).offset());
+                _dragElementsOffsets.push($(word_list[i].div).offset());
             }
         }
         // grab the mouse position
@@ -147,17 +150,28 @@ function OnMouseUp(e)
         var offset_x = viewport.offsetLeft;
         var offset_y = viewport.offsetTop;
         var lst = room.objectAt(e.clientX - offset_x, e.clientY - offset_y);
+
+        var word_list = _responses[_currentResponseIndex].word_list;
         if (lst != undefined && lst[0] != undefined) {
             var idx = lst[0];
             var shape = lst[1];
             var color = lst[2];
-            for (var i = 0; i < _words.length; i++) {
+            for (var i = 0; i < word_list.length; i++) {
                 if (_wordsSelectedMask[i]) 
                 {
                     //$(_words[i].div).hide();
-                    _words[i].binding = idx
+                    word_list[i].object_binding = idx
                 }
             };
+        } else {
+            /*
+            for (var i = 0; i < word_list.length; i++) {
+                if (_wordsSelectedMask[i]) 
+                {
+                    delete word_list.object_binding
+                }
+            };
+            */
         }
         // repos drag elements
         for (var i = 0; i < _dragElements.length; i++) {
@@ -189,23 +203,6 @@ function ExtractNumber(value)
     return n == null || isNaN(n) ? 0 : n;
 }
 
-function load_words(str, word_arr)
-{
-    clear_words();
-    $('#response_display').text(str);
-    for (var i = 0; i < word_arr.length; i++){ 
-        //console.log(sub_strings[i]);
-        var newDivs = $('<div class="drag">' + word_arr[i].word + "</div>"); // there will only be one created
-        $("#word_box").append(newDivs);
-        var binding = (word_arr[i].object_binding == undefined) ? -1 : word_arr[i].object_binding;
-        var word = new Word(word_arr[i].word, newDivs.offset(), newDivs[0], binding);
-        _words.push(word);
-        _wordsSelectedMask.push(false);
-    } 
-    //console.log(_words);
-    update_div_colors();
-}
-
 function clear_words()
 {
     // clear divs
@@ -213,7 +210,6 @@ function clear_words()
     $('#response_display').text("");
 
     // clear arrays
-    _words = [];
     _wordsSelectedMask = [];
 
     _dragElements = []; 
@@ -222,14 +218,19 @@ function clear_words()
 
 function save_responses()
 {
-    response_data = [];
-    $.post('/savescene', {
-        sequence: _sequence
-        dataurl: dataurl,
-    data: room.toJSON()
+    lean_responses = $.extend(true, [], _responses);
+    for (var i = 0; i < lean_responses.length; i++) {
+        word_list = lean_responses[i].word_list;
+        for (var j = 0; j < word_list.length; j++) {
+            delete word_list[j].div
+            delete word_list[j].offset
+        };
+    };
+    $.post('/saveresponses', {
+        sequence: _sequence,
+        scene: _scene,
+        response_data: JSON.stringify(lean_responses, null, 4)
     });
-        $(this).dialog('close');
-    }
 }
 
 function load_responses(sequence, scene, responses_json)
@@ -246,7 +247,21 @@ function load_response_index(i)
     {
         _currentResponseIndex = i;
         var response = _responses[i];
-        load_words(response.string, response.word_list);
+        clear_words();
+        $('#response_display').text(response.string);
+
+        var word_list = response.word_list;
+        for (var i = 0; i < word_list.length; i++){ 
+            //console.log(sub_strings[i]);
+            var newDivs = $('<div class="drag">' + word_list[i].word + "</div>"); // there will only be one created
+            word_list[i].offset = newDivs.offset();
+            word_list[i].div = newDivs[0];
+            $("#word_box").append(newDivs);
+            _wordsSelectedMask.push(false);
+        } 
+
+        update_div_colors();
+
         $("#count_remaining").text("response " + (_currentResponseIndex + 1) + " of " + _responses.length);
     }
     update_movement_buttons();
@@ -270,21 +285,21 @@ function previous_response()
 
 function update_div_colors()
 {
-    for (var i = 0; i < _words.length; i++) {
-        var binding = _words[i].binding;
-        if (binding > -1) 
+    word_list = _responses[_currentResponseIndex].word_list;
+    for (var i = 0; i < word_list.length; i++) {
+        var binding = word_list[i].object_binding;
+        if (binding != undefined)
         {
             if (binding > room.objects.length) {
                 console.log("invalid binding " + binding);
             } else {
                 var color = room.objects[binding].settings.color;
-                $(_words[i].div).css("background-color", color);
+                $(word_list[i].div).css("background-color", color);
             }
         }
         else // unbound
         {
-            $(_words[i].div).css("background-color", UNBOUND_BACKGROUND);
+            $(word_list[i].div).css("background-color", UNBOUND_BACKGROUND);
         }
     };
-
 }
