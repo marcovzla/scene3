@@ -46,12 +46,10 @@ function OnKeyUp(e)
 {
     if (e.keycode == 46) // delete
     {
-        console.log("delete")
         var word_list = _responses[_currentResponseIndex].word_list;
         for (var i = 0; i < word_list.length; i++) {
             if (_wordsSelectedMask[i])
             {
-                console.log(i);
                 delete word_list[i].object_binding
             };
         };
@@ -111,8 +109,8 @@ function OnMouseDown(e)
             }
         }
         // grab the mouse position
-        _startX = e.clientX;
-        _startY = e.clientY;
+        _startX = e.pageX;
+        _startY = e.pageY;
 
         // bring the clicked element to the front while it is being dragged
         //_oldZIndex = target.style.zIndex;
@@ -139,15 +137,14 @@ function OnMouseDown(e)
 
 function OnMouseMove(e)
 {
-    console.log(_dragElementsOffsets);
     if (e == null) 
         var e = window.event; 
 
     for (var i = 0; i < _dragElements.length; i++) {
         var init_offset = _dragElementsOffsets[i];
         var new_pos = {};
-        new_pos.left = init_offset.left + e.clientX - _startX;
-        new_pos.top = init_offset.top + e.clientY - _startY;
+        new_pos.left = init_offset.left + e.pageX - _startX;
+        new_pos.top = init_offset.top + e.pageY - _startY;
         $(_dragElements[i]).offset(new_pos);
     };
 }
@@ -172,7 +169,7 @@ function OnMouseUp(e)
         var viewport = document.getElementById("viewport");
         var offset_x = viewport.offsetLeft;
         var offset_y = viewport.offsetTop;
-        var lst = room.objectAt(e.clientX - offset_x, e.clientY - offset_y);
+        var lst = room.objectAt(e.pageX - offset_x, e.pageY - offset_y);
 
         var word_list = _responses[_currentResponseIndex].word_list;
         if (lst != undefined && lst[0] != undefined) {
@@ -190,7 +187,7 @@ function OnMouseUp(e)
             for (var i = 0; i < word_list.length; i++) {
                 if (_wordsSelectedMask[i]) 
                 {
-                    delete word_list.object_binding;
+                    delete word_list[i].object_binding;
                 }
             };
         }
