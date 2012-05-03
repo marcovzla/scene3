@@ -29,6 +29,7 @@
                 $('button#save').click(save_responses);
 
                 $('button#load').click(function () {
+                    //disable_user_input();
                     $('#load_scene').dialog('open');
                 });
                 
@@ -75,6 +76,7 @@
                             $.getJSON('/static/scenes/' + sequence + '/' + scene + '/data.json', function (data) {
                                 room.loadData(data);
                             });
+                            // json request with date and time appended to prevent caching
                             $.getJSON('/static/scenes/' + sequence + '/' + scene + '/responses.json?' + new Date().getTime(), function (data) {
                                 load_responses(sequence, scene, data);
                                 $('#save').attr('disabled', false);
@@ -86,6 +88,7 @@
                         }
                     },
                     close: function () {
+                        //enable_user_input();
                         $('#sid').val('');
                     }
                 });

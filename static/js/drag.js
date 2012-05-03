@@ -16,7 +16,7 @@ UNSELECTED_BORDER = "1px solid black";
 SELECTED_BORDER   = "1px solid yellow";
 UNBOUND_BACKGROUND = "rgb(240, 240, 240)";
 
-InitDragDrop();
+enable_user_input();
 
 /*
 function Word(text, base_offset, div, binding) {
@@ -27,17 +27,39 @@ function Word(text, base_offset, div, binding) {
 }
 */
 
-function InitDragDrop()
+function enable_user_input()
 {
     document.onmousedown = OnMouseDown;
     document.onmouseup = OnMouseUp;
+    document.onkeyup = OnKeyUp;
 }
 
 
-function DisableDragDrop()
+function disable_user_input()
 {
     document.onmousedown = null;
     document.onmouseup = null;
+    document.onkeyup = null;
+}
+
+function OnKeyUp(e)
+{
+    if (e.keycode == 46) // delete
+    {
+        console.log("delete")
+        var word_list = _responses[_currentResponseIndex].word_list;
+        for (var i = 0; i < word_list.length; i++) {
+            if (_wordsSelectedMask[i])
+            {
+                console.log(i);
+                delete word_list[i].object_binding
+            };
+        };
+
+    }
+
+    update_div_colors();
+    return true;
 }
 
 function OnMouseDown(e)
@@ -85,7 +107,7 @@ function OnMouseDown(e)
             {
                 _dragElements.push(word_list[i].div);
                 //console.log($(_words[i].div).offset());
-                _dragElementsOffsets.push($(word_list[i].div).offset());
+                _dragElementsOffsets.push(word_list[i].offset);
             }
         }
         // grab the mouse position
@@ -117,6 +139,7 @@ function OnMouseDown(e)
 
 function OnMouseMove(e)
 {
+    console.log(_dragElementsOffsets);
     if (e == null) 
         var e = window.event; 
 
@@ -164,18 +187,19 @@ function OnMouseUp(e)
                 }
             };
         } else {
-            /*
             for (var i = 0; i < word_list.length; i++) {
                 if (_wordsSelectedMask[i]) 
                 {
-                    delete word_list.object_binding
+                    delete word_list.object_binding;
                 }
             };
-            */
         }
         // repos drag elements
         for (var i = 0; i < _dragElements.length; i++) {
-            $(_dragElements[i]).offset(_dragElementsOffsets[i]);
+            // stupid hack, what is going on with offset?
+            for (var j = 0; j < 4; j++) {
+                $(_dragElements[i]).offset(_dragElementsOffsets[i]);
+            };
             $(_dragElements[i]).css("border", UNSELECTED_BORDER);
         };
 
@@ -254,9 +278,9 @@ function load_response_index(i)
         for (var i = 0; i < word_list.length; i++){ 
             //console.log(sub_strings[i]);
             var newDivs = $('<div class="drag">' + word_list[i].word + "</div>"); // there will only be one created
+            $("#word_box").append(newDivs);
             word_list[i].offset = newDivs.offset();
             word_list[i].div = newDivs[0];
-            $("#word_box").append(newDivs);
             _wordsSelectedMask.push(false);
         } 
 
