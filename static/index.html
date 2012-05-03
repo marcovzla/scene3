@@ -75,7 +75,7 @@
                             $.getJSON('/static/scenes/' + sequence + '/' + scene + '/data.json', function (data) {
                                 room.loadData(data);
                             });
-                            $.getJSON('/static/scenes/' + sequence + '/' + scene + '/responses.json', function (data) {
+                            $.getJSON('/static/scenes/' + sequence + '/' + scene + '/responses.json?' + new Date().getTime(), function (data) {
                                 load_responses(sequence, scene, data);
                                 $('#save').attr('disabled', false);
                             });
