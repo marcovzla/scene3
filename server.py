@@ -40,6 +40,21 @@ def save_scene():
         with open(dataname, 'wb') as datafile:
             datafile.write(data)
 
+@post('/saveresponses')
+def save_responses():
+    sequence = request.POST.get('sequence').strip()
+    scene = request.POST.get('scene').strip()
+    response_data = request.POST.get('response_data').strip()
+    # create directory to store scene
+    dirname = abspath('static', 'scenes', sequence, scene)
+    if not os.path.exists(dirname):
+        os.makedirs(dirname)
+
+        # save response data
+        dataname = os.path.join(dirname, 'responses.json')
+        with open(dataname, 'wb') as datafile:
+            datafile.write(response_data)
+
 if __name__ == '__main__':
     mimetypes.init()
     run(host='localhost', port=8080)

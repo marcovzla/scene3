@@ -5,7 +5,7 @@
         <title>room</title>
         <link rel="stylesheet" type="text/css" href="css/ui-lightness/jquery-ui-1.8.18.custom.css" />
         <style type="text/css">
-            .drag {display: inline-block; border: 1px solid black; background-color: rgb(240, 240, 240); position: relative; padding: 0.2em; margin: 0 0 0.5em 0.5em; cursor: move;}
+            .drag {display: inline-block; border: 1px solid black;  position: relative; padding: 0.2em; margin: 0 0 0.5em 0.5em; cursor: move;}
         </style>
         <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
         <script type="text/javascript" src="js/jquery-ui-1.8.18.custom.min.js"></script>
@@ -26,14 +26,17 @@
                 room.animate();
                 //randomScene(10);
 
-                $('button#save').click(function () {
-                    $('#save_snapshot').dialog('open');
-                });
+                $('button#save').click(save_responses);
 
                 $('button#load').click(function () {
                     $('#load_scene').dialog('open');
                 });
+                
+                $('button#next').click(next_response);
 
+                $('button#previous').click(previous_response);
+
+                /*
                 $('#save_snapshot').dialog({
                     autoOpen: false,
                     height: 300,
@@ -58,6 +61,7 @@
                         $('#name').val('');
                     }
                 });
+                */
 
                 $('#load_scene').dialog({
                     autoOpen: false,
@@ -66,12 +70,14 @@
                     modal: true,
                     buttons: {
                         ok: function () {
-                            var sid = $('#sid').val();
-                            $.getJSON('/static/scenes/' + sid + '/data.json', function (data) {
+                            var sequence = $('#sequence').val();
+                            var scene = $('#scene').val();
+                            $.getJSON('/static/scenes/' + sequence + '/' + scene + '/data.json', function (data) {
                                 room.loadData(data);
                             });
-                            $.getJSON('/static/scenes/' + sid + '/responses.json', function (data) {
-                                room.loadData(data);
+                            $.getJSON('/static/scenes/' + sequence + '/' + scene + '/responses.json', function (data) {
+                                load_responses(sequence, scene, data);
+                                $('#save').attr('disabled', false);
                             });
                             $(this).dialog('close');
                         },
@@ -100,12 +106,16 @@
         </script>
     </head>
     <body>
-        <button id="save">save scene</button>
-        <button id="load">load scene</button>
-        <div id="count_remaining"></div>
+        <label>Scenes</label>
+        <button id="load">load</button>
+        <button id="save" disabled>save</button> 
+        <div id="count_remaining">No scene loaded</div>
+        <button id="previous" disabled><--</button>
+        <button id="next" disabled>--></button>
         <div id="response_display"></div>
         <div id="word_box"> </div>
         <div id="viewport"></div>
+        <!--
         <div id="save_snapshot" title="save snapshot" style="display:none">
             <form>
                 <fieldset>
@@ -114,11 +124,14 @@
                 </fieldset>
             </form>
         </div>
+        -->
         <div id="load_scene" title="load scene" style="display:none">
             <form>
                 <fieldset>
-                    <label for="sid">sid</label>
-                    <input type="text" name="sid" id="sid" class="text ui-widget-content ui-corner-all" />
+                    <label for="sequence">sequence</label>
+                    <input type="text" name="sequence" id="sequence" class="text ui-widget-content ui-corner-all" />
+                    <label for="scene">scene</label>
+                    <input type="text" name="scene" id="scene" class="text ui-widget-content ui-corner-all" />
                 </fieldset>
             </form>
         </div>

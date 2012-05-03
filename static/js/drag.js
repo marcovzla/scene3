@@ -10,17 +10,20 @@ var _dragElementsOffsets = [];
 var _responses = [];
 var _currentResponseIndex = -1;
 
-UNSELECTED_BORDER = "1px solid black"
-SELECTED_BORDER   = "1px solid yellow"
+var _sequence = 0;
+var _scene = 0;
+
+UNSELECTED_BORDER = "1px solid black";
+SELECTED_BORDER   = "1px solid yellow";
+UNBOUND_BACKGROUND = "rgb(240, 240, 240)";
 
 InitDragDrop();
 
-function Word(text, base_offset, div) {
+function Word(text, base_offset, div, binding) {
     this.text = text;
     this.base_offset = base_offset;
     this.div = div;
-
-    this.binding = -1;
+    this.binding = binding;
 }
 
 function InitDragDrop()
@@ -29,9 +32,16 @@ function InitDragDrop()
     document.onmouseup = OnMouseUp;
 }
 
+
+function DisableDragDrop()
+{
+    document.onmousedown = null;
+    document.onmouseup = null;
+}
+
 function OnMouseDown(e)
 {
-    // IE is retarded and doesn't pass the event object
+    // IE doesn't pass the event object
     if (e == null) 
         e = window.event; 
     
@@ -145,8 +155,6 @@ function OnMouseUp(e)
                 if (_wordsSelectedMask[i]) 
                 {
                     //$(_words[i].div).hide();
-                    // unselect element
-                    $(_words[i].div).css("background-color", color);
                     _words[i].binding = idx
                 }
             };
@@ -156,6 +164,10 @@ function OnMouseUp(e)
             $(_dragElements[i]).offset(_dragElementsOffsets[i]);
             $(_dragElements[i]).css("border", UNSELECTED_BORDER);
         };
+
+        // do colors
+        update_div_colors();
+
         // clear drag arrays
         _dragElements = [];
         _dragElementsOffsets = [];
@@ -177,38 +189,21 @@ function ExtractNumber(value)
     return n == null || isNaN(n) ? 0 : n;
 }
 
-function load_string(str)
+function load_words(str, word_arr)
 {
     clear_words();
     $('#response_display').text(str);
-    sub_strings = str.match(/[\w']+/g);
-
-    for (var i = 0; i < sub_strings.length; i++){ 
+    for (var i = 0; i < word_arr.length; i++){ 
         //console.log(sub_strings[i]);
-        var newDivs = $('<div class="drag">' + sub_strings[i] + "</div>"); // there will only be one created
+        var newDivs = $('<div class="drag">' + word_arr[i].word + "</div>"); // there will only be one created
         $("#word_box").append(newDivs);
-        var word = new Word(sub_strings[i], newDivs.offset(), newDivs[0]);
+        var binding = (word_arr[i].object_binding == undefined) ? -1 : word_arr[i].object_binding;
+        var word = new Word(word_arr[i].word, newDivs.offset(), newDivs[0], binding);
         _words.push(word);
         _wordsSelectedMask.push(false);
     } 
     //console.log(_words);
-}
-
-function load_responses(responses)
-{
-    for (var i = 0; i < responses.length; i++) {
-        _responses.push(responses[i]);
-    };
-}
-
-function load_response_index(i)
-{
-    if (_responses.length > i) 
-    {
-        _currentResponseIndex = i;
-        load_string(_responses[i]);
-        $("#count_remaining").text("response " + (_currentResponseIndex + 1) + " of " + _responses.length);
-    }
+    update_div_colors();
 }
 
 function clear_words()
@@ -223,4 +218,73 @@ function clear_words()
 
     _dragElements = []; 
     _dragElementsOffsets = [];
+}
+
+function save_responses()
+{
+    response_data = [];
+    $.post('/savescene', {
+        sequence: _sequence
+        dataurl: dataurl,
+    data: room.toJSON()
+    });
+        $(this).dialog('close');
+    }
+}
+
+function load_responses(sequence, scene, responses_json)
+{
+    _sequence = sequence;
+    _scene = scene;
+    _responses = responses_json;
+    load_response_index(0);
+}
+
+function load_response_index(i)
+{
+    if (_responses.length > i) 
+    {
+        _currentResponseIndex = i;
+        var response = _responses[i];
+        load_words(response.string, response.word_list);
+        $("#count_remaining").text("response " + (_currentResponseIndex + 1) + " of " + _responses.length);
+    }
+    update_movement_buttons();
+}
+
+function update_movement_buttons()
+{
+    $("#next").attr('disabled', _currentResponseIndex >= _responses.length - 1)
+    $("#previous").attr('disabled', _currentResponseIndex <= 0)
+}
+
+function next_response()
+{
+    load_response_index(_currentResponseIndex + 1)
+}
+
+function previous_response()
+{
+    load_response_index(_currentResponseIndex - 1)
+}
+
+function update_div_colors()
+{
+    for (var i = 0; i < _words.length; i++) {
+        var binding = _words[i].binding;
+        if (binding > -1) 
+        {
+            if (binding > room.objects.length) {
+                console.log("invalid binding " + binding);
+            } else {
+                var color = room.objects[binding].settings.color;
+                $(_words[i].div).css("background-color", color);
+            }
+        }
+        else // unbound
+        {
+            $(_words[i].div).css("background-color", UNBOUND_BACKGROUND);
+        }
+    };
+
 }
