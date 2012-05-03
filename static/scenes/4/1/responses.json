@@ -1,0 +1,1328 @@
+[
+{
+"string": "a smaller green block is to the right of the cube",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "smaller"
+},
+{
+"word": "green"
+},
+{
+"word": "block"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "The green block is right of the purple block.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "block"
+},
+{
+"word": "is"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "block"
+}
+]
+},
+{
+"string": "The green object",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "Green box to the right of the purple box.",
+"word_list":
+[
+{
+"word": "Green"
+},
+{
+"word": "box"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "Thinner, green rectangular prism added to the right of the purple box",
+"word_list":
+[
+{
+"word": "Thinner"
+},
+{
+"word": "green"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "Green structure that is thinner and to the right of the purple cube.",
+"word_list":
+[
+{
+"word": "Green"
+},
+{
+"word": "structure"
+},
+{
+"word": "that"
+},
+{
+"word": "is"
+},
+{
+"word": "thinner"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "The green cube was added to the right of the purple cylinder.  The green cube is near the top-center of the plane.  The green cube is a quarter the size of the purple cube.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "cube"
+},
+{
+"word": "was"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+},
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "quarter"
+},
+{
+"word": "the"
+},
+{
+"word": "size"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "there is a purple box above and to the right of center of the grey shape to the right of the purple box there is a green box",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "purple"
+},
+{
+"word": "box"
+},
+{
+"word": "above"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "shape"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "box"
+},
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "a green box, also close to a cube, but this time taller, stationed just southwest of the maroon box, their sides aligned such that the faces would press cleanly were they to be together.",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "box"
+},
+{
+"word": "also"
+},
+{
+"word": "close"
+},
+{
+"word": "to"
+},
+{
+"word": "a"
+},
+{
+"word": "cube"
+},
+{
+"word": "but"
+},
+{
+"word": "this"
+},
+{
+"word": "time"
+},
+{
+"word": "taller"
+},
+{
+"word": "stationed"
+},
+{
+"word": "just"
+},
+{
+"word": "southwest"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "maroon"
+},
+{
+"word": "box"
+},
+{
+"word": "their"
+},
+{
+"word": "sides"
+},
+{
+"word": "aligned"
+},
+{
+"word": "such"
+},
+{
+"word": "that"
+},
+{
+"word": "the"
+},
+{
+"word": "faces"
+},
+{
+"word": "would"
+},
+{
+"word": "press"
+},
+{
+"word": "cleanly"
+},
+{
+"word": "were"
+},
+{
+"word": "they"
+},
+{
+"word": "to"
+},
+{
+"word": "be"
+},
+{
+"word": "together"
+}
+]
+},
+{
+"string": "The green rectangular prism is to the right of the purple cube",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "A smaller green cube is to the right of the light purple cube.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "smaller"
+},
+{
+"word": "green"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "light"
+},
+{
+"word": "purple"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "There is a smaller green cube added next to and to the right of the purple cube. ",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "smaller"
+},
+{
+"word": "green"
+},
+{
+"word": "cube"
+},
+{
+"word": "added"
+},
+{
+"word": "next"
+},
+{
+"word": "to"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "They added a green rectangular cube next to the right side of the purple cube.",
+"word_list":
+[
+{
+"word": "They"
+},
+{
+"word": "added"
+},
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "cube"
+},
+{
+"word": "next"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "side"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "green 3d rectangle",
+"word_list":
+[
+{
+"word": "green"
+},
+{
+"word": "3d"
+},
+{
+"word": "rectangle"
+}
+]
+},
+{
+"string": "A purple box is places closed to the furthest corner of a huge, pentagon, gray mat. A small, skinny, Pakistan green box is next to the purple box, on the right. The light source is coming from 5 o'clock direction.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "purple"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "places"
+},
+{
+"word": "closed"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "furthest"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "a"
+},
+{
+"word": "huge"
+},
+{
+"word": "pentagon"
+},
+{
+"word": "gray"
+},
+{
+"word": "mat"
+},
+{
+"word": "A"
+},
+{
+"word": "small"
+},
+{
+"word": "skinny"
+},
+{
+"word": "Pakistan"
+},
+{
+"word": "green"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "next"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "box"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "The"
+},
+{
+"word": "light"
+},
+{
+"word": "source"
+},
+{
+"word": "is"
+},
+{
+"word": "coming"
+},
+{
+"word": "from"
+},
+{
+"word": "5"
+},
+{
+"word": "o'clock"
+},
+{
+"word": "direction"
+}
+]
+},
+{
+"string": "Directly to the right of the pink cube is a green tower.",
+"word_list":
+[
+{
+"word": "Directly"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "pink"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "tower"
+}
+]
+},
+{
+"string": "The green box has a similar height but smaller width in comparison to the purple object. Green is also placed to the right of Purple",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "box"
+},
+{
+"word": "has"
+},
+{
+"word": "a"
+},
+{
+"word": "similar"
+},
+{
+"word": "height"
+},
+{
+"word": "but"
+},
+{
+"word": "smaller"
+},
+{
+"word": "width"
+},
+{
+"word": "in"
+},
+{
+"word": "comparison"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "object"
+},
+{
+"word": "Green"
+},
+{
+"word": "is"
+},
+{
+"word": "also"
+},
+{
+"word": "placed"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "Purple"
+}
+]
+},
+{
+"string": "Green brick next to magenta one.",
+"word_list":
+[
+{
+"word": "Green"
+},
+{
+"word": "brick"
+},
+{
+"word": "next"
+},
+{
+"word": "to"
+},
+{
+"word": "magenta"
+},
+{
+"word": "one"
+}
+]
+},
+{
+"string": "A green rectangular prism is east of a purple cube in the northern hemisphere.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "green"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "is"
+},
+{
+"word": "east"
+},
+{
+"word": "of"
+},
+{
+"word": "a"
+},
+{
+"word": "purple"
+},
+{
+"word": "cube"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "northern"
+},
+{
+"word": "hemisphere"
+}
+]
+},
+{
+"string": "A skinny green rectangular box is next to the magenta box.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "skinny"
+},
+{
+"word": "green"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "next"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "magenta"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "the brown block is to the right of the purple square",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "brown"
+},
+{
+"word": "block"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "square"
+}
+]
+},
+{
+"string": "the green tower is in line with the magenta box, to the  right",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "tower"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "line"
+},
+{
+"word": "with"
+},
+{
+"word": "the"
+},
+{
+"word": "magenta"
+},
+{
+"word": "box"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+}
+]
+},
+{
+"string": "green block placed to right of purple block",
+"word_list":
+[
+{
+"word": "green"
+},
+{
+"word": "block"
+},
+{
+"word": "placed"
+},
+{
+"word": "to"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "purple"
+},
+{
+"word": "block"
+}
+]
+},
+{
+"string": "The skinny green box is to the right of the purple box.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "skinny"
+},
+{
+"word": "green"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "The object is a thin green rectangle located to the right of the purple cube",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "thin"
+},
+{
+"word": "green"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "located"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "a skinny green block east of the purple block",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "skinny"
+},
+{
+"word": "green"
+},
+{
+"word": "block"
+},
+{
+"word": "east"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "block"
+}
+]
+}
+]

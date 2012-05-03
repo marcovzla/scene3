@@ -1,0 +1,1665 @@
+[
+{
+    "string": "The blue block is in the middle of the table.",
+        "word_list":
+            [
+            {
+                "word": "The"
+            },
+            {
+                "word": "blue"
+            },
+            {
+                "word": "block"
+            },
+            {
+                "word": "is"
+            },
+            {
+                "word": "in"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "middle"
+            },
+            {
+                "word": "of"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "table"
+            }]},
+{
+    "string": "The object is a green cube.",
+    "word_list":
+        [
+        {
+            "word": "The"
+        },
+        {
+            "word": "object"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "green"
+        },
+        {
+            "word": "cube"
+        }]},
+{
+    "string": "The blue object at the left of the grey platform.",
+    "word_list":
+        [
+        {
+            "word": "The"
+        },
+        {
+            "word": "blue"
+        },
+        {
+            "word": "object"
+        },
+        {
+            "word": "at"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "left"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "grey"
+        },
+        {
+            "word": "platform"
+        }]},
+{
+    "string": "There is a green box over the gray ground, located around the top-right side with having a shadow to the left side. ",
+    "word_list":
+        [
+        {
+            "word": "There"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "green"
+        },
+        {
+            "word": "box"
+        },
+        {
+            "word": "over"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "gray"
+        },
+        {
+            "word": "ground"
+        },
+        {
+            "word": "located"
+        },
+        {
+            "word": "around"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "top"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "side"
+        },
+        {
+            "word": "with"
+        },
+        {
+            "word": "having"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "shadow"
+        },
+        {
+            "word": "to"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "left"
+        },
+        {
+            "word": "side"
+        }]},
+{
+    "string": "Green colored box is in the middle of the gray ground",
+    "word_list":
+        [
+        {
+            "word": "Green"
+        },
+        {
+            "word": "colored"
+        },
+        {
+            "word": "box"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "in"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "middle"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "gray"
+        },
+        {
+            "word": "ground"
+        }]},
+{
+    "string": "Teal box in the middle right of a slanted grey square.",
+    "word_list":
+        [
+        {
+            "word": "Teal"
+        },
+        {
+            "word": "box"
+        },
+        {
+            "word": "in"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "middle"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "slanted"
+        },
+        {
+            "word": "grey"
+        },
+        {
+            "word": "square"
+        }]},
+{
+    "string": "The prism looks like a small building that is located at towards the top right of the surface",
+    "word_list":
+        [
+        {
+            "word": "The"
+        },
+        {
+            "word": "prism"
+        },
+        {
+            "word": "looks"
+        },
+        {
+            "word": "like"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "small"
+        },
+        {
+            "word": "building"
+        },
+        {
+            "word": "that"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "located"
+        },
+        {
+            "word": "at"
+        },
+        {
+            "word": "towards"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "top"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "surface"
+        }]},
+{
+    "string": "the green cube is in the top right region of the plane.",
+    "word_list":
+        [
+        {
+            "word": "the"
+        },
+        {
+            "word": "green"
+        },
+        {
+            "word": "cube"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "in"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "top"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "region"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "plane"
+        }]},
+{
+    "string": "the object is a teal rectangular prism and it is and the north east side of a grey object",
+    "word_list":
+        [
+        {
+            "word": "the"
+        },
+        {
+            "word": "object"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "teal"
+        },
+        {
+            "word": "rectangular"
+        },
+        {
+            "word": "prism"
+        },
+        {
+            "word": "and"
+        },
+        {
+            "word": "it"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "and"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "north"
+        },
+        {
+            "word": "east"
+        },
+        {
+            "word": "side"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "grey"
+        },
+        {
+            "word": "object"
+        }]},
+{
+    "string": "Turquoise object on the right hand side of the platform. There is a light source shining from the right causing the shadow.",
+    "word_list":
+        [
+        {
+            "word": "Turquoise"
+        },
+        {
+            "word": "object"
+        },
+        {
+            "word": "on"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "hand"
+        },
+        {
+            "word": "side"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "platform"
+        },
+        {
+            "word": "There"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "light"
+        },
+        {
+            "word": "source"
+        },
+        {
+            "word": "shining"
+        },
+        {
+            "word": "from"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "causing"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "shadow"
+        }]},
+{
+    "string": "The blue cube is in the center of the top-right portion of the plane.",
+    "word_list":
+        [
+        {
+            "word": "The"
+        },
+        {
+            "word": "blue"
+        },
+        {
+            "word": "cube"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "in"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "center"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "top"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "portion"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "plane"
+        }]},
+{
+    "string": "There is a blue-green box located just to the right and slightly above center of the grey shape.",
+    "word_list":
+        [
+        {
+            "word": "There"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "blue"
+        },
+        {
+            "word": "green"
+        },
+        {
+            "word": "box"
+        },
+        {
+            "word": "located"
+        },
+        {
+            "word": "just"
+        },
+        {
+            "word": "to"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "and"
+        },
+        {
+            "word": "slightly"
+        },
+        {
+            "word": "above"
+        },
+        {
+            "word": "center"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "grey"
+        },
+        {
+            "word": "shape"
+        }]},
+{
+    "string": "Either a teal cube or a light teal hexagonal "v" and a dark teal rectangle sit atop what is either a long, flat grey cube or a grey pentagon/hexagon. A dark grey pentagonal shape, presumably a shadow, extends from the left side of the teal object.",
+    "word_list":
+        [
+        {
+            "word": "Either"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "teal"
+        },
+        {
+            "word": "cube"
+        },
+        {
+            "word": "or"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "light"
+        },
+        {
+            "word": "teal"
+        },
+        {
+            "word": "hexagonal"
+        },
+        {
+            "word": "v"
+        },
+        {
+            "word": "and"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "dark"
+        },
+        {
+            "word": "teal"
+        },
+        {
+            "word": "rectangle"
+        },
+        {
+            "word": "sit"
+        },
+        {
+            "word": "atop"
+        },
+        {
+            "word": "what"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "either"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "long"
+        },
+        {
+            "word": "flat"
+        },
+        {
+            "word": "grey"
+        },
+        {
+            "word": "cube"
+        },
+        {
+            "word": "or"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "grey"
+        },
+        {
+            "word": "pentagon"
+        },
+        {
+            "word": "hexagon"
+        },
+        {
+            "word": "A"
+        },
+        {
+            "word": "dark"
+        },
+        {
+            "word": "grey"
+        },
+        {
+            "word": "pentagonal"
+        },
+        {
+            "word": "shape"
+        },
+        {
+            "word": "presumably"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "shadow"
+        },
+        {
+            "word": "extends"
+        },
+        {
+            "word": "from"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "left"
+        },
+        {
+            "word": "side"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "teal"
+        },
+        {
+            "word": "object"
+        }]},
+{
+    "string": "The blue rectangular prism is just to the right of the middle of the plane.",
+    "word_list":
+        [
+        {
+            "word": "The"
+        },
+        {
+            "word": "blue"
+        },
+        {
+            "word": "rectangular"
+        },
+        {
+            "word": "prism"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "just"
+        },
+        {
+            "word": "to"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "middle"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "plane"
+        }]},
+{
+    "string": "The green object is located on the grey platform.",
+    "word_list":
+        [
+        {
+            "word": "The"
+        },
+        {
+            "word": "green"
+        },
+        {
+            "word": "object"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "located"
+        },
+        {
+            "word": "on"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "grey"
+        },
+        {
+            "word": "platform"
+        }]},
+{
+    "string": "The blue cube is toward the back of the grey surface.",
+    "word_list":
+        [
+        {
+            "word": "The"
+        },
+        {
+            "word": "blue"
+        },
+        {
+            "word": "cube"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "toward"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "back"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "grey"
+        },
+        {
+            "word": "surface"
+        }]},
+{
+    "string": "The turquoise object is on top of the gray object and more towards the right side. ",
+    "word_list":
+        [
+        {
+            "word": "The"
+        },
+        {
+            "word": "turquoise"
+        },
+        {
+            "word": "object"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "on"
+        },
+        {
+            "word": "top"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "gray"
+        },
+        {
+            "word": "object"
+        },
+        {
+            "word": "and"
+        },
+        {
+            "word": "more"
+        },
+        {
+            "word": "towards"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "side"
+        }]},
+{
+    "string": "The teal rectangular prism is located in the north eastern hemisphere of a gray plane. A light is coming from the southeast causing the prisms shadow to appear northwest of it.",
+    "word_list":
+        [
+        {
+            "word": "The"
+        },
+        {
+            "word": "teal"
+        },
+        {
+            "word": "rectangular"
+        },
+        {
+            "word": "prism"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "located"
+        },
+        {
+            "word": "in"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "north"
+        },
+        {
+            "word": "eastern"
+        },
+        {
+            "word": "hemisphere"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "gray"
+        },
+        {
+            "word": "plane"
+        },
+        {
+            "word": "A"
+        },
+        {
+            "word": "light"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "coming"
+        },
+        {
+            "word": "from"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "southeast"
+        },
+        {
+            "word": "causing"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "prisms"
+        },
+        {
+            "word": "shadow"
+        },
+        {
+            "word": "to"
+        },
+        {
+            "word": "appear"
+        },
+        {
+            "word": "northwest"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "it"
+        }]},
+{
+    "string": "The rectangular cube is on the lower side of the given platform. Or near the visual point",
+    "word_list":
+        [
+        {
+            "word": "The"
+        },
+        {
+            "word": "rectangular"
+        },
+        {
+            "word": "cube"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "on"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "lower"
+        },
+        {
+            "word": "side"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "given"
+        },
+        {
+            "word": "platform"
+        },
+        {
+            "word": "Or"
+        },
+        {
+            "word": "near"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "visual"
+        },
+        {
+            "word": "point"
+        }]},
+{
+    "string": "The gray base appears to be a 3D five-sided object.  The teal object is a 3D rectangle that is placed near the northeastern most base area.",
+    "word_list":
+        [
+        {
+            "word": "The"
+        },
+        {
+            "word": "gray"
+        },
+        {
+            "word": "base"
+        },
+        {
+            "word": "appears"
+        },
+        {
+            "word": "to"
+        },
+        {
+            "word": "be"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "3D"
+        },
+        {
+            "word": "five"
+        },
+        {
+            "word": "sided"
+        },
+        {
+            "word": "object"
+        },
+        {
+            "word": "The"
+        },
+        {
+            "word": "teal"
+        },
+        {
+            "word": "object"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "3D"
+        },
+        {
+            "word": "rectangle"
+        },
+        {
+            "word": "that"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "placed"
+        },
+        {
+            "word": "near"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "northeastern"
+        },
+        {
+            "word": "most"
+        },
+        {
+            "word": "base"
+        },
+        {
+            "word": "area"
+        }]},
+{
+    "string": "A teal rectangular box is sitting on a thick, gray, pentagon mat. The gray mat is huge, compare to the box. The box is placed at the center toward the right of the mat. There is a light source coming from the right side. ",
+    "word_list":
+        [
+        {
+            "word": "A"
+        },
+        {
+            "word": "teal"
+        },
+        {
+            "word": "rectangular"
+        },
+        {
+            "word": "box"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "sitting"
+        },
+        {
+            "word": "on"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "thick"
+        },
+        {
+            "word": "gray"
+        },
+        {
+            "word": "pentagon"
+        },
+        {
+            "word": "mat"
+        },
+        {
+            "word": "The"
+        },
+        {
+            "word": "gray"
+        },
+        {
+            "word": "mat"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "huge"
+        },
+        {
+            "word": "compare"
+        },
+        {
+            "word": "to"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "box"
+        },
+        {
+            "word": "The"
+        },
+        {
+            "word": "box"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "placed"
+        },
+        {
+            "word": "at"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "center"
+        },
+        {
+            "word": "toward"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "mat"
+        },
+        {
+            "word": "There"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "light"
+        },
+        {
+            "word": "source"
+        },
+        {
+            "word": "coming"
+        },
+        {
+            "word": "from"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "side"
+        }]},
+{
+    "string": "In the middle of the right half of the plane is a teal rectangular prisim.",
+    "word_list":
+        [
+        {
+            "word": "In"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "middle"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "half"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "plane"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "teal"
+        },
+        {
+            "word": "rectangular"
+        },
+        {
+            "word": "prisim"
+        }]},
+{
+    "string": "The cyan box is on the right-middle of the photo.",
+    "word_list":
+        [
+        {
+            "word": "The"
+        },
+        {
+            "word": "cyan"
+        },
+        {
+            "word": "box"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "on"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "middle"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "photo"
+        }]},
+{
+    "string": "There is a teal block on top of the gray surface.",
+    "word_list":
+        [
+        {
+            "word": "There"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "teal"
+        },
+        {
+            "word": "block"
+        },
+        {
+            "word": "on"
+        },
+        {
+            "word": "top"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "gray"
+        },
+        {
+            "word": "surface"
+        }]},
+{
+    "string": "A cyan skinny box sits towards the deformed side of the gray surface.",
+    "word_list":
+        [
+        {
+            "word": "A"
+        },
+        {
+            "word": "cyan"
+        },
+        {
+            "word": "skinny"
+        },
+        {
+            "word": "box"
+        },
+        {
+            "word": "sits"
+        },
+        {
+            "word": "towards"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "deformed"
+        },
+        {
+            "word": "side"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "gray"
+        },
+        {
+            "word": "surface"
+        }]},
+{
+    "string": "there is a pink rectangle on teh plane",
+    "word_list":
+        [
+        {
+            "word": "there"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "pink"
+        },
+        {
+            "word": "rectangle"
+        },
+        {
+            "word": "on"
+        },
+        {
+            "word": "teh"
+        },
+        {
+            "word": "plane"
+        }]},
+{
+    "string": "the box is teal, and toward the right of the plane, in the middle",
+    "word_list":
+        [
+        {
+            "word": "the"
+        },
+        {
+            "word": "box"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "teal"
+        },
+        {
+            "word": "and"
+        },
+        {
+            "word": "toward"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "plane"
+        },
+        {
+            "word": "in"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "middle"
+        }]},
+{
+    "string": "blue block in center-right of table",
+    "word_list":
+        [
+        {
+            "word": "blue"
+        },
+        {
+            "word": "block"
+        },
+        {
+            "word": "in"
+        },
+        {
+            "word": "center"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "table"
+        }]},
+{
+    "string": "The light blue box is to the far right side of the plane.",
+    "word_list":
+        [
+        {
+            "word": "The"
+        },
+        {
+            "word": "light"
+        },
+        {
+            "word": "blue"
+        },
+        {
+            "word": "box"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "to"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "far"
+        },
+        {
+            "word": "right"
+        },
+        {
+            "word": "side"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "plane"
+        }]},
+{
+    "string": "The object is a cyan block located left and slightly north to the center of the grey plane",
+    "word_list":
+        [
+        {
+            "word": "The"
+        },
+        {
+            "word": "object"
+        },
+        {
+            "word": "is"
+        },
+        {
+            "word": "a"
+        },
+        {
+            "word": "cyan"
+        },
+        {
+            "word": "block"
+        },
+        {
+            "word": "located"
+        },
+        {
+            "word": "left"
+        },
+        {
+            "word": "and"
+        },
+        {
+            "word": "slightly"
+        },
+        {
+            "word": "north"
+        },
+        {
+            "word": "to"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "center"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "grey"
+        },
+        {
+            "word": "plane"
+        }]},
+{
+    "string": "A cyan block towards the middle east of the square",
+    "word_list":
+        [
+        {
+            "word": "A"
+        },
+        {
+            "word": "cyan"
+        },
+        {
+            "word": "block"
+        },
+        {
+            "word": "towards"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "middle"
+        },
+        {
+            "word": "east"
+        },
+        {
+            "word": "of"
+        },
+        {
+            "word": "the"
+        },
+        {
+            "word": "square"
+        }]}
+]

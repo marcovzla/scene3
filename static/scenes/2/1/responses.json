@@ -1,0 +1,1721 @@
+[
+{
+"string": "The green cylinder is ahead and to the right of the yellow block.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "ahead"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "block"
+}
+]
+},
+{
+"string": "A green round cylinder is in the center of the table.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "green"
+},
+{
+"word": "round"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "table"
+}
+]
+},
+{
+"string": "The green object in the middle of the grey platform.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "object"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "platform"
+}
+]
+},
+{
+"string": "A green octagon is located on the center of the gray ground, right and below the gold box.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "green"
+},
+{
+"word": "octagon"
+},
+{
+"word": "is"
+},
+{
+"word": "located"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "ground"
+},
+{
+"word": "right"
+},
+{
+"word": "and"
+},
+{
+"word": "below"
+},
+{
+"word": "the"
+},
+{
+"word": "gold"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "Green cylinder located in the middle of the slanted grey square.",
+"word_list":
+[
+{
+"word": "Green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "located"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "slanted"
+},
+{
+"word": "grey"
+},
+{
+"word": "square"
+}
+]
+},
+{
+"string": "Green octogon prism added below the yellow box-like prism",
+"word_list":
+[
+{
+"word": "Green"
+},
+{
+"word": "octogon"
+},
+{
+"word": "prism"
+},
+{
+"word": "added"
+},
+{
+"word": "below"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+},
+{
+"word": "like"
+},
+{
+"word": "prism"
+}
+]
+},
+{
+"string": "the green sphere was added down and to the right of the yellow rectangular object.",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "sphere"
+},
+{
+"word": "was"
+},
+{
+"word": "added"
+},
+{
+"word": "down"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "There is now a green cylinder that is a tad east and more south of the yellow prism",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "now"
+},
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "that"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "tad"
+},
+{
+"word": "east"
+},
+{
+"word": "and"
+},
+{
+"word": "more"
+},
+{
+"word": "south"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "prism"
+}
+]
+},
+{
+"string": "The new structures green and cylindrical. It appears to be in the center of the platform.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "new"
+},
+{
+"word": "structures"
+},
+{
+"word": "green"
+},
+{
+"word": "and"
+},
+{
+"word": "cylindrical"
+},
+{
+"word": "It"
+},
+{
+"word": "appears"
+},
+{
+"word": "to"
+},
+{
+"word": "be"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "platform"
+}
+]
+},
+{
+"string": "The green cylinder was added down and to the right of the yellow rectangular prism.  The green cylinder is near the center of the plane.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "was"
+},
+{
+"word": "added"
+},
+{
+"word": "down"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "there is a green cylinder located in the center of the grey shape.",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "located"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "shape"
+}
+]
+},
+{
+"string": "A green ashtray-like octagonal polygon is in what looks like the middle of the large grey object, thus to the southwest of the yellow box. A shadow extends from behind the green object, and the top is darker than the sides.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "green"
+},
+{
+"word": "ashtray"
+},
+{
+"word": "like"
+},
+{
+"word": "octagonal"
+},
+{
+"word": "polygon"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "what"
+},
+{
+"word": "looks"
+},
+{
+"word": "like"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "large"
+},
+{
+"word": "grey"
+},
+{
+"word": "object"
+},
+{
+"word": "thus"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "southwest"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+},
+{
+"word": "A"
+},
+{
+"word": "shadow"
+},
+{
+"word": "extends"
+},
+{
+"word": "from"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "object"
+},
+{
+"word": "and"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "is"
+},
+{
+"word": "darker"
+},
+{
+"word": "than"
+},
+{
+"word": "the"
+},
+{
+"word": "sides"
+}
+]
+},
+{
+"string": "The green cylinder is in the middle of the plane",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "The",
+"word_list":
+[
+{
+"word": "The"
+}
+]
+},
+{
+"string": "The green 3D octagon is in front and to the right of the yellow cuboid box.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "3D"
+},
+{
+"word": "octagon"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cuboid"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "The new image is the same as the old except now there is a dark green octagon diagonally lower and to the right of the cube. ",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "new"
+},
+{
+"word": "image"
+},
+{
+"word": "is"
+},
+{
+"word": "the"
+},
+{
+"word": "same"
+},
+{
+"word": "as"
+},
+{
+"word": "the"
+},
+{
+"word": "old"
+},
+{
+"word": "except"
+},
+{
+"word": "now"
+},
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "dark"
+},
+{
+"word": "green"
+},
+{
+"word": "octagon"
+},
+{
+"word": "diagonally"
+},
+{
+"word": "lower"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "A green octagonal prism was placed near the exact center of the gray plane, southeast of the yellow prism.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "green"
+},
+{
+"word": "octagonal"
+},
+{
+"word": "prism"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "exact"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "plane"
+},
+{
+"word": "southeast"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "prism"
+}
+]
+},
+{
+"string": "They now added a octagon shape box near the middle or on the lower right side of the yellow rectangular box",
+"word_list":
+[
+{
+"word": "They"
+},
+{
+"word": "now"
+},
+{
+"word": "added"
+},
+{
+"word": "a"
+},
+{
+"word": "octagon"
+},
+{
+"word": "shape"
+},
+{
+"word": "box"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "or"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "lower"
+},
+{
+"word": "right"
+},
+{
+"word": "side"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "A green 3D cylindrical rectangle  was placed closer to the closer corner of the base.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "green"
+},
+{
+"word": "3D"
+},
+{
+"word": "cylindrical"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "closer"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "closer"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "base"
+}
+]
+},
+{
+"string": "A small, olive-colored, rectangular box is placed towards the furthest corner of a huge, gray, pentagon mat, away from me. A forest green, octagon prism is placed at the center of the same gray mat. There is a light source coming from 5 o'clock direction.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "small"
+},
+{
+"word": "olive"
+},
+{
+"word": "colored"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "placed"
+},
+{
+"word": "towards"
+},
+{
+"word": "the"
+},
+{
+"word": "furthest"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "a"
+},
+{
+"word": "huge"
+},
+{
+"word": "gray"
+},
+{
+"word": "pentagon"
+},
+{
+"word": "mat"
+},
+{
+"word": "away"
+},
+{
+"word": "from"
+},
+{
+"word": "me"
+},
+{
+"word": "A"
+},
+{
+"word": "forest"
+},
+{
+"word": "green"
+},
+{
+"word": "octagon"
+},
+{
+"word": "prism"
+},
+{
+"word": "is"
+},
+{
+"word": "placed"
+},
+{
+"word": "at"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "same"
+},
+{
+"word": "gray"
+},
+{
+"word": "mat"
+},
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "light"
+},
+{
+"word": "source"
+},
+{
+"word": "coming"
+},
+{
+"word": "from"
+},
+{
+"word": "5"
+},
+{
+"word": "o'clock"
+},
+{
+"word": "direction"
+}
+]
+},
+{
+"string": "In the middle of the plane is a green cylidner.",
+"word_list":
+[
+{
+"word": "In"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "cylidner"
+}
+]
+},
+{
+"string": "This new object appears to be green, an octahedron, larger than the yellow object, and closer to the point of view. If the light source was where I imagined it in the previous answer, it would give this new object an even smaller shadow, but does not.",
+"word_list":
+[
+{
+"word": "This"
+},
+{
+"word": "new"
+},
+{
+"word": "object"
+},
+{
+"word": "appears"
+},
+{
+"word": "to"
+},
+{
+"word": "be"
+},
+{
+"word": "green"
+},
+{
+"word": "an"
+},
+{
+"word": "octahedron"
+},
+{
+"word": "larger"
+},
+{
+"word": "than"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "object"
+},
+{
+"word": "and"
+},
+{
+"word": "closer"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "point"
+},
+{
+"word": "of"
+},
+{
+"word": "view"
+},
+{
+"word": "If"
+},
+{
+"word": "the"
+},
+{
+"word": "light"
+},
+{
+"word": "source"
+},
+{
+"word": "was"
+},
+{
+"word": "where"
+},
+{
+"word": "I"
+},
+{
+"word": "imagined"
+},
+{
+"word": "it"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "previous"
+},
+{
+"word": "answer"
+},
+{
+"word": "it"
+},
+{
+"word": "would"
+},
+{
+"word": "give"
+},
+{
+"word": "this"
+},
+{
+"word": "new"
+},
+{
+"word": "object"
+},
+{
+"word": "an"
+},
+{
+"word": "even"
+},
+{
+"word": "smaller"
+},
+{
+"word": "shadow"
+},
+{
+"word": "but"
+},
+{
+"word": "does"
+},
+{
+"word": "not"
+}
+]
+},
+{
+"string": "Green cylinder on gray surface",
+"word_list":
+[
+{
+"word": "Green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "on"
+},
+{
+"word": "gray"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "A fat, green cylinder sits in the middle of the gray surface, in front of the box.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "fat"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "sits"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "surface"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "the brown cylinder was placed closer to me than the orange cylinder",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "brown"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "closer"
+},
+{
+"word": "to"
+},
+{
+"word": "me"
+},
+{
+"word": "than"
+},
+{
+"word": "the"
+},
+{
+"word": "orange"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "the cylinder is green, and sits in the center of the plane",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "green"
+},
+{
+"word": "and"
+},
+{
+"word": "sits"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "green octagon block placed in front and to right of yellow block",
+"word_list":
+[
+{
+"word": "green"
+},
+{
+"word": "octagon"
+},
+{
+"word": "block"
+},
+{
+"word": "placed"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "yellow"
+},
+{
+"word": "block"
+}
+]
+},
+{
+"string": "The wide, green cylinder is to the right of and in front of the yellow rectangle.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "wide"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "and"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "rectangle"
+}
+]
+},
+{
+"string": "The object is a thick, green cylinder situated near the center of the grey plane",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "thick"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "situated"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "a hexagonal type object to the lower-right of the brick",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "hexagonal"
+},
+{
+"word": "type"
+},
+{
+"word": "object"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "lower"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "brick"
+}
+]
+}
+]

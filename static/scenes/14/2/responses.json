@@ -1,0 +1,1220 @@
+[
+{
+"string": "the blue away from the red",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "away"
+},
+{
+"word": "from"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+}
+]
+},
+{
+"string": "tall blue box added to the right of the red box.",
+"word_list":
+[
+{
+"word": "tall"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "blue square-like prism placed to the right of previous objects as well as closer the the viewer",
+"word_list":
+[
+{
+"word": "blue"
+},
+{
+"word": "square"
+},
+{
+"word": "like"
+},
+{
+"word": "prism"
+},
+{
+"word": "placed"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "previous"
+},
+{
+"word": "objects"
+},
+{
+"word": "as"
+},
+{
+"word": "well"
+},
+{
+"word": "as"
+},
+{
+"word": "closer"
+},
+{
+"word": "the"
+},
+{
+"word": "the"
+},
+{
+"word": "viewer"
+}
+]
+},
+{
+"string": "Free standing blue wall sitting right of the two red objects",
+"word_list":
+[
+{
+"word": "Free"
+},
+{
+"word": "standing"
+},
+{
+"word": "blue"
+},
+{
+"word": "wall"
+},
+{
+"word": "sitting"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "two"
+},
+{
+"word": "red"
+},
+{
+"word": "objects"
+}
+]
+},
+{
+"string": "the blue square is standing up to the right of the red rectangular prism.  the blue square is in the right portion of the plane.  For some reason the plane changed shape...",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "square"
+},
+{
+"word": "is"
+},
+{
+"word": "standing"
+},
+{
+"word": "up"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "square"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "portion"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+},
+{
+"word": "For"
+},
+{
+"word": "some"
+},
+{
+"word": "reason"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+},
+{
+"word": "changed"
+},
+{
+"word": "shape"
+}
+]
+},
+{
+"string": "there is a blue box to the right and below the red rectangle",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "and"
+},
+{
+"word": "below"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "rectangle"
+}
+]
+},
+{
+"string": "a blue box, square-face towards the viewer, with a thick, brick-thin edge, sits to the southeast of the other box and cylinder.",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "square"
+},
+{
+"word": "face"
+},
+{
+"word": "towards"
+},
+{
+"word": "the"
+},
+{
+"word": "viewer"
+},
+{
+"word": "with"
+},
+{
+"word": "a"
+},
+{
+"word": "thick"
+},
+{
+"word": "brick"
+},
+{
+"word": "thin"
+},
+{
+"word": "edge"
+},
+{
+"word": "sits"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "southeast"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "box"
+},
+{
+"word": "and"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "A blue cuboid on its side is to the right of the red cuboid.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "cuboid"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "side"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "cuboid"
+}
+]
+},
+{
+"string": "A blue rectangle is added to the right of the first two objects. ",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "is"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "first"
+},
+{
+"word": "two"
+},
+{
+"word": "objects"
+}
+]
+},
+{
+"string": "The blue box is to the right of the red shapes",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "shapes"
+}
+]
+},
+{
+"string": "blue thin 3d square",
+"word_list":
+[
+{
+"word": "blue"
+},
+{
+"word": "thin"
+},
+{
+"word": "3d"
+},
+{
+"word": "square"
+}
+]
+},
+{
+"string": "A red tissue box is left to the center and a red, octagon bucket is behind the tissue box. A blue cereal box is right to the center.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "red"
+},
+{
+"word": "tissue"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "left"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "and"
+},
+{
+"word": "a"
+},
+{
+"word": "red"
+},
+{
+"word": "octagon"
+},
+{
+"word": "bucket"
+},
+{
+"word": "is"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "tissue"
+},
+{
+"word": "box"
+},
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "cereal"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "right"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+}
+]
+},
+{
+"string": "In the front right section of the plane is a blue cube.",
+"word_list":
+[
+{
+"word": "In"
+},
+{
+"word": "the"
+},
+{
+"word": "front"
+},
+{
+"word": "right"
+},
+{
+"word": "section"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "This blue object is a very thin and tall box and placed closer to the point of view but to the right of the two previous red objects.",
+"word_list":
+[
+{
+"word": "This"
+},
+{
+"word": "blue"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "very"
+},
+{
+"word": "thin"
+},
+{
+"word": "and"
+},
+{
+"word": "tall"
+},
+{
+"word": "box"
+},
+{
+"word": "and"
+},
+{
+"word": "placed"
+},
+{
+"word": "closer"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "point"
+},
+{
+"word": "of"
+},
+{
+"word": "view"
+},
+{
+"word": "but"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "two"
+},
+{
+"word": "previous"
+},
+{
+"word": "red"
+},
+{
+"word": "objects"
+}
+]
+},
+{
+"string": "Blue square away from red objects",
+"word_list":
+[
+{
+"word": "Blue"
+},
+{
+"word": "square"
+},
+{
+"word": "away"
+},
+{
+"word": "from"
+},
+{
+"word": "red"
+},
+{
+"word": "objects"
+}
+]
+},
+{
+"string": "A skinny blue block sits to the right of the red objects.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "skinny"
+},
+{
+"word": "blue"
+},
+{
+"word": "block"
+},
+{
+"word": "sits"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "objects"
+}
+]
+},
+{
+"string": "there is a blue block to the right of the other objects",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "block"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "objects"
+}
+]
+},
+{
+"string": "A blue rectangular prism was placed east of the red rectangular prism, in the eastern hemisphere.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "east"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "eastern"
+},
+{
+"word": "hemisphere"
+}
+]
+},
+{
+"string": "the box is blue, and is located directly to the right of the brick, in front of the red cylinder",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "blue"
+},
+{
+"word": "and"
+},
+{
+"word": "is"
+},
+{
+"word": "located"
+},
+{
+"word": "directly"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "brick"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "blue block placed to left and slightly in front of red block",
+"word_list":
+[
+{
+"word": "blue"
+},
+{
+"word": "block"
+},
+{
+"word": "placed"
+},
+{
+"word": "to"
+},
+{
+"word": "left"
+},
+{
+"word": "and"
+},
+{
+"word": "slightly"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "red"
+},
+{
+"word": "block"
+}
+]
+},
+{
+"string": "The skinny blue box is to the far right of the red box and resting on it's side.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "skinny"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "far"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "box"
+},
+{
+"word": "and"
+},
+{
+"word": "resting"
+},
+{
+"word": "on"
+},
+{
+"word": "it's"
+},
+{
+"word": "side"
+}
+]
+},
+{
+"string": "The object is a thin, vertical blue rectangle situated to the lower-right of the grey planes center",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "thin"
+},
+{
+"word": "vertical"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "situated"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "lower"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "planes"
+},
+{
+"word": "center"
+}
+]
+},
+{
+"string": "A blue rectangle that is east of everything else.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "that"
+},
+{
+"word": "is"
+},
+{
+"word": "east"
+},
+{
+"word": "of"
+},
+{
+"word": "everything"
+},
+{
+"word": "else"
+}
+]
+},
+{
+"string": "The blue is 4 o' clock of the red rectangle",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "blue"
+},
+{
+"word": "is"
+},
+{
+"word": "4"
+},
+{
+"word": "o'"
+},
+{
+"word": "clock"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "rectangle"
+}
+]
+}
+]

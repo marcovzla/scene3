@@ -1,0 +1,1118 @@
+[
+{
+"string": "The yellow closer",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "yellow"
+},
+{
+"word": "closer"
+}
+]
+},
+{
+"string": "yellow box added to the bottom of the blue box.",
+"word_list":
+[
+{
+"word": "yellow"
+},
+{
+"word": "box"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "bottom"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "yellow recangular prism added in front of previous object",
+"word_list":
+[
+{
+"word": "yellow"
+},
+{
+"word": "recangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "added"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "previous"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "small yellow cube in front of previous object",
+"word_list":
+[
+{
+"word": "small"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "previous"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "the yellow cube was added down from the blue square.",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "was"
+},
+{
+"word": "added"
+},
+{
+"word": "down"
+},
+{
+"word": "from"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "square"
+}
+]
+},
+{
+"string": "there is a yellow box below the blue rectangle",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+},
+{
+"word": "below"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+}
+]
+},
+{
+"string": "a yellow box, pivoted at an angle sits with its north corner aiming toward the blue box. The yellow box is a bit longer than it is tall, but about twice as wide as it is tall. The short, long end faces the viewer.",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+},
+{
+"word": "pivoted"
+},
+{
+"word": "at"
+},
+{
+"word": "an"
+},
+{
+"word": "angle"
+},
+{
+"word": "sits"
+},
+{
+"word": "with"
+},
+{
+"word": "its"
+},
+{
+"word": "north"
+},
+{
+"word": "corner"
+},
+{
+"word": "aiming"
+},
+{
+"word": "toward"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "The"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "bit"
+},
+{
+"word": "longer"
+},
+{
+"word": "than"
+},
+{
+"word": "it"
+},
+{
+"word": "is"
+},
+{
+"word": "tall"
+},
+{
+"word": "but"
+},
+{
+"word": "about"
+},
+{
+"word": "twice"
+},
+{
+"word": "as"
+},
+{
+"word": "wide"
+},
+{
+"word": "as"
+},
+{
+"word": "it"
+},
+{
+"word": "is"
+},
+{
+"word": "tall"
+},
+{
+"word": "The"
+},
+{
+"word": "short"
+},
+{
+"word": "long"
+},
+{
+"word": "end"
+},
+{
+"word": "faces"
+},
+{
+"word": "the"
+},
+{
+"word": "viewer"
+}
+]
+},
+{
+"string": "A smaller yellow cuboid box is in front of the blue one.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "smaller"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cuboid"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "one"
+}
+]
+},
+{
+"string": "A smaller yellow cube is below the blue object. ",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "smaller"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "below"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "The yellow box is in front of the blue box",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "yellow cube",
+"word_list":
+[
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "A blue cereal box stand sidewase left to the center. A yellowish lunch box is in front of the blue box.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "cereal"
+},
+{
+"word": "box"
+},
+{
+"word": "stand"
+},
+{
+"word": "sidewase"
+},
+{
+"word": "left"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "A"
+},
+{
+"word": "yellowish"
+},
+{
+"word": "lunch"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "In front of the blue rectangular prisim is a yellow cube.",
+"word_list":
+[
+{
+"word": "In"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prisim"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "This yellow box is placed closer to the point of view and is much smaller than Blue.",
+"word_list":
+[
+{
+"word": "This"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "placed"
+},
+{
+"word": "closer"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "point"
+},
+{
+"word": "of"
+},
+{
+"word": "view"
+},
+{
+"word": "and"
+},
+{
+"word": "is"
+},
+{
+"word": "much"
+},
+{
+"word": "smaller"
+},
+{
+"word": "than"
+},
+{
+"word": "Blue"
+}
+]
+},
+{
+"string": "The yellow brick is in front of the blue one.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "yellow"
+},
+{
+"word": "brick"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "one"
+}
+]
+},
+{
+"string": "A flat yellow cube sits slightly angled in front of the blue rectangle.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "flat"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "sits"
+},
+{
+"word": "slightly"
+},
+{
+"word": "angled"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+}
+]
+},
+{
+"string": "there is an orange block in front of the  blue block",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "an"
+},
+{
+"word": "orange"
+},
+{
+"word": "block"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "block"
+}
+]
+},
+{
+"string": "A small yellow rectangular prism is just south of the tall blue rectangular prism.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "small"
+},
+{
+"word": "yellow"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "is"
+},
+{
+"word": "just"
+},
+{
+"word": "south"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "tall"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+}
+]
+},
+{
+"string": "the box is yellow, and smaller than the blue block. The new box sits in front of the blue block, in line with its right edge.",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "yellow"
+},
+{
+"word": "and"
+},
+{
+"word": "smaller"
+},
+{
+"word": "than"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "block"
+},
+{
+"word": "The"
+},
+{
+"word": "new"
+},
+{
+"word": "box"
+},
+{
+"word": "sits"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "block"
+},
+{
+"word": "in"
+},
+{
+"word": "line"
+},
+{
+"word": "with"
+},
+{
+"word": "its"
+},
+{
+"word": "right"
+},
+{
+"word": "edge"
+}
+]
+},
+{
+"string": "yellow rectangular block placed in front of blue block",
+"word_list":
+[
+{
+"word": "yellow"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "block"
+},
+{
+"word": "placed"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "blue"
+},
+{
+"word": "block"
+}
+]
+},
+{
+"string": "The yellow box is in front of the blue box and is resting at a slight horizontal angle.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "and"
+},
+{
+"word": "is"
+},
+{
+"word": "resting"
+},
+{
+"word": "at"
+},
+{
+"word": "a"
+},
+{
+"word": "slight"
+},
+{
+"word": "horizontal"
+},
+{
+"word": "angle"
+}
+]
+},
+{
+"string": "The object is a small yellow cube, located at a slight angle relative to the parallel of the lower edge of the plane and just south of the blue rectangle ",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "small"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "located"
+},
+{
+"word": "at"
+},
+{
+"word": "a"
+},
+{
+"word": "slight"
+},
+{
+"word": "angle"
+},
+{
+"word": "relative"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "parallel"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "lower"
+},
+{
+"word": "edge"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+},
+{
+"word": "and"
+},
+{
+"word": "just"
+},
+{
+"word": "south"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+}
+]
+},
+{
+"string": "The yellow block is south of the blue bllock",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "yellow"
+},
+{
+"word": "block"
+},
+{
+"word": "is"
+},
+{
+"word": "south"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "bllock"
+}
+]
+},
+{
+"string": "There is now a yellow cube near the blue.",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "now"
+},
+{
+"word": "a"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+}
+]
+}
+]

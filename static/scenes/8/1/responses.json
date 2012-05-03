@@ -1,0 +1,1070 @@
+[
+{
+"string": "The yellow next to blue",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "yellow"
+},
+{
+"word": "next"
+},
+{
+"word": "to"
+},
+{
+"word": "blue"
+}
+]
+},
+{
+"string": "yellow box added to the right of the blue cylinder.",
+"word_list":
+[
+{
+"word": "yellow"
+},
+{
+"word": "box"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "yellow cube added to the right of the previous object",
+"word_list":
+[
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "previous"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "Small yellow cube to right of blue cylinder.",
+"word_list":
+[
+{
+"word": "Small"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "to"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "the yellow cube was added to the right of the blue cylinder.   The yellow cube is in the bottom-left corner of the top-right portion of the plane.",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "was"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "The"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "bottom"
+},
+{
+"word": "left"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "right"
+},
+{
+"word": "portion"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "there is a yellow square to the right and just below the blue cylinder ",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "yellow"
+},
+{
+"word": "square"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "and"
+},
+{
+"word": "just"
+},
+{
+"word": "below"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "Whoops. Oh, well. A yellow box to the southwest of the blue cylinder. It is a tad shorter than a cube.",
+"word_list":
+[
+{
+"word": "Whoops"
+},
+{
+"word": "Oh"
+},
+{
+"word": "well"
+},
+{
+"word": "A"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "southwest"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "It"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "tad"
+},
+{
+"word": "shorter"
+},
+{
+"word": "than"
+},
+{
+"word": "a"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "the yellow box is to the right of the blue cylinders",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinders"
+}
+]
+},
+{
+"string": "A yello",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "yello"
+}
+]
+},
+{
+"string": "A yellow cube was added slightly below and to the right of the blue object. ",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "was"
+},
+{
+"word": "added"
+},
+{
+"word": "slightly"
+},
+{
+"word": "below"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "yellow cube",
+"word_list":
+[
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "A blue CD stack case is on the center of the pentagon gray area. A same-sized, light-olive cube is right to the blue CD stack case.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "CD"
+},
+{
+"word": "stack"
+},
+{
+"word": "case"
+},
+{
+"word": "is"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "pentagon"
+},
+{
+"word": "gray"
+},
+{
+"word": "area"
+},
+{
+"word": "A"
+},
+{
+"word": "same"
+},
+{
+"word": "sized"
+},
+{
+"word": "light"
+},
+{
+"word": "olive"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "right"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "CD"
+},
+{
+"word": "stack"
+},
+{
+"word": "case"
+}
+]
+},
+{
+"string": "To the right of the blue disk is a yellow cube.",
+"word_list":
+[
+{
+"word": "To"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "disk"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "The yellow box is in the vicinity of Blue, but to the right of 'him'. Yellow is similarly sized to Blue.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "vicinity"
+},
+{
+"word": "of"
+},
+{
+"word": "Blue"
+},
+{
+"word": "but"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "'him'"
+},
+{
+"word": "Yellow"
+},
+{
+"word": "is"
+},
+{
+"word": "similarly"
+},
+{
+"word": "sized"
+},
+{
+"word": "to"
+},
+{
+"word": "Blue"
+}
+]
+},
+{
+"string": "Yellow brick next to blue cylinder",
+"word_list":
+[
+{
+"word": "Yellow"
+},
+{
+"word": "brick"
+},
+{
+"word": "next"
+},
+{
+"word": "to"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "A yellow cube was placed east of the blue octoganal prism.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "east"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "octoganal"
+},
+{
+"word": "prism"
+}
+]
+},
+{
+"string": "The yellow cube is twice itself away from the blue cylinder.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "twice"
+},
+{
+"word": "itself"
+},
+{
+"word": "away"
+},
+{
+"word": "from"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "there is an orange square to the right of the blue cylinder",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "an"
+},
+{
+"word": "orange"
+},
+{
+"word": "square"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "the box is yellow, and sits a little in front of the cylinder, to the right",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "yellow"
+},
+{
+"word": "and"
+},
+{
+"word": "sits"
+},
+{
+"word": "a"
+},
+{
+"word": "little"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+}
+]
+},
+{
+"string": "yellow block placed in front and to right of blue cylinder",
+"word_list":
+[
+{
+"word": "yellow"
+},
+{
+"word": "block"
+},
+{
+"word": "placed"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "The yellow cube is situated on the grey plane to the right of the blue disk",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "situated"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "plane"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "disk"
+}
+]
+},
+{
+"string": "The yellow box is to the right of and slightly in front of the blue cylinder. ",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "and"
+},
+{
+"word": "slightly"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "A yellow square to the southeast of the blue object.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "yellow"
+},
+{
+"word": "square"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "southeast"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "There is a yellow cube on the 4'o clock of the blue.",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "4'o"
+},
+{
+"word": "clock"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+}
+]
+}
+]

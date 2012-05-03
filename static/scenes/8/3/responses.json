@@ -1,0 +1,1298 @@
+[
+{
+"string": "the red next to yellow",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "next"
+},
+{
+"word": "to"
+},
+{
+"word": "yellow"
+}
+]
+},
+{
+"string": "red cylinder propped up on the back right corner of the yellow box.",
+"word_list":
+[
+{
+"word": "red"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "propped"
+},
+{
+"word": "up"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "back"
+},
+{
+"word": "right"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "Red cylinder resting on the corner of the yellow cube",
+"word_list":
+[
+{
+"word": "Red"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "resting"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "Flattened red cylinder resting on tip of yellow cube",
+"word_list":
+[
+{
+"word": "Flattened"
+},
+{
+"word": "red"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "resting"
+},
+{
+"word": "on"
+},
+{
+"word": "tip"
+},
+{
+"word": "of"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "The red disc is held up by the top right corner of the yellow cube.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "red"
+},
+{
+"word": "disc"
+},
+{
+"word": "is"
+},
+{
+"word": "held"
+},
+{
+"word": "up"
+},
+{
+"word": "by"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "right"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "there is a red circle resting on the upper right corner of the yellow box",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "red"
+},
+{
+"word": "circle"
+},
+{
+"word": "resting"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "upper"
+},
+{
+"word": "right"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "a red disc is leaning its edge on the yellow box at its top, northeast corner. the disc has a diameter likely 1.5 times the size of the green cylinder's",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "red"
+},
+{
+"word": "disc"
+},
+{
+"word": "is"
+},
+{
+"word": "leaning"
+},
+{
+"word": "its"
+},
+{
+"word": "edge"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+},
+{
+"word": "at"
+},
+{
+"word": "its"
+},
+{
+"word": "top"
+},
+{
+"word": "northeast"
+},
+{
+"word": "corner"
+},
+{
+"word": "the"
+},
+{
+"word": "disc"
+},
+{
+"word": "has"
+},
+{
+"word": "a"
+},
+{
+"word": "diameter"
+},
+{
+"word": "likely"
+},
+{
+"word": "1"
+},
+{
+"word": "5"
+},
+{
+"word": "times"
+},
+{
+"word": "the"
+},
+{
+"word": "size"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder's"
+}
+]
+},
+{
+"string": "A short red 3D octagon is laying atop the back rear corner of the yellow object.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "short"
+},
+{
+"word": "red"
+},
+{
+"word": "3D"
+},
+{
+"word": "octagon"
+},
+{
+"word": "is"
+},
+{
+"word": "laying"
+},
+{
+"word": "atop"
+},
+{
+"word": "the"
+},
+{
+"word": "back"
+},
+{
+"word": "rear"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "A thin red slice is resting on the right corner of the yellow object. ",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "thin"
+},
+{
+"word": "red"
+},
+{
+"word": "slice"
+},
+{
+"word": "is"
+},
+{
+"word": "resting"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "The red disk is leaning on the yellow cube",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "red"
+},
+{
+"word": "disk"
+},
+{
+"word": "is"
+},
+{
+"word": "leaning"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "red thin disk",
+"word_list":
+[
+{
+"word": "red"
+},
+{
+"word": "thin"
+},
+{
+"word": "disk"
+}
+]
+},
+{
+"string": "A blue CD stack case is on the center of the pentagon gray area. A same-sized, light-olive cube is right to the blue cylinder. A green paint bucket is 45 degrees behind the blue cylinder. A red, pie container leans on one corner of the light-olive cube.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "CD"
+},
+{
+"word": "stack"
+},
+{
+"word": "case"
+},
+{
+"word": "is"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "pentagon"
+},
+{
+"word": "gray"
+},
+{
+"word": "area"
+},
+{
+"word": "A"
+},
+{
+"word": "same"
+},
+{
+"word": "sized"
+},
+{
+"word": "light"
+},
+{
+"word": "olive"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "right"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "A"
+},
+{
+"word": "green"
+},
+{
+"word": "paint"
+},
+{
+"word": "bucket"
+},
+{
+"word": "is"
+},
+{
+"word": "45"
+},
+{
+"word": "degrees"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "A"
+},
+{
+"word": "red"
+},
+{
+"word": "pie"
+},
+{
+"word": "container"
+},
+{
+"word": "leans"
+},
+{
+"word": "on"
+},
+{
+"word": "one"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "light"
+},
+{
+"word": "olive"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "Leaning on the yellow cube is a red disk.",
+"word_list":
+[
+{
+"word": "Leaning"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "red"
+},
+{
+"word": "disk"
+}
+]
+},
+{
+"string": "The red very short octahedron is placed near Yellow and has its edge resting on the edge of yellow (at least to my perspective).",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "red"
+},
+{
+"word": "very"
+},
+{
+"word": "short"
+},
+{
+"word": "octahedron"
+},
+{
+"word": "is"
+},
+{
+"word": "placed"
+},
+{
+"word": "near"
+},
+{
+"word": "Yellow"
+},
+{
+"word": "and"
+},
+{
+"word": "has"
+},
+{
+"word": "its"
+},
+{
+"word": "edge"
+},
+{
+"word": "resting"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "edge"
+},
+{
+"word": "of"
+},
+{
+"word": "yellow"
+},
+{
+"word": "at"
+},
+{
+"word": "least"
+},
+{
+"word": "to"
+},
+{
+"word": "my"
+},
+{
+"word": "perspective"
+}
+]
+},
+{
+"string": "Red cylinder on top of yellow brick",
+"word_list":
+[
+{
+"word": "Red"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "on"
+},
+{
+"word": "top"
+},
+{
+"word": "of"
+},
+{
+"word": "yellow"
+},
+{
+"word": "brick"
+}
+]
+},
+{
+"string": "A short red octagonal prism was placed leaning on the northeast corner of the yellow cube.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "short"
+},
+{
+"word": "red"
+},
+{
+"word": "octagonal"
+},
+{
+"word": "prism"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "leaning"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "northeast"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "A flat red cylindrical surface is resting at an angle on a corner of the yellow block.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "flat"
+},
+{
+"word": "red"
+},
+{
+"word": "cylindrical"
+},
+{
+"word": "surface"
+},
+{
+"word": "is"
+},
+{
+"word": "resting"
+},
+{
+"word": "at"
+},
+{
+"word": "an"
+},
+{
+"word": "angle"
+},
+{
+"word": "on"
+},
+{
+"word": "a"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "block"
+}
+]
+},
+{
+"string": "there is a brown disc that has one end sitting on top to the corner of the orange rectangle",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "brown"
+},
+{
+"word": "disc"
+},
+{
+"word": "that"
+},
+{
+"word": "has"
+},
+{
+"word": "one"
+},
+{
+"word": "end"
+},
+{
+"word": "sitting"
+},
+{
+"word": "on"
+},
+{
+"word": "top"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "orange"
+},
+{
+"word": "rectangle"
+}
+]
+},
+{
+"string": "the disk is red, and sitting on an edge. The disk sits in line with the blue cylinder, to the right",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "disk"
+},
+{
+"word": "is"
+},
+{
+"word": "red"
+},
+{
+"word": "and"
+},
+{
+"word": "sitting"
+},
+{
+"word": "on"
+},
+{
+"word": "an"
+},
+{
+"word": "edge"
+},
+{
+"word": "The"
+},
+{
+"word": "disk"
+},
+{
+"word": "sits"
+},
+{
+"word": "in"
+},
+{
+"word": "line"
+},
+{
+"word": "with"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+}
+]
+},
+{
+"string": "red octagon leaning onto the rear right corner of the yellow block",
+"word_list":
+[
+{
+"word": "red"
+},
+{
+"word": "octagon"
+},
+{
+"word": "leaning"
+},
+{
+"word": "onto"
+},
+{
+"word": "the"
+},
+{
+"word": "rear"
+},
+{
+"word": "right"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "block"
+}
+]
+},
+{
+"string": "With one edge resting of the upper right-hand corner of the yellow cube, and the opposite tangential edge resting on the grey plane, the object is a thin, red disk",
+"word_list":
+[
+{
+"word": "With"
+},
+{
+"word": "one"
+},
+{
+"word": "edge"
+},
+{
+"word": "resting"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "upper"
+},
+{
+"word": "right"
+},
+{
+"word": "hand"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+},
+{
+"word": "and"
+},
+{
+"word": "the"
+},
+{
+"word": "opposite"
+},
+{
+"word": "tangential"
+},
+{
+"word": "edge"
+},
+{
+"word": "resting"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "plane"
+},
+{
+"word": "the"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "thin"
+},
+{
+"word": "red"
+},
+{
+"word": "disk"
+}
+]
+},
+{
+"string": "The skinny, wide, red cylinder is resting one side on the yellow box's far left corner.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "skinny"
+},
+{
+"word": "wide"
+},
+{
+"word": "red"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "resting"
+},
+{
+"word": "one"
+},
+{
+"word": "side"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box's"
+},
+{
+"word": "far"
+},
+{
+"word": "left"
+},
+{
+"word": "corner"
+}
+]
+},
+{
+"string": "a red disk that is leaning on the yellow square",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "red"
+},
+{
+"word": "disk"
+},
+{
+"word": "that"
+},
+{
+"word": "is"
+},
+{
+"word": "leaning"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "square"
+}
+]
+},
+{
+"string": "There is now a thin red cylinder tiling on the yellow cube.",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "now"
+},
+{
+"word": "a"
+},
+{
+"word": "thin"
+},
+{
+"word": "red"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "tiling"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cube"
+}
+]
+}
+]

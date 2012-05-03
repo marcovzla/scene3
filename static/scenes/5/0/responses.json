@@ -1,0 +1,1118 @@
+[
+{
+"string": "a tiny blue cylinder is on the table",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "tiny"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "table"
+}
+]
+},
+{
+"string": "The blue object at the middle left",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "blue"
+},
+{
+"word": "object"
+},
+{
+"word": "at"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "left"
+}
+]
+},
+{
+"string": "small teal cylinder in the right middle of the slanted grey square.",
+"word_list":
+[
+{
+"word": "small"
+},
+{
+"word": "teal"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "middle"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "slanted"
+},
+{
+"word": "grey"
+},
+{
+"word": "square"
+}
+]
+},
+{
+"string": "small blue cylinder placed towards the center of the surface",
+"word_list":
+[
+{
+"word": "small"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "placed"
+},
+{
+"word": "towards"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "Small light blue cylinder to the right of the center of the platform.",
+"word_list":
+[
+{
+"word": "Small"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "platform"
+}
+]
+},
+{
+"string": "The blue cylinder is near the bottom-left corner of the top-right portion of the plane.  The blue cylinder is smaller than average.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "bottom"
+},
+{
+"word": "left"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "right"
+},
+{
+"word": "portion"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+},
+{
+"word": "The"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "smaller"
+},
+{
+"word": "than"
+},
+{
+"word": "average"
+}
+]
+},
+{
+"string": "there is a light blue cylinder to the right of center on the grey shape",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "center"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "shape"
+}
+]
+},
+{
+"string": "a small, very light blue cylinder sits just west of the origin of this strange grey object. The diameter is close to the height.",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "small"
+},
+{
+"word": "very"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "sits"
+},
+{
+"word": "just"
+},
+{
+"word": "west"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "origin"
+},
+{
+"word": "of"
+},
+{
+"word": "this"
+},
+{
+"word": "strange"
+},
+{
+"word": "grey"
+},
+{
+"word": "object"
+},
+{
+"word": "The"
+},
+{
+"word": "diameter"
+},
+{
+"word": "is"
+},
+{
+"word": "close"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "height"
+}
+]
+},
+{
+"string": "Th blue cylinder is to the right of the middle of the plane",
+"word_list":
+[
+{
+"word": "Th"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "A small 3D blue octagon is placed toward the back right of the grey surface.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "small"
+},
+{
+"word": "3D"
+},
+{
+"word": "blue"
+},
+{
+"word": "octagon"
+},
+{
+"word": "is"
+},
+{
+"word": "placed"
+},
+{
+"word": "toward"
+},
+{
+"word": "the"
+},
+{
+"word": "back"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "There is small turquoise cylinder in the middle right side of the gray area. ",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "small"
+},
+{
+"word": "turquoise"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "right"
+},
+{
+"word": "side"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "area"
+}
+]
+},
+{
+"string": "Cyan color cylinder on the middle of the pentagon looking shape platform. ",
+"word_list":
+[
+{
+"word": "Cyan"
+},
+{
+"word": "color"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "pentagon"
+},
+{
+"word": "looking"
+},
+{
+"word": "shape"
+},
+{
+"word": "platform"
+}
+]
+},
+{
+"string": "teal 3d cylinderical tube",
+"word_list":
+[
+{
+"word": "teal"
+},
+{
+"word": "3d"
+},
+{
+"word": "cylinderical"
+},
+{
+"word": "tube"
+}
+]
+},
+{
+"string": "A short, cyan cylinder is at the center of the gray area. ",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "short"
+},
+{
+"word": "cyan"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "at"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "area"
+}
+]
+},
+{
+"string": "The cylinder is in the center of the plane.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "This light blue cylinder is very small and has a very long shadow. It is toward the right-middle. ",
+"word_list":
+[
+{
+"word": "This"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "very"
+},
+{
+"word": "small"
+},
+{
+"word": "and"
+},
+{
+"word": "has"
+},
+{
+"word": "a"
+},
+{
+"word": "very"
+},
+{
+"word": "long"
+},
+{
+"word": "shadow"
+},
+{
+"word": "It"
+},
+{
+"word": "is"
+},
+{
+"word": "toward"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "middle"
+}
+]
+},
+{
+"string": "There is a teal brick on the gray surface.",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "teal"
+},
+{
+"word": "brick"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "A teal cylinder was placed near the enter in the easter hemisphere.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "teal"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "enter"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "easter"
+},
+{
+"word": "hemisphere"
+}
+]
+},
+{
+"string": "A small light blue cylinder.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "small"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "there is a small pink cylinder on the plane",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "small"
+},
+{
+"word": "pink"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "the cylinder is teal and small, and sits a little right of the center of the plane.",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "teal"
+},
+{
+"word": "and"
+},
+{
+"word": "small"
+},
+{
+"word": "and"
+},
+{
+"word": "sits"
+},
+{
+"word": "a"
+},
+{
+"word": "little"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "grey cylinder on middle right of table",
+"word_list":
+[
+{
+"word": "grey"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "on"
+},
+{
+"word": "middle"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "table"
+}
+]
+},
+{
+"string": "The small light blue cylinder is in the center of the vertical plane and to the right of it's horizontal center.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "small"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "vertical"
+},
+{
+"word": "plane"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "it's"
+},
+{
+"word": "horizontal"
+},
+{
+"word": "center"
+}
+]
+},
+{
+"string": "The object is a tiny cyan cylinder, located to the right of the center of the grey plane",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "tiny"
+},
+{
+"word": "cyan"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "located"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "a cyan cylinder to the east that is about on the x axis",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "cyan"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "east"
+},
+{
+"word": "that"
+},
+{
+"word": "is"
+},
+{
+"word": "about"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "x"
+},
+{
+"word": "axis"
+}
+]
+}
+]

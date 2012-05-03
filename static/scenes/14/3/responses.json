@@ -1,0 +1,1355 @@
+[
+{
+"string": "the small blue in the middle",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "small"
+},
+{
+"word": "blue"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+}
+]
+},
+{
+"string": "Smaller blue box added to the right of the red box.",
+"word_list":
+[
+{
+"word": "Smaller"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "blue rectangular prism added to the left of previous object",
+"word_list":
+[
+{
+"word": "blue"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "previous"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "Like previous object but much shorter and is sitting in between the three previous objects",
+"word_list":
+[
+{
+"word": "Like"
+},
+{
+"word": "previous"
+},
+{
+"word": "object"
+},
+{
+"word": "but"
+},
+{
+"word": "much"
+},
+{
+"word": "shorter"
+},
+{
+"word": "and"
+},
+{
+"word": "is"
+},
+{
+"word": "sitting"
+},
+{
+"word": "in"
+},
+{
+"word": "between"
+},
+{
+"word": "the"
+},
+{
+"word": "three"
+},
+{
+"word": "previous"
+},
+{
+"word": "objects"
+}
+]
+},
+{
+"string": "the blue rectangle is standing up between the red rectangular prism and the blue square.  the blue rectangle is about half as far from the blue square as the blue rectangle is from the red rectangular prism.",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "is"
+},
+{
+"word": "standing"
+},
+{
+"word": "up"
+},
+{
+"word": "between"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "and"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "square"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "is"
+},
+{
+"word": "about"
+},
+{
+"word": "half"
+},
+{
+"word": "as"
+},
+{
+"word": "far"
+},
+{
+"word": "from"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "square"
+},
+{
+"word": "as"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "is"
+},
+{
+"word": "from"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+}
+]
+},
+{
+"string": "there is a blue rectangle between the red rectangle and the blue box",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "between"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "and"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "another blue box, like the red box but sitting on its wide, short side, sits just to the south west of the other blue box.",
+"word_list":
+[
+{
+"word": "another"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "like"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "box"
+},
+{
+"word": "but"
+},
+{
+"word": "sitting"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "wide"
+},
+{
+"word": "short"
+},
+{
+"word": "side"
+},
+{
+"word": "sits"
+},
+{
+"word": "just"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "south"
+},
+{
+"word": "west"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "A smaller blue cuboid on its side is to the left of the larger blue cuboid.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "smaller"
+},
+{
+"word": "blue"
+},
+{
+"word": "cuboid"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "side"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "larger"
+},
+{
+"word": "blue"
+},
+{
+"word": "cuboid"
+}
+]
+},
+{
+"string": "A second blue rectangle object is to the left of the first blue one. ",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "second"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "first"
+},
+{
+"word": "blue"
+},
+{
+"word": "one"
+}
+]
+},
+{
+"string": "The blue box is to the left of the larger blue square",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "larger"
+},
+{
+"word": "blue"
+},
+{
+"word": "square"
+}
+]
+},
+{
+"string": "thin blue rectangular brick",
+"word_list":
+[
+{
+"word": "thin"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "brick"
+}
+]
+},
+{
+"string": "A red tissue box is left to the center and a red, octagon bucket is behind the tissue box. A blue cooke box is at the center. A blue cereal box is right to the center. ",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "red"
+},
+{
+"word": "tissue"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "left"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "and"
+},
+{
+"word": "a"
+},
+{
+"word": "red"
+},
+{
+"word": "octagon"
+},
+{
+"word": "bucket"
+},
+{
+"word": "is"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "tissue"
+},
+{
+"word": "box"
+},
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "cooke"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "at"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "cereal"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "right"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+}
+]
+},
+{
+"string": "Directly to the left of the blue cube is a blue rectangular prisim.",
+"word_list":
+[
+{
+"word": "Directly"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prisim"
+}
+]
+},
+{
+"string": "Little-blue, as we will call him for this round, is similar in width and length of bigger-blue, but is much shorter than 'him'. little blue is placed to the left of bigger-blue",
+"word_list":
+[
+{
+"word": "Little"
+},
+{
+"word": "blue"
+},
+{
+"word": "as"
+},
+{
+"word": "we"
+},
+{
+"word": "will"
+},
+{
+"word": "call"
+},
+{
+"word": "him"
+},
+{
+"word": "for"
+},
+{
+"word": "this"
+},
+{
+"word": "round"
+},
+{
+"word": "is"
+},
+{
+"word": "similar"
+},
+{
+"word": "in"
+},
+{
+"word": "width"
+},
+{
+"word": "and"
+},
+{
+"word": "length"
+},
+{
+"word": "of"
+},
+{
+"word": "bigger"
+},
+{
+"word": "blue"
+},
+{
+"word": "but"
+},
+{
+"word": "is"
+},
+{
+"word": "much"
+},
+{
+"word": "shorter"
+},
+{
+"word": "than"
+},
+{
+"word": "'him'"
+},
+{
+"word": "little"
+},
+{
+"word": "blue"
+},
+{
+"word": "is"
+},
+{
+"word": "placed"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "bigger"
+},
+{
+"word": "blue"
+}
+]
+},
+{
+"string": "Blue brick between the other items",
+"word_list":
+[
+{
+"word": "Blue"
+},
+{
+"word": "brick"
+},
+{
+"word": "between"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "items"
+}
+]
+},
+{
+"string": "A short, skinny blue block sits, angled slightly in between the blue and red blocks.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "short"
+},
+{
+"word": "skinny"
+},
+{
+"word": "blue"
+},
+{
+"word": "block"
+},
+{
+"word": "sits"
+},
+{
+"word": "angled"
+},
+{
+"word": "slightly"
+},
+{
+"word": "in"
+},
+{
+"word": "between"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "and"
+},
+{
+"word": "red"
+},
+{
+"word": "blocks"
+}
+]
+},
+{
+"string": "there is a smaller blue block in between the larger blue block and the brown objects",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "smaller"
+},
+{
+"word": "blue"
+},
+{
+"word": "block"
+},
+{
+"word": "in"
+},
+{
+"word": "between"
+},
+{
+"word": "the"
+},
+{
+"word": "larger"
+},
+{
+"word": "blue"
+},
+{
+"word": "block"
+},
+{
+"word": "and"
+},
+{
+"word": "the"
+},
+{
+"word": "brown"
+},
+{
+"word": "objects"
+}
+]
+},
+{
+"string": "A small blue rectangular prism was placed just west of the larger blue rectangular prism.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "small"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "just"
+},
+{
+"word": "west"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "larger"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+}
+]
+},
+{
+"string": "the box is short and blue, and sits a little to the left in between  the blue box and the brick",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "short"
+},
+{
+"word": "and"
+},
+{
+"word": "blue"
+},
+{
+"word": "and"
+},
+{
+"word": "sits"
+},
+{
+"word": "a"
+},
+{
+"word": "little"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "in"
+},
+{
+"word": "between"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "and"
+},
+{
+"word": "the"
+},
+{
+"word": "brick"
+}
+]
+},
+{
+"string": "purple block placed in beteen blue and red blocks",
+"word_list":
+[
+{
+"word": "purple"
+},
+{
+"word": "block"
+},
+{
+"word": "placed"
+},
+{
+"word": "in"
+},
+{
+"word": "beteen"
+},
+{
+"word": "blue"
+},
+{
+"word": "and"
+},
+{
+"word": "red"
+},
+{
+"word": "blocks"
+}
+]
+},
+{
+"string": "The smaller blue box is between the red and blue box and closer to the blue box.  It is resting on it's side at a different angle than the other blue box.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "smaller"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "between"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "and"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "and"
+},
+{
+"word": "closer"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "It"
+},
+{
+"word": "is"
+},
+{
+"word": "resting"
+},
+{
+"word": "on"
+},
+{
+"word": "it's"
+},
+{
+"word": "side"
+},
+{
+"word": "at"
+},
+{
+"word": "a"
+},
+{
+"word": "different"
+},
+{
+"word": "angle"
+},
+{
+"word": "than"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "The object is a small blue rectangle, placed on its side at an angle to the north of the larger blue rectangle ",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "small"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "placed"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "side"
+},
+{
+"word": "at"
+},
+{
+"word": "an"
+},
+{
+"word": "angle"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "north"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "larger"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+}
+]
+},
+{
+"string": "a cocked blue rectangle that is east of the other blue rectangle.",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "cocked"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "that"
+},
+{
+"word": "is"
+},
+{
+"word": "east"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+}
+]
+},
+{
+"string": "There is now another blue one but tiled.",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "now"
+},
+{
+"word": "another"
+},
+{
+"word": "blue"
+},
+{
+"word": "one"
+},
+{
+"word": "but"
+},
+{
+"word": "tiled"
+}
+]
+}
+]

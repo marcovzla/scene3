@@ -1,0 +1,1142 @@
+[
+{
+"string": "A puce cube is near the back left corner.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "puce"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "back"
+},
+{
+"word": "left"
+},
+{
+"word": "corner"
+}
+]
+},
+{
+"string": "The purple block is in the back left of the plane.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "purple"
+},
+{
+"word": "block"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "back"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "The purple object.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "purple"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "Purple box located in upper left of slanted grey square.",
+"word_list":
+[
+{
+"word": "Purple"
+},
+{
+"word": "box"
+},
+{
+"word": "located"
+},
+{
+"word": "in"
+},
+{
+"word": "upper"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "slanted"
+},
+{
+"word": "grey"
+},
+{
+"word": "square"
+}
+]
+},
+{
+"string": "Purple cube placed in the back left corner of surface",
+"word_list":
+[
+{
+"word": "Purple"
+},
+{
+"word": "cube"
+},
+{
+"word": "placed"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "back"
+},
+{
+"word": "left"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "Purple 3D square in the north left hand corner.",
+"word_list":
+[
+{
+"word": "Purple"
+},
+{
+"word": "3D"
+},
+{
+"word": "square"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "north"
+},
+{
+"word": "left"
+},
+{
+"word": "hand"
+},
+{
+"word": "corner"
+}
+]
+},
+{
+"string": "The purple cube is near the top-center of the top-left portion of the plane.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "purple"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "left"
+},
+{
+"word": "portion"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "there is a purple box above and to the right of center of the grey shape",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "purple"
+},
+{
+"word": "box"
+},
+{
+"word": "above"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "shape"
+}
+]
+},
+{
+"string": "a maroon, purple box, near cube, but a bit shorter. It is dark on the top and close to the northwest corner of the grey object (closer to the northeast side than the northwest side)",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "maroon"
+},
+{
+"word": "purple"
+},
+{
+"word": "box"
+},
+{
+"word": "near"
+},
+{
+"word": "cube"
+},
+{
+"word": "but"
+},
+{
+"word": "a"
+},
+{
+"word": "bit"
+},
+{
+"word": "shorter"
+},
+{
+"word": "It"
+},
+{
+"word": "is"
+},
+{
+"word": "dark"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "and"
+},
+{
+"word": "close"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "northwest"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "object"
+},
+{
+"word": "closer"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "northeast"
+},
+{
+"word": "side"
+},
+{
+"word": "than"
+},
+{
+"word": "the"
+},
+{
+"word": "northwest"
+},
+{
+"word": "side"
+}
+]
+},
+{
+"string": "The purple cube is on the far corner of the plane",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "purple"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "far"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "A light purple cube is toward the back left corner of the grey space.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "light"
+},
+{
+"word": "purple"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "toward"
+},
+{
+"word": "the"
+},
+{
+"word": "back"
+},
+{
+"word": "left"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "space"
+}
+]
+},
+{
+"string": "There is a purple cube in the upper left area of the gray area. ",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "purple"
+},
+{
+"word": "cube"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "upper"
+},
+{
+"word": "left"
+},
+{
+"word": "area"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "area"
+}
+]
+},
+{
+"string": "A purple cube was placed in the northwestern hemisphere of the gray plane.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "purple"
+},
+{
+"word": "cube"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "northwestern"
+},
+{
+"word": "hemisphere"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "Purple cube on the top left side of the given picture.",
+"word_list":
+[
+{
+"word": "Purple"
+},
+{
+"word": "cube"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "left"
+},
+{
+"word": "side"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "given"
+},
+{
+"word": "picture"
+}
+]
+},
+{
+"string": "purple cube",
+"word_list":
+[
+{
+"word": "purple"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "A purple box is places closed to the furthest corner of a huge, pentagon, gray mat. The light source is coming from 5 o'clock direction.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "purple"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "places"
+},
+{
+"word": "closed"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "furthest"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "a"
+},
+{
+"word": "huge"
+},
+{
+"word": "pentagon"
+},
+{
+"word": "gray"
+},
+{
+"word": "mat"
+},
+{
+"word": "The"
+},
+{
+"word": "light"
+},
+{
+"word": "source"
+},
+{
+"word": "is"
+},
+{
+"word": "coming"
+},
+{
+"word": "from"
+},
+{
+"word": "5"
+},
+{
+"word": "o'clock"
+},
+{
+"word": "direction"
+}
+]
+},
+{
+"string": "Near the far left corner of the plane is a pink cube.",
+"word_list":
+[
+{
+"word": "Near"
+},
+{
+"word": "the"
+},
+{
+"word": "far"
+},
+{
+"word": "left"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "pink"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "The light purple box is in the distance and pretty large.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "light"
+},
+{
+"word": "purple"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "distance"
+},
+{
+"word": "and"
+},
+{
+"word": "pretty"
+},
+{
+"word": "large"
+}
+]
+},
+{
+"string": "Magenta object is on the gray surface.",
+"word_list":
+[
+{
+"word": "Magenta"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "A magenta box sits towards the back corner of a gray surface.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "magenta"
+},
+{
+"word": "box"
+},
+{
+"word": "sits"
+},
+{
+"word": "towards"
+},
+{
+"word": "the"
+},
+{
+"word": "back"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "a"
+},
+{
+"word": "gray"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "the  purple square is sitting on the plane",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "square"
+},
+{
+"word": "is"
+},
+{
+"word": "sitting"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "the box is magenta, and sits almost at the back of the plane, toward the left side ",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "magenta"
+},
+{
+"word": "and"
+},
+{
+"word": "sits"
+},
+{
+"word": "almost"
+},
+{
+"word": "at"
+},
+{
+"word": "the"
+},
+{
+"word": "back"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+},
+{
+"word": "toward"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "side"
+}
+]
+},
+{
+"string": "purple square block on back left of table",
+"word_list":
+[
+{
+"word": "purple"
+},
+{
+"word": "square"
+},
+{
+"word": "block"
+},
+{
+"word": "on"
+},
+{
+"word": "back"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "table"
+}
+]
+},
+{
+"string": "The purple box is to the far left side of the plane.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "purple"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "far"
+},
+{
+"word": "left"
+},
+{
+"word": "side"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "The object is a purple cube located near the upper-left corner of the grey plane and near the upper edge of the grey plane's edge",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "purple"
+},
+{
+"word": "cube"
+},
+{
+"word": "located"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "upper"
+},
+{
+"word": "left"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "plane"
+},
+{
+"word": "and"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "upper"
+},
+{
+"word": "edge"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "plane's"
+},
+{
+"word": "edge"
+}
+]
+},
+{
+"string": "a purple block to the northwest",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "purple"
+},
+{
+"word": "block"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "northwest"
+}
+]
+}
+]

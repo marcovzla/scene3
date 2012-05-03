@@ -1,0 +1,1280 @@
+[
+{
+"string": "a larger cylinder, this one green, is to the left of the green disk",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "larger"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "this"
+},
+{
+"word": "one"
+},
+{
+"word": "green"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "disk"
+}
+]
+},
+{
+"string": "The left green object",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "left"
+},
+{
+"word": "green"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "Taller, thinner cylinder added to the right of the other green cylinder.",
+"word_list":
+[
+{
+"word": "Taller"
+},
+{
+"word": "thinner"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "Taller octogon prism added to the left of the previous object as well as farther behind",
+"word_list":
+[
+{
+"word": "Taller"
+},
+{
+"word": "octogon"
+},
+{
+"word": "prism"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "previous"
+},
+{
+"word": "object"
+},
+{
+"word": "as"
+},
+{
+"word": "well"
+},
+{
+"word": "as"
+},
+{
+"word": "farther"
+},
+{
+"word": "behind"
+}
+]
+},
+{
+"string": "Dark green and to the left of the precious structure. Tallest of the three.",
+"word_list":
+[
+{
+"word": "Dark"
+},
+{
+"word": "green"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "precious"
+},
+{
+"word": "structure"
+},
+{
+"word": "Tallest"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "three"
+}
+]
+},
+{
+"string": "The green cylinder was added to the left of the green disc.  The green cylinder is near the center of the top-left portion of the plane.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "was"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "disc"
+},
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "left"
+},
+{
+"word": "portion"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "there is a smaller green cylinder above and to the left of the original green cylinder",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "smaller"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "above"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "original"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "Another green cylinder, except this time it is proportionally the same as the blue cylinder, only twice as large and positioned somewhat northwest of the shorter green cylinder.",
+"word_list":
+[
+{
+"word": "Another"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "except"
+},
+{
+"word": "this"
+},
+{
+"word": "time"
+},
+{
+"word": "it"
+},
+{
+"word": "is"
+},
+{
+"word": "proportionally"
+},
+{
+"word": "the"
+},
+{
+"word": "same"
+},
+{
+"word": "as"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "only"
+},
+{
+"word": "twice"
+},
+{
+"word": "as"
+},
+{
+"word": "large"
+},
+{
+"word": "and"
+},
+{
+"word": "positioned"
+},
+{
+"word": "somewhat"
+},
+{
+"word": "northwest"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "shorter"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "The taller green cylinder is to the left of the short green cylinder",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "taller"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "short"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "A taller green 3D octagon is to left and behind the shorter fatter one.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "taller"
+},
+{
+"word": "green"
+},
+{
+"word": "3D"
+},
+{
+"word": "octagon"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "left"
+},
+{
+"word": "and"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "shorter"
+},
+{
+"word": "fatter"
+},
+{
+"word": "one"
+}
+]
+},
+{
+"string": "A taller but smaller in width green cylinder was added to the left of the green octagon. ",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "taller"
+},
+{
+"word": "but"
+},
+{
+"word": "smaller"
+},
+{
+"word": "in"
+},
+{
+"word": "width"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "was"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "octagon"
+}
+]
+},
+{
+"string": "They added a hexagon/octagon green color shape on the 100 clock position.",
+"word_list":
+[
+{
+"word": "They"
+},
+{
+"word": "added"
+},
+{
+"word": "a"
+},
+{
+"word": "hexagon"
+},
+{
+"word": "octagon"
+},
+{
+"word": "green"
+},
+{
+"word": "color"
+},
+{
+"word": "shape"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "100"
+},
+{
+"word": "clock"
+},
+{
+"word": "position"
+}
+]
+},
+{
+"string": "green cylinderical tube",
+"word_list":
+[
+{
+"word": "green"
+},
+{
+"word": "cylinderical"
+},
+{
+"word": "tube"
+}
+]
+},
+{
+"string": "A short, cyan cylinder and a green, octagon prism shares the center of the gray area. At 10 o'clock direction, there is a taller green octagon prism.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "short"
+},
+{
+"word": "cyan"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "and"
+},
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "octagon"
+},
+{
+"word": "prism"
+},
+{
+"word": "shares"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "area"
+},
+{
+"word": "At"
+},
+{
+"word": "10"
+},
+{
+"word": "o'clock"
+},
+{
+"word": "direction"
+},
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "taller"
+},
+{
+"word": "green"
+},
+{
+"word": "octagon"
+},
+{
+"word": "prism"
+}
+]
+},
+{
+"string": "The green cylinder is behind the green disk",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "disk"
+}
+]
+},
+{
+"string": "The new green octahedren is similarly colored to the previous placed object in the middle, and much taller.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "new"
+},
+{
+"word": "green"
+},
+{
+"word": "octahedren"
+},
+{
+"word": "is"
+},
+{
+"word": "similarly"
+},
+{
+"word": "colored"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "previous"
+},
+{
+"word": "placed"
+},
+{
+"word": "object"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "and"
+},
+{
+"word": "much"
+},
+{
+"word": "taller"
+}
+]
+},
+{
+"string": "There are now two green cylinders on the gray surface",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "are"
+},
+{
+"word": "now"
+},
+{
+"word": "two"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinders"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "A green cylinder was placed northwest of the green octoganal prism",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "northwest"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "octoganal"
+},
+{
+"word": "prism"
+}
+]
+},
+{
+"string": "A tall and skinny cylinder sits almost equally apart from the flat green cylinder as the light blue cylidner.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "tall"
+},
+{
+"word": "and"
+},
+{
+"word": "skinny"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "sits"
+},
+{
+"word": "almost"
+},
+{
+"word": "equally"
+},
+{
+"word": "apart"
+},
+{
+"word": "from"
+},
+{
+"word": "the"
+},
+{
+"word": "flat"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "as"
+},
+{
+"word": "the"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylidner"
+}
+]
+},
+{
+"string": "there is a taller brown rectangle to the left of the shorter one",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "taller"
+},
+{
+"word": "brown"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "shorter"
+},
+{
+"word": "one"
+}
+]
+},
+{
+"string": "the cylinder is green, and sits behind the disk, to the left ",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "green"
+},
+{
+"word": "and"
+},
+{
+"word": "sits"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "disk"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+}
+]
+},
+{
+"string": "green cylinder placed to left and behind green octagon",
+"word_list":
+[
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "placed"
+},
+{
+"word": "to"
+},
+{
+"word": "left"
+},
+{
+"word": "and"
+},
+{
+"word": "behind"
+},
+{
+"word": "green"
+},
+{
+"word": "octagon"
+}
+]
+},
+{
+"string": "The taller green cylinder is to the left of and behind the wider, shorter, first green cylinder.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "taller"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "and"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "wider"
+},
+{
+"word": "shorter"
+},
+{
+"word": "first"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "The object is a tall green cylinder, about two thirds the diameter of the green disk, located to the top-left of the green disk and near the left edge of the grey plane",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "tall"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "about"
+},
+{
+"word": "two"
+},
+{
+"word": "thirds"
+},
+{
+"word": "the"
+},
+{
+"word": "diameter"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "disk"
+},
+{
+"word": "located"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "disk"
+},
+{
+"word": "and"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "edge"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "a green cylinder west of everything else",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "west"
+},
+{
+"word": "of"
+},
+{
+"word": "everything"
+},
+{
+"word": "else"
+}
+]
+}
+]

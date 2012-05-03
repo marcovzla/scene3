@@ -1,0 +1,1466 @@
+[
+{
+"string": "a larger green brick, on its edge, is near the back left corner of the table.",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "larger"
+},
+{
+"word": "green"
+},
+{
+"word": "brick"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "edge"
+},
+{
+"word": "is"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "back"
+},
+{
+"word": "left"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "table"
+}
+]
+},
+{
+"string": "The green next to red",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "next"
+},
+{
+"word": "to"
+},
+{
+"word": "red"
+}
+]
+},
+{
+"string": "tall green box added to the right of the small red box.",
+"word_list":
+[
+{
+"word": "tall"
+},
+{
+"word": "green"
+},
+{
+"word": "box"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "small"
+},
+{
+"word": "red"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "Green rectangular prism added between two previous objects",
+"word_list":
+[
+{
+"word": "Green"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "added"
+},
+{
+"word": "between"
+},
+{
+"word": "two"
+},
+{
+"word": "previous"
+},
+{
+"word": "objects"
+}
+]
+},
+{
+"string": "Dark green, looks like a wall type structure and is to the left of the red structure.",
+"word_list":
+[
+{
+"word": "Dark"
+},
+{
+"word": "green"
+},
+{
+"word": "looks"
+},
+{
+"word": "like"
+},
+{
+"word": "a"
+},
+{
+"word": "wall"
+},
+{
+"word": "type"
+},
+{
+"word": "structure"
+},
+{
+"word": "and"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "structure"
+}
+]
+},
+{
+"string": "The green square is standing up near the center of the top-left portion of the plane.  The green square is directly up from the purple cylinder.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "square"
+},
+{
+"word": "is"
+},
+{
+"word": "standing"
+},
+{
+"word": "up"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "left"
+},
+{
+"word": "portion"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+},
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "square"
+},
+{
+"word": "is"
+},
+{
+"word": "directly"
+},
+{
+"word": "up"
+},
+{
+"word": "from"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "tere is a green box to the left of the red rectangle",
+"word_list":
+[
+{
+"word": "tere"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "box"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "rectangle"
+}
+]
+},
+{
+"string": "a tall, flat, green box sits with its large face toward the magenta cylinder, a bit to the west of the red brick",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "tall"
+},
+{
+"word": "flat"
+},
+{
+"word": "green"
+},
+{
+"word": "box"
+},
+{
+"word": "sits"
+},
+{
+"word": "with"
+},
+{
+"word": "its"
+},
+{
+"word": "large"
+},
+{
+"word": "face"
+},
+{
+"word": "toward"
+},
+{
+"word": "the"
+},
+{
+"word": "magenta"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "a"
+},
+{
+"word": "bit"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "west"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "brick"
+}
+]
+},
+{
+"string": "The green vertical box is to the left of the red box",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "vertical"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "A green short 3D square on its side is  to the left of the red object and behind the light purple object.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "green"
+},
+{
+"word": "short"
+},
+{
+"word": "3D"
+},
+{
+"word": "square"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "side"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "object"
+},
+{
+"word": "and"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "light"
+},
+{
+"word": "purple"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "A green rectangle is to the left of the red object and above the pink object. ",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "green"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "object"
+},
+{
+"word": "and"
+},
+{
+"word": "above"
+},
+{
+"word": "the"
+},
+{
+"word": "pink"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "green thin 3d square",
+"word_list":
+[
+{
+"word": "green"
+},
+{
+"word": "thin"
+},
+{
+"word": "3d"
+},
+{
+"word": "square"
+}
+]
+},
+{
+"string": "A magenta can is on the left side of the gray area. A red cigarette box lies at 2 o'clock direction from the magenta can. A green cookie box is right behind the magenta can. but closer to the red cigarette box. ",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "magenta"
+},
+{
+"word": "can"
+},
+{
+"word": "is"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "side"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "area"
+},
+{
+"word": "A"
+},
+{
+"word": "red"
+},
+{
+"word": "cigarette"
+},
+{
+"word": "box"
+},
+{
+"word": "lies"
+},
+{
+"word": "at"
+},
+{
+"word": "2"
+},
+{
+"word": "o'clock"
+},
+{
+"word": "direction"
+},
+{
+"word": "from"
+},
+{
+"word": "the"
+},
+{
+"word": "magenta"
+},
+{
+"word": "can"
+},
+{
+"word": "A"
+},
+{
+"word": "green"
+},
+{
+"word": "cookie"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "right"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "magenta"
+},
+{
+"word": "can"
+},
+{
+"word": "but"
+},
+{
+"word": "closer"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "cigarette"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "To the right of the red rectangular prisim and beding the pink cylinder is a green rectangular prisim.",
+"word_list":
+[
+{
+"word": "To"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prisim"
+},
+{
+"word": "and"
+},
+{
+"word": "beding"
+},
+{
+"word": "the"
+},
+{
+"word": "pink"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prisim"
+}
+]
+},
+{
+"string": "This new green object appears to be in between but a little bit back from the purple and red objects. It resembles my external hard drive if it were green.",
+"word_list":
+[
+{
+"word": "This"
+},
+{
+"word": "new"
+},
+{
+"word": "green"
+},
+{
+"word": "object"
+},
+{
+"word": "appears"
+},
+{
+"word": "to"
+},
+{
+"word": "be"
+},
+{
+"word": "in"
+},
+{
+"word": "between"
+},
+{
+"word": "but"
+},
+{
+"word": "a"
+},
+{
+"word": "little"
+},
+{
+"word": "bit"
+},
+{
+"word": "back"
+},
+{
+"word": "from"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "and"
+},
+{
+"word": "red"
+},
+{
+"word": "objects"
+},
+{
+"word": "It"
+},
+{
+"word": "resembles"
+},
+{
+"word": "my"
+},
+{
+"word": "external"
+},
+{
+"word": "hard"
+},
+{
+"word": "drive"
+},
+{
+"word": "if"
+},
+{
+"word": "it"
+},
+{
+"word": "were"
+},
+{
+"word": "green"
+}
+]
+},
+{
+"string": "Green brick to the left of the red brick",
+"word_list":
+[
+{
+"word": "Green"
+},
+{
+"word": "brick"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "brick"
+}
+]
+},
+{
+"string": "A green rectangular skinny block sits in proximity to the magenta and red.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "green"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "skinny"
+},
+{
+"word": "block"
+},
+{
+"word": "sits"
+},
+{
+"word": "in"
+},
+{
+"word": "proximity"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "magenta"
+},
+{
+"word": "and"
+},
+{
+"word": "red"
+}
+]
+},
+{
+"string": "the brown square was placed betwen the block and cylinder",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "brown"
+},
+{
+"word": "square"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "betwen"
+},
+{
+"word": "the"
+},
+{
+"word": "block"
+},
+{
+"word": "and"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "A tall green rectangular prism was placed west of the short red rectangular prism.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "tall"
+},
+{
+"word": "green"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "west"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "short"
+},
+{
+"word": "red"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+}
+]
+},
+{
+"string": "the box is dark green, and sits directly left of the brick, and directly behind the cylinder",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "dark"
+},
+{
+"word": "green"
+},
+{
+"word": "and"
+},
+{
+"word": "sits"
+},
+{
+"word": "directly"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "brick"
+},
+{
+"word": "and"
+},
+{
+"word": "directly"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "green block placed to the left of red block, behind pink cylinder",
+"word_list":
+[
+{
+"word": "green"
+},
+{
+"word": "block"
+},
+{
+"word": "placed"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "red"
+},
+{
+"word": "block"
+},
+{
+"word": "behind"
+},
+{
+"word": "pink"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "There is a thin small green rectangular prism stood on its narrow side and to the left of the red rectangular prism and the pink cylinder. It is wider, longer and more square than the red rectangular prism",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "thin"
+},
+{
+"word": "small"
+},
+{
+"word": "green"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "stood"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "narrow"
+},
+{
+"word": "side"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "and"
+},
+{
+"word": "the"
+},
+{
+"word": "pink"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "It"
+},
+{
+"word": "is"
+},
+{
+"word": "wider"
+},
+{
+"word": "longer"
+},
+{
+"word": "and"
+},
+{
+"word": "more"
+},
+{
+"word": "square"
+},
+{
+"word": "than"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+}
+]
+},
+{
+"string": "The object is a small, but thicker, green rectangle situated at the 90 degree intersection of the two previous objects.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "small"
+},
+{
+"word": "but"
+},
+{
+"word": "thicker"
+},
+{
+"word": "green"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "situated"
+},
+{
+"word": "at"
+},
+{
+"word": "the"
+},
+{
+"word": "90"
+},
+{
+"word": "degree"
+},
+{
+"word": "intersection"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "two"
+},
+{
+"word": "previous"
+},
+{
+"word": "objects"
+}
+]
+},
+{
+"string": "The green box is to the the right of the red box and behind the purple sphere.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "box"
+},
+{
+"word": "and"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "sphere"
+}
+]
+},
+{
+"string": "a green block that forms a triangle with the other two blocks",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "block"
+},
+{
+"word": "that"
+},
+{
+"word": "forms"
+},
+{
+"word": "a"
+},
+{
+"word": "triangle"
+},
+{
+"word": "with"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "two"
+},
+{
+"word": "blocks"
+}
+]
+},
+{
+"string": "Now there is a green rectangle cube on the corner.",
+"word_list":
+[
+{
+"word": "Now"
+},
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "cube"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "corner"
+}
+]
+}
+]

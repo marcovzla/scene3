@@ -1,0 +1,1262 @@
+[
+{
+"string": "A blue ball is placed near the left edge of the table about halfway between the front and back edges",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "ball"
+},
+{
+"word": "is"
+},
+{
+"word": "placed"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "edge"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "table"
+},
+{
+"word": "about"
+},
+{
+"word": "halfway"
+},
+{
+"word": "between"
+},
+{
+"word": "the"
+},
+{
+"word": "front"
+},
+{
+"word": "and"
+},
+{
+"word": "back"
+},
+{
+"word": "edges"
+}
+]
+},
+{
+"string": "The blue ball on the left",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "blue"
+},
+{
+"word": "ball"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+}
+]
+},
+{
+"string": "Blue sphere added to the bottom left of the green sphere.",
+"word_list":
+[
+{
+"word": "Blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "bottom"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "sphere"
+}
+]
+},
+{
+"string": "Larger, blue sphere added to the left of the green sphere, also slightly closer to viewer",
+"word_list":
+[
+{
+"word": "Larger"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "sphere"
+},
+{
+"word": "also"
+},
+{
+"word": "slightly"
+},
+{
+"word": "closer"
+},
+{
+"word": "to"
+},
+{
+"word": "viewer"
+}
+]
+},
+{
+"string": "Dark blue spherical object that is slightly bigger than the other one.",
+"word_list":
+[
+{
+"word": "Dark"
+},
+{
+"word": "blue"
+},
+{
+"word": "spherical"
+},
+{
+"word": "object"
+},
+{
+"word": "that"
+},
+{
+"word": "is"
+},
+{
+"word": "slightly"
+},
+{
+"word": "bigger"
+},
+{
+"word": "than"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "one"
+}
+]
+},
+{
+"string": "The blue sphere was added down and to the left of the green sphere.  The blue sphere is top-center of the bottom-left portion of the plane.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "was"
+},
+{
+"word": "added"
+},
+{
+"word": "down"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "sphere"
+},
+{
+"word": "The"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "is"
+},
+{
+"word": "top"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "bottom"
+},
+{
+"word": "left"
+},
+{
+"word": "portion"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "there is a blue ball to the left of center of the grey shape",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "ball"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "shape"
+}
+]
+},
+{
+"string": "a blue sphere to the southwest of the green sphere. It is larger and about 4 diameters away.",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "southwest"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "sphere"
+},
+{
+"word": "It"
+},
+{
+"word": "is"
+},
+{
+"word": "larger"
+},
+{
+"word": "and"
+},
+{
+"word": "about"
+},
+{
+"word": "4"
+},
+{
+"word": "diameters"
+},
+{
+"word": "away"
+}
+]
+},
+{
+"string": "the blue sphere is near the leftmost corner of the plane",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "is"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "leftmost"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "A larger blue spherish object is in front and to the left of the green one.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "larger"
+},
+{
+"word": "blue"
+},
+{
+"word": "spherish"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "one"
+}
+]
+},
+{
+"string": "There is a blue circular shaped object added to the lower left area of the gray area. ",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "circular"
+},
+{
+"word": "shaped"
+},
+{
+"word": "object"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "lower"
+},
+{
+"word": "left"
+},
+{
+"word": "area"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "area"
+}
+]
+},
+{
+"string": "blue sphere",
+"word_list":
+[
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+}
+]
+},
+{
+"string": "A Pakistan green ball is placed close to the furthest edge on the gray, pentagon area. A blue ball is placed at 08:30 direction from the grenn ball.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "Pakistan"
+},
+{
+"word": "green"
+},
+{
+"word": "ball"
+},
+{
+"word": "is"
+},
+{
+"word": "placed"
+},
+{
+"word": "close"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "furthest"
+},
+{
+"word": "edge"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "pentagon"
+},
+{
+"word": "area"
+},
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "ball"
+},
+{
+"word": "is"
+},
+{
+"word": "placed"
+},
+{
+"word": "at"
+},
+{
+"word": "08"
+},
+{
+"word": "30"
+},
+{
+"word": "direction"
+},
+{
+"word": "from"
+},
+{
+"word": "the"
+},
+{
+"word": "grenn"
+},
+{
+"word": "ball"
+}
+]
+},
+{
+"string": "In the front left corner of the plane is a blue ball.",
+"word_list":
+[
+{
+"word": "In"
+},
+{
+"word": "the"
+},
+{
+"word": "front"
+},
+{
+"word": "left"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "ball"
+}
+]
+},
+{
+"string": "The blue object appears to be larger and closer than the green one, similarly shaped and off on the left side of the plane.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "blue"
+},
+{
+"word": "object"
+},
+{
+"word": "appears"
+},
+{
+"word": "to"
+},
+{
+"word": "be"
+},
+{
+"word": "larger"
+},
+{
+"word": "and"
+},
+{
+"word": "closer"
+},
+{
+"word": "than"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "one"
+},
+{
+"word": "similarly"
+},
+{
+"word": "shaped"
+},
+{
+"word": "and"
+},
+{
+"word": "off"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "side"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "There is now a blue sphere also on the gray surface.",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "now"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "also"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "A blue sphere sits on the other side of the gray surface from the green sphere.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "sits"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "side"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "surface"
+},
+{
+"word": "from"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "sphere"
+}
+]
+},
+{
+"string": "there is a blue sphere to the left of the other sphere and closer to me",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "sphere"
+},
+{
+"word": "and"
+},
+{
+"word": "closer"
+},
+{
+"word": "to"
+},
+{
+"word": "me"
+}
+]
+},
+{
+"string": "A blue sphere was place southwest of the green sphere, in the southwestern hempisphere.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "was"
+},
+{
+"word": "place"
+},
+{
+"word": "southwest"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "sphere"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "southwestern"
+},
+{
+"word": "hempisphere"
+}
+]
+},
+{
+"string": "the ball is blue, and floats above the near edge of the plane",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "ball"
+},
+{
+"word": "is"
+},
+{
+"word": "blue"
+},
+{
+"word": "and"
+},
+{
+"word": "floats"
+},
+{
+"word": "above"
+},
+{
+"word": "the"
+},
+{
+"word": "near"
+},
+{
+"word": "edge"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "Blue ball added to table top with green ball",
+"word_list":
+[
+{
+"word": "Blue"
+},
+{
+"word": "ball"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "table"
+},
+{
+"word": "top"
+},
+{
+"word": "with"
+},
+{
+"word": "green"
+},
+{
+"word": "ball"
+}
+]
+},
+{
+"string": "The larger blue sphere is in front of and to the left of the green sphere.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "larger"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "sphere"
+}
+]
+},
+{
+"string": "The object is a blue sphere, proportionally larger than the green sphere, situated towards the far left on the grey plane ",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "proportionally"
+},
+{
+"word": "larger"
+},
+{
+"word": "than"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "sphere"
+},
+{
+"word": "situated"
+},
+{
+"word": "towards"
+},
+{
+"word": "the"
+},
+{
+"word": "far"
+},
+{
+"word": "left"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "A blue sphere in a southwest diagonal to the first one.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "in"
+},
+{
+"word": "a"
+},
+{
+"word": "southwest"
+},
+{
+"word": "diagonal"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "first"
+},
+{
+"word": "one"
+}
+]
+},
+{
+"string": "next to green ball on the right",
+"word_list":
+[
+{
+"word": "next"
+},
+{
+"word": "to"
+},
+{
+"word": "green"
+},
+{
+"word": "ball"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+}
+]
+}
+]

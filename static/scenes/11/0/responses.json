@@ -1,0 +1,953 @@
+[
+{
+"string": "the green on the left hand",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "hand"
+}
+]
+},
+{
+"string": "green cylinder added to the upper right of the slanted grey square.",
+"word_list":
+[
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "upper"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "slanted"
+},
+{
+"word": "grey"
+},
+{
+"word": "square"
+}
+]
+},
+{
+"string": "Green cylinder added behind the center of the surface",
+"word_list":
+[
+{
+"word": "Green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "added"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "Green small cylinder to the left of center",
+"word_list":
+[
+{
+"word": "Green"
+},
+{
+"word": "small"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "center"
+}
+]
+},
+{
+"string": "the green cylinder is near the center of the top-left portion of the plane.",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "left"
+},
+{
+"word": "portion"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "there is a green cylinder to the left of center of the grey shape",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "shape"
+}
+]
+},
+{
+"string": "a short green cylinder is toward the north west corner of the grey object",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "short"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "toward"
+},
+{
+"word": "the"
+},
+{
+"word": "north"
+},
+{
+"word": "west"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "A small green 3D octagon is toward the rear left of the grey surface.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "small"
+},
+{
+"word": "green"
+},
+{
+"word": "3D"
+},
+{
+"word": "octagon"
+},
+{
+"word": "is"
+},
+{
+"word": "toward"
+},
+{
+"word": "the"
+},
+{
+"word": "rear"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "There is a short green object ot the middle left area. ",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "short"
+},
+{
+"word": "green"
+},
+{
+"word": "object"
+},
+{
+"word": "ot"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "left"
+},
+{
+"word": "area"
+}
+]
+},
+{
+"string": "the green cylinder is in the plane",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "green 3d disk",
+"word_list":
+[
+{
+"word": "green"
+},
+{
+"word": "3d"
+},
+{
+"word": "disk"
+}
+]
+},
+{
+"string": "A green short cylinder is left to the center.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "green"
+},
+{
+"word": "short"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "left"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+}
+]
+},
+{
+"string": "The green disk is at the far end of the plane.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "disk"
+},
+{
+"word": "is"
+},
+{
+"word": "at"
+},
+{
+"word": "the"
+},
+{
+"word": "far"
+},
+{
+"word": "end"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "The dark green octahedron is very small and near the middle of the picture.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "dark"
+},
+{
+"word": "green"
+},
+{
+"word": "octahedron"
+},
+{
+"word": "is"
+},
+{
+"word": "very"
+},
+{
+"word": "small"
+},
+{
+"word": "and"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "picture"
+}
+]
+},
+{
+"string": "Green cylinder on gray surface",
+"word_list":
+[
+{
+"word": "Green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "on"
+},
+{
+"word": "gray"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "A green octoganal prism was placed in the northwestern hemisphere.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "green"
+},
+{
+"word": "octoganal"
+},
+{
+"word": "prism"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "northwestern"
+},
+{
+"word": "hemisphere"
+}
+]
+},
+{
+"string": "A flat green cylinder sits towards the back corner of the gray  surface.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "flat"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "sits"
+},
+{
+"word": "towards"
+},
+{
+"word": "the"
+},
+{
+"word": "back"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "there is a brown cylinder in the plane",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "brown"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "the cylinder is toward the back of the plane, to the left",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "toward"
+},
+{
+"word": "the"
+},
+{
+"word": "back"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+}
+]
+},
+{
+"string": "green cylinder on table top",
+"word_list":
+[
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "on"
+},
+{
+"word": "table"
+},
+{
+"word": "top"
+}
+]
+},
+{
+"string": "There is a short green cylinder between the center and far corner on the top face of the grey rectangle",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "short"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "between"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "and"
+},
+{
+"word": "far"
+},
+{
+"word": "corner"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "face"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "rectangle"
+}
+]
+},
+{
+"string": "The green cylinder is on the far left side of the plane.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "far"
+},
+{
+"word": "left"
+},
+{
+"word": "side"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "The object is a green disk located to the upper-left of the grey plane's center",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "disk"
+},
+{
+"word": "located"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "upper"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "plane's"
+},
+{
+"word": "center"
+}
+]
+},
+{
+"string": "A green cylinder type object that is in the 2nd quadrant of the square",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "type"
+},
+{
+"word": "object"
+},
+{
+"word": "that"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "2nd"
+},
+{
+"word": "quadrant"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "square"
+}
+]
+},
+{
+"string": "There is a green cylinder.",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+}
+]
+}
+]

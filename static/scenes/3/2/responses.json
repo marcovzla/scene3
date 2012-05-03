@@ -1,0 +1,1415 @@
+[
+{
+"string": "The red disc is in front of the blue sphere.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "red"
+},
+{
+"word": "disc"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+}
+]
+},
+{
+"string": "a red disk is just in front of the blue ball.",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "red"
+},
+{
+"word": "disk"
+},
+{
+"word": "is"
+},
+{
+"word": "just"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "ball"
+}
+]
+},
+{
+"string": "The red object.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "red"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "Shorter and wider red cylinder near the center of slanted grey square.",
+"word_list":
+[
+{
+"word": "Shorter"
+},
+{
+"word": "and"
+},
+{
+"word": "wider"
+},
+{
+"word": "red"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "slanted"
+},
+{
+"word": "grey"
+},
+{
+"word": "square"
+}
+]
+},
+{
+"string": "Short red Octogon prism added in front of the blue sphere but slightly closer to viewer",
+"word_list":
+[
+{
+"word": "Short"
+},
+{
+"word": "red"
+},
+{
+"word": "Octogon"
+},
+{
+"word": "prism"
+},
+{
+"word": "added"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "but"
+},
+{
+"word": "slightly"
+},
+{
+"word": "closer"
+},
+{
+"word": "to"
+},
+{
+"word": "viewer"
+}
+]
+},
+{
+"string": "The red object looks to be near the center of platform and in front of the blue object",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "red"
+},
+{
+"word": "object"
+},
+{
+"word": "looks"
+},
+{
+"word": "to"
+},
+{
+"word": "be"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "platform"
+},
+{
+"word": "and"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "The red disc was added directly south of the blue sphere.  The red disc is located in the bottom-left corner of the top-right region of the plane.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "red"
+},
+{
+"word": "disc"
+},
+{
+"word": "was"
+},
+{
+"word": "added"
+},
+{
+"word": "directly"
+},
+{
+"word": "south"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "The"
+},
+{
+"word": "red"
+},
+{
+"word": "disc"
+},
+{
+"word": "is"
+},
+{
+"word": "located"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "bottom"
+},
+{
+"word": "left"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "right"
+},
+{
+"word": "region"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "there is a red circle just below and to the left of the blue ball",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "red"
+},
+{
+"word": "circle"
+},
+{
+"word": "just"
+},
+{
+"word": "below"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "ball"
+}
+]
+},
+{
+"string": "A flatter and wider red cylinder, to the southwest of the blue sphere, close to being in line with the west edge of the grey object these models sit upon.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "flatter"
+},
+{
+"word": "and"
+},
+{
+"word": "wider"
+},
+{
+"word": "red"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "southwest"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "close"
+},
+{
+"word": "to"
+},
+{
+"word": "being"
+},
+{
+"word": "in"
+},
+{
+"word": "line"
+},
+{
+"word": "with"
+},
+{
+"word": "the"
+},
+{
+"word": "west"
+},
+{
+"word": "edge"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "object"
+},
+{
+"word": "these"
+},
+{
+"word": "models"
+},
+{
+"word": "sit"
+},
+{
+"word": "upon"
+}
+]
+},
+{
+"string": "The red cylinder is in front of the blue cylinder",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "red"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "A short red 3D octagon is placed in front of the blue object.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "short"
+},
+{
+"word": "red"
+},
+{
+"word": "3D"
+},
+{
+"word": "octagon"
+},
+{
+"word": "is"
+},
+{
+"word": "placed"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "There is a red octagon shaped slice that is below the blue object. ",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "red"
+},
+{
+"word": "octagon"
+},
+{
+"word": "shaped"
+},
+{
+"word": "slice"
+},
+{
+"word": "that"
+},
+{
+"word": "is"
+},
+{
+"word": "below"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "A short red octagonal prism was placed south of the blue sphere, near the center of the gray plane.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "short"
+},
+{
+"word": "red"
+},
+{
+"word": "octagonal"
+},
+{
+"word": "prism"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "south"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "They added a red hexagon shape below the blue sphere. ",
+"word_list":
+[
+{
+"word": "They"
+},
+{
+"word": "added"
+},
+{
+"word": "a"
+},
+{
+"word": "red"
+},
+{
+"word": "hexagon"
+},
+{
+"word": "shape"
+},
+{
+"word": "below"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+}
+]
+},
+{
+"string": "red 3D disk next to blue sphere",
+"word_list":
+[
+{
+"word": "red"
+},
+{
+"word": "3D"
+},
+{
+"word": "disk"
+},
+{
+"word": "next"
+},
+{
+"word": "to"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+}
+]
+},
+{
+"string": "A blue sphere is placed on the furthest edge of a huge, pentagon, gray mat. A short, olive-colored cylinder is placed left of the sphere. A red octagon flat prism is placed in front of the sphere. There is a light source from 4 o'clock direction.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "is"
+},
+{
+"word": "placed"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "furthest"
+},
+{
+"word": "edge"
+},
+{
+"word": "of"
+},
+{
+"word": "a"
+},
+{
+"word": "huge"
+},
+{
+"word": "pentagon"
+},
+{
+"word": "gray"
+},
+{
+"word": "mat"
+},
+{
+"word": "A"
+},
+{
+"word": "short"
+},
+{
+"word": "olive"
+},
+{
+"word": "colored"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "placed"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "sphere"
+},
+{
+"word": "A"
+},
+{
+"word": "red"
+},
+{
+"word": "octagon"
+},
+{
+"word": "flat"
+},
+{
+"word": "prism"
+},
+{
+"word": "is"
+},
+{
+"word": "placed"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "sphere"
+},
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "light"
+},
+{
+"word": "source"
+},
+{
+"word": "from"
+},
+{
+"word": "4"
+},
+{
+"word": "o'clock"
+},
+{
+"word": "direction"
+}
+]
+},
+{
+"string": "In front of the blue ball is a red disk.",
+"word_list":
+[
+{
+"word": "In"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "ball"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "red"
+},
+{
+"word": "disk"
+}
+]
+},
+{
+"string": "This very short red octahedron is below both the yellow and blue objects, but appears to be in between them at least in the x-plane.",
+"word_list":
+[
+{
+"word": "This"
+},
+{
+"word": "very"
+},
+{
+"word": "short"
+},
+{
+"word": "red"
+},
+{
+"word": "octahedron"
+},
+{
+"word": "is"
+},
+{
+"word": "below"
+},
+{
+"word": "both"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "and"
+},
+{
+"word": "blue"
+},
+{
+"word": "objects"
+},
+{
+"word": "but"
+},
+{
+"word": "appears"
+},
+{
+"word": "to"
+},
+{
+"word": "be"
+},
+{
+"word": "in"
+},
+{
+"word": "between"
+},
+{
+"word": "them"
+},
+{
+"word": "at"
+},
+{
+"word": "least"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "x"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "Red cylinder next to blue sphere",
+"word_list":
+[
+{
+"word": "Red"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "next"
+},
+{
+"word": "to"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+}
+]
+},
+{
+"string": "A flat red cylinder sits in front of the blue sphere.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "flat"
+},
+{
+"word": "red"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "sits"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+}
+]
+},
+{
+"string": "the red circle is closer to me than the blue ball",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "circle"
+},
+{
+"word": "is"
+},
+{
+"word": "closer"
+},
+{
+"word": "to"
+},
+{
+"word": "me"
+},
+{
+"word": "than"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "ball"
+}
+]
+},
+{
+"string": "the disk is red, and located in front of both the blue ball and the yellow cylinder, in line with the blue ball.",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "disk"
+},
+{
+"word": "is"
+},
+{
+"word": "red"
+},
+{
+"word": "and"
+},
+{
+"word": "located"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "both"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "ball"
+},
+{
+"word": "and"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "in"
+},
+{
+"word": "line"
+},
+{
+"word": "with"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "ball"
+}
+]
+},
+{
+"string": "red octagon place din front of blue ball",
+"word_list":
+[
+{
+"word": "red"
+},
+{
+"word": "octagon"
+},
+{
+"word": "place"
+},
+{
+"word": "din"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "blue"
+},
+{
+"word": "ball"
+}
+]
+},
+{
+"string": "The wide red cylinder is in front of the blue sphere and in front of and to the right of the yellow more narrow cylinder.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "wide"
+},
+{
+"word": "red"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "and"
+},
+{
+"word": "in"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "more"
+},
+{
+"word": "narrow"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "The object is a red disk, about the same diameter as the blue sphere, and is situated directly parallel to the blue sphere on the grey plane. ",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "red"
+},
+{
+"word": "disk"
+},
+{
+"word": "about"
+},
+{
+"word": "the"
+},
+{
+"word": "same"
+},
+{
+"word": "diameter"
+},
+{
+"word": "as"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "and"
+},
+{
+"word": "is"
+},
+{
+"word": "situated"
+},
+{
+"word": "directly"
+},
+{
+"word": "parallel"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "sphere"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "a red disk that is south of the cylinder",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "red"
+},
+{
+"word": "disk"
+},
+{
+"word": "that"
+},
+{
+"word": "is"
+},
+{
+"word": "south"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "cylinder"
+}
+]
+}
+]

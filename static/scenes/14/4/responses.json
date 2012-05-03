@@ -1,0 +1,1160 @@
+[
+{
+"string": "the light blue far away",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "far"
+},
+{
+"word": "away"
+}
+]
+},
+{
+"string": "teal cylinder added behind the taller blue box.",
+"word_list":
+[
+{
+"word": "teal"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "added"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "taller"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "short blue cylinder added behind and to the right of all other objects",
+"word_list":
+[
+{
+"word": "short"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "added"
+},
+{
+"word": "behind"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "all"
+},
+{
+"word": "other"
+},
+{
+"word": "objects"
+}
+]
+},
+{
+"string": "Light blue cylinder sitting closer to the northeast corner",
+"word_list":
+[
+{
+"word": "Light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "sitting"
+},
+{
+"word": "closer"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "northeast"
+},
+{
+"word": "corner"
+}
+]
+},
+{
+"string": "the light-blue cylinder is up from the blue square.  the light-blue cylinder is near the center of the top-right portion of the plane.",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "up"
+},
+{
+"word": "from"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "square"
+},
+{
+"word": "the"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "right"
+},
+{
+"word": "portion"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "there is a light blue cylinder above and to the right of the blue box",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "above"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "a light blue cylinder, 3/4 the diameter of the red cylinder, and 1.5 times as tall as the brick, sits a ways northeast of the large blue box",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "3"
+},
+{
+"word": "4"
+},
+{
+"word": "the"
+},
+{
+"word": "diameter"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "and"
+},
+{
+"word": "1"
+},
+{
+"word": "5"
+},
+{
+"word": "times"
+},
+{
+"word": "as"
+},
+{
+"word": "tall"
+},
+{
+"word": "as"
+},
+{
+"word": "the"
+},
+{
+"word": "brick"
+},
+{
+"word": "sits"
+},
+{
+"word": "a"
+},
+{
+"word": "ways"
+},
+{
+"word": "northeast"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "large"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "A short turqoise 3D octagon is behind the other objects.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "short"
+},
+{
+"word": "turqoise"
+},
+{
+"word": "3D"
+},
+{
+"word": "octagon"
+},
+{
+"word": "is"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "objects"
+}
+]
+},
+{
+"string": "A turquoise slice of an octagon is added to the upper right area. ",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "turquoise"
+},
+{
+"word": "slice"
+},
+{
+"word": "of"
+},
+{
+"word": "an"
+},
+{
+"word": "octagon"
+},
+{
+"word": "is"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "upper"
+},
+{
+"word": "right"
+},
+{
+"word": "area"
+}
+]
+},
+{
+"string": "light blue cylinder is behind the blue square",
+"word_list":
+[
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "square"
+}
+]
+},
+{
+"string": "teal 3d disk",
+"word_list":
+[
+{
+"word": "teal"
+},
+{
+"word": "3d"
+},
+{
+"word": "disk"
+}
+]
+},
+{
+"string": "A red tissue box is left to the center and a red, octagon bucket is behind the tissue box. A blue cooke box is at the center. A blue cereal box is right to the center. A cyan octagon prism is behind the cereal box.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "red"
+},
+{
+"word": "tissue"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "left"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "and"
+},
+{
+"word": "a"
+},
+{
+"word": "red"
+},
+{
+"word": "octagon"
+},
+{
+"word": "bucket"
+},
+{
+"word": "is"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "tissue"
+},
+{
+"word": "box"
+},
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "cooke"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "at"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "cereal"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "right"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "A"
+},
+{
+"word": "cyan"
+},
+{
+"word": "octagon"
+},
+{
+"word": "prism"
+},
+{
+"word": "is"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "cereal"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "In the rear right section of the plane is a teal disk",
+"word_list":
+[
+{
+"word": "In"
+},
+{
+"word": "the"
+},
+{
+"word": "rear"
+},
+{
+"word": "right"
+},
+{
+"word": "section"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "teal"
+},
+{
+"word": "disk"
+}
+]
+},
+{
+"string": "This cyan octahedron is about as tall as little-blue and very off to the right of all the other shapes.",
+"word_list":
+[
+{
+"word": "This"
+},
+{
+"word": "cyan"
+},
+{
+"word": "octahedron"
+},
+{
+"word": "is"
+},
+{
+"word": "about"
+},
+{
+"word": "as"
+},
+{
+"word": "tall"
+},
+{
+"word": "as"
+},
+{
+"word": "little"
+},
+{
+"word": "blue"
+},
+{
+"word": "and"
+},
+{
+"word": "very"
+},
+{
+"word": "off"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "all"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "shapes"
+}
+]
+},
+{
+"string": "Teal cylinder away from the other items",
+"word_list":
+[
+{
+"word": "Teal"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "away"
+},
+{
+"word": "from"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "items"
+}
+]
+},
+{
+"string": "A short cyan cylinder sits apart from the other objects towards the right corner.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "short"
+},
+{
+"word": "cyan"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "sits"
+},
+{
+"word": "apart"
+},
+{
+"word": "from"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "objects"
+},
+{
+"word": "towards"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "corner"
+}
+]
+},
+{
+"string": "a pink cylinder has been added to the  right of the other objects and further away",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "pink"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "has"
+},
+{
+"word": "been"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "objects"
+},
+{
+"word": "and"
+},
+{
+"word": "further"
+},
+{
+"word": "away"
+}
+]
+},
+{
+"string": "A teal cylinder was placed north of the larger blue rectangular prism, in the northeastern hemisphere.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "teal"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "north"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "larger"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "northeastern"
+},
+{
+"word": "hemisphere"
+}
+]
+},
+{
+"string": "the cylinder is teal, and is furthest back, in line with the largest blue box",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "teal"
+},
+{
+"word": "and"
+},
+{
+"word": "is"
+},
+{
+"word": "furthest"
+},
+{
+"word": "back"
+},
+{
+"word": "in"
+},
+{
+"word": "line"
+},
+{
+"word": "with"
+},
+{
+"word": "the"
+},
+{
+"word": "largest"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "grey cylinder placed behind square large blue block",
+"word_list":
+[
+{
+"word": "grey"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "placed"
+},
+{
+"word": "behind"
+},
+{
+"word": "square"
+},
+{
+"word": "large"
+},
+{
+"word": "blue"
+},
+{
+"word": "block"
+}
+]
+},
+{
+"string": "The light blue cylinder is behind the first, taller blue box.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "first"
+},
+{
+"word": "taller"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "The object is a small cyan disk located to the upper-right of the center of the grey plane",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "small"
+},
+{
+"word": "cyan"
+},
+{
+"word": "disk"
+},
+{
+"word": "located"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "upper"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "a Cyan cylinder northeast of everything else.",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "Cyan"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "northeast"
+},
+{
+"word": "of"
+},
+{
+"word": "everything"
+},
+{
+"word": "else"
+}
+]
+},
+{
+"string": "There is now a light blue cylinder.",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "now"
+},
+{
+"word": "a"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+}
+]
+}
+]

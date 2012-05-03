@@ -1,0 +1,1751 @@
+[
+{
+"string": "The green cylinder is next to the other green cylinder.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "next"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "Another green cylinder, laying on its side, is a little behind and to the right of the first one.",
+"word_list":
+[
+{
+"word": "Another"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "laying"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "side"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "little"
+},
+{
+"word": "behind"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "first"
+},
+{
+"word": "one"
+}
+]
+},
+{
+"string": "The smaller green object next to the middle one.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "smaller"
+},
+{
+"word": "green"
+},
+{
+"word": "object"
+},
+{
+"word": "next"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "one"
+}
+]
+},
+{
+"string": "A smaller green octagon is located near the center of the gray ground, which is right above the larger green octagon.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "smaller"
+},
+{
+"word": "green"
+},
+{
+"word": "octagon"
+},
+{
+"word": "is"
+},
+{
+"word": "located"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "ground"
+},
+{
+"word": "which"
+},
+{
+"word": "is"
+},
+{
+"word": "right"
+},
+{
+"word": "above"
+},
+{
+"word": "the"
+},
+{
+"word": "larger"
+},
+{
+"word": "green"
+},
+{
+"word": "octagon"
+}
+]
+},
+{
+"string": "Smaller green cylinder contacting grey slanted square with the rounded edge.",
+"word_list":
+[
+{
+"word": "Smaller"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "contacting"
+},
+{
+"word": "grey"
+},
+{
+"word": "slanted"
+},
+{
+"word": "square"
+},
+{
+"word": "with"
+},
+{
+"word": "the"
+},
+{
+"word": "rounded"
+},
+{
+"word": "edge"
+}
+]
+},
+{
+"string": "Smaller green octogon prism added to the right and slightly farther than the original green octogon. ",
+"word_list":
+[
+{
+"word": "Smaller"
+},
+{
+"word": "green"
+},
+{
+"word": "octogon"
+},
+{
+"word": "prism"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "and"
+},
+{
+"word": "slightly"
+},
+{
+"word": "farther"
+},
+{
+"word": "than"
+},
+{
+"word": "the"
+},
+{
+"word": "original"
+},
+{
+"word": "green"
+},
+{
+"word": "octogon"
+}
+]
+},
+{
+"string": "New structure is cylindrical too but on its side",
+"word_list":
+[
+{
+"word": "New"
+},
+{
+"word": "structure"
+},
+{
+"word": "is"
+},
+{
+"word": "cylindrical"
+},
+{
+"word": "too"
+},
+{
+"word": "but"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "side"
+}
+]
+},
+{
+"string": "The smaller green cylinder was added up and to the right of the larger green cylinder.  The smaller green cylinder is almost touching the larger green cylinder.  The smaller green cylinder is positioned on its side.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "smaller"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "was"
+},
+{
+"word": "added"
+},
+{
+"word": "up"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "larger"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "The"
+},
+{
+"word": "smaller"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "almost"
+},
+{
+"word": "touching"
+},
+{
+"word": "the"
+},
+{
+"word": "larger"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "The"
+},
+{
+"word": "smaller"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "positioned"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "side"
+}
+]
+},
+{
+"string": "there is a green cylinder laying on its side just above and to the right of the center of the grey shape.",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "laying"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "side"
+},
+{
+"word": "just"
+},
+{
+"word": "above"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "shape"
+}
+]
+},
+{
+"string": "The octagonal cylinder added sits on its side, as opposed to the base, just to the northwest of the green ashtray. You could not fit another one of the green cylinder inbetween them.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "octagonal"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "added"
+},
+{
+"word": "sits"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "side"
+},
+{
+"word": "as"
+},
+{
+"word": "opposed"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "base"
+},
+{
+"word": "just"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "northwest"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "ashtray"
+},
+{
+"word": "You"
+},
+{
+"word": "could"
+},
+{
+"word": "not"
+},
+{
+"word": "fit"
+},
+{
+"word": "another"
+},
+{
+"word": "one"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "inbetween"
+},
+{
+"word": "them"
+}
+]
+},
+{
+"string": "The sideways green cylinder is to the right of the upright green cylinder",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "sideways"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "upright"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "The smaller green 3D octagon is on its side, behind and to the right of the larger upright green 3D octagon.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "smaller"
+},
+{
+"word": "green"
+},
+{
+"word": "3D"
+},
+{
+"word": "octagon"
+},
+{
+"word": "is"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "side"
+},
+{
+"word": "behind"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "larger"
+},
+{
+"word": "upright"
+},
+{
+"word": "green"
+},
+{
+"word": "3D"
+},
+{
+"word": "octagon"
+}
+]
+},
+{
+"string": "There has been a smaller octagon of the same color as the first one added and placed to the upper right of the first octagon. ",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "has"
+},
+{
+"word": "been"
+},
+{
+"word": "a"
+},
+{
+"word": "smaller"
+},
+{
+"word": "octagon"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "same"
+},
+{
+"word": "color"
+},
+{
+"word": "as"
+},
+{
+"word": "the"
+},
+{
+"word": "first"
+},
+{
+"word": "one"
+},
+{
+"word": "added"
+},
+{
+"word": "and"
+},
+{
+"word": "placed"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "upper"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "first"
+},
+{
+"word": "octagon"
+}
+]
+},
+{
+"string": "A second green octagonal prism was placed on it's side near the center of the gray plane, northeast of the original green prism.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "second"
+},
+{
+"word": "green"
+},
+{
+"word": "octagonal"
+},
+{
+"word": "prism"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "on"
+},
+{
+"word": "it's"
+},
+{
+"word": "side"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "plane"
+},
+{
+"word": "northeast"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "original"
+},
+{
+"word": "green"
+},
+{
+"word": "prism"
+}
+]
+},
+{
+"string": "They added a hexagon shape on its side facing its head/top/base toward the previous hexagon shape ",
+"word_list":
+[
+{
+"word": "They"
+},
+{
+"word": "added"
+},
+{
+"word": "a"
+},
+{
+"word": "hexagon"
+},
+{
+"word": "shape"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "side"
+},
+{
+"word": "facing"
+},
+{
+"word": "its"
+},
+{
+"word": "head"
+},
+{
+"word": "top"
+},
+{
+"word": "base"
+},
+{
+"word": "toward"
+},
+{
+"word": "the"
+},
+{
+"word": "previous"
+},
+{
+"word": "hexagon"
+},
+{
+"word": "shape"
+}
+]
+},
+{
+"string": "Another green cylinderical 3D shape was place between to the two previous shapes.",
+"word_list":
+[
+{
+"word": "Another"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinderical"
+},
+{
+"word": "3D"
+},
+{
+"word": "shape"
+},
+{
+"word": "was"
+},
+{
+"word": "place"
+},
+{
+"word": "between"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "two"
+},
+{
+"word": "previous"
+},
+{
+"word": "shapes"
+}
+]
+},
+{
+"string": "A small, olive-colored, rectangular box is placed towards the furthest corner of a huge, pentagon, gray mat. A forest green, octagon prism, and a smaller one is placed at the center of the mat. The smaller prism is placed sidewase. ",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "small"
+},
+{
+"word": "olive"
+},
+{
+"word": "colored"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "placed"
+},
+{
+"word": "towards"
+},
+{
+"word": "the"
+},
+{
+"word": "furthest"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "a"
+},
+{
+"word": "huge"
+},
+{
+"word": "pentagon"
+},
+{
+"word": "gray"
+},
+{
+"word": "mat"
+},
+{
+"word": "A"
+},
+{
+"word": "forest"
+},
+{
+"word": "green"
+},
+{
+"word": "octagon"
+},
+{
+"word": "prism"
+},
+{
+"word": "and"
+},
+{
+"word": "a"
+},
+{
+"word": "smaller"
+},
+{
+"word": "one"
+},
+{
+"word": "is"
+},
+{
+"word": "placed"
+},
+{
+"word": "at"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "mat"
+},
+{
+"word": "The"
+},
+{
+"word": "smaller"
+},
+{
+"word": "prism"
+},
+{
+"word": "is"
+},
+{
+"word": "placed"
+},
+{
+"word": "sidewase"
+}
+]
+},
+{
+"string": "Directly to the right of and behind the green cylinder is another green cylinder on its side.",
+"word_list":
+[
+{
+"word": "Directly"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "and"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "another"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "side"
+}
+]
+},
+{
+"string": "This added object appears to be similar to the second object, a green octahedron, but flipped on its side and apparently smaller than the second object but larger than the first object.",
+"word_list":
+[
+{
+"word": "This"
+},
+{
+"word": "added"
+},
+{
+"word": "object"
+},
+{
+"word": "appears"
+},
+{
+"word": "to"
+},
+{
+"word": "be"
+},
+{
+"word": "similar"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "second"
+},
+{
+"word": "object"
+},
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "octahedron"
+},
+{
+"word": "but"
+},
+{
+"word": "flipped"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "side"
+},
+{
+"word": "and"
+},
+{
+"word": "apparently"
+},
+{
+"word": "smaller"
+},
+{
+"word": "than"
+},
+{
+"word": "the"
+},
+{
+"word": "second"
+},
+{
+"word": "object"
+},
+{
+"word": "but"
+},
+{
+"word": "larger"
+},
+{
+"word": "than"
+},
+{
+"word": "the"
+},
+{
+"word": "first"
+},
+{
+"word": "object"
+}
+]
+},
+{
+"string": "Now there are two green cylinders next to one another",
+"word_list":
+[
+{
+"word": "Now"
+},
+{
+"word": "there"
+},
+{
+"word": "are"
+},
+{
+"word": "two"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinders"
+},
+{
+"word": "next"
+},
+{
+"word": "to"
+},
+{
+"word": "one"
+},
+{
+"word": "another"
+}
+]
+},
+{
+"string": "A green cylinder sits on its side next to the fat cylinder.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "sits"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "side"
+},
+{
+"word": "next"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "fat"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "a green cylinder is layign on it's side to the right of the brown cylinder",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "layign"
+},
+{
+"word": "on"
+},
+{
+"word": "it's"
+},
+{
+"word": "side"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "brown"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "the cylinder is green, and sits on its side behind the other green cylinder, to the right.",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "green"
+},
+{
+"word": "and"
+},
+{
+"word": "sits"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "side"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+}
+]
+},
+{
+"string": "green cylinder laid on side to the right and behind green octagon block",
+"word_list":
+[
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "laid"
+},
+{
+"word": "on"
+},
+{
+"word": "side"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "and"
+},
+{
+"word": "behind"
+},
+{
+"word": "green"
+},
+{
+"word": "octagon"
+},
+{
+"word": "block"
+}
+]
+},
+{
+"string": "The smaller, green cylinder resting on it's side is to the behind and slightly to the right of the first green cylinder and resting at an angle.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "smaller"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "resting"
+},
+{
+"word": "on"
+},
+{
+"word": "it's"
+},
+{
+"word": "side"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "behind"
+},
+{
+"word": "and"
+},
+{
+"word": "slightly"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "first"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "and"
+},
+{
+"word": "resting"
+},
+{
+"word": "at"
+},
+{
+"word": "an"
+},
+{
+"word": "angle"
+}
+]
+},
+{
+"string": "The object is a smaller green cylinder, about half the diameter of the first green cylinder, and is laying on its longitudinal surface and diagonally right to the first green cylinder. ",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "smaller"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "about"
+},
+{
+"word": "half"
+},
+{
+"word": "the"
+},
+{
+"word": "diameter"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "first"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "and"
+},
+{
+"word": "is"
+},
+{
+"word": "laying"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "longitudinal"
+},
+{
+"word": "surface"
+},
+{
+"word": "and"
+},
+{
+"word": "diagonally"
+},
+{
+"word": "right"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "first"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "a new object to the northwest of the hexagon which is southeast of the brick",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "new"
+},
+{
+"word": "object"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "northwest"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "hexagon"
+},
+{
+"word": "which"
+},
+{
+"word": "is"
+},
+{
+"word": "southeast"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "brick"
+}
+]
+}
+]

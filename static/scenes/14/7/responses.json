@@ -1,0 +1,1166 @@
+[
+{
+"string": "The light blue most further",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "most"
+},
+{
+"word": "further"
+}
+]
+},
+{
+"string": "teal box added behind the green cylinder.",
+"word_list":
+[
+{
+"word": "teal"
+},
+{
+"word": "box"
+},
+{
+"word": "added"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "blue rectangular prism added behind all other objects",
+"word_list":
+[
+{
+"word": "blue"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "added"
+},
+{
+"word": "behind"
+},
+{
+"word": "all"
+},
+{
+"word": "other"
+},
+{
+"word": "objects"
+}
+]
+},
+{
+"string": "Light blue tall cube sitting behind all other objects",
+"word_list":
+[
+{
+"word": "Light"
+},
+{
+"word": "blue"
+},
+{
+"word": "tall"
+},
+{
+"word": "cube"
+},
+{
+"word": "sitting"
+},
+{
+"word": "behind"
+},
+{
+"word": "all"
+},
+{
+"word": "other"
+},
+{
+"word": "objects"
+}
+]
+},
+{
+"string": "the light-blue rectangular prism was added up from the green cylinder.  the light-blue rectangular prism is near the top-center of the top-left portion of the plane.",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "was"
+},
+{
+"word": "added"
+},
+{
+"word": "up"
+},
+{
+"word": "from"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "the"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "is"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "left"
+},
+{
+"word": "portion"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "there is a blue box above the green cylinder",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "above"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "a teal box, 1.5 times taller than a cube, its length a little shorter than the diameter of the light blue cylinder, its height a bit shorter than the green cylinder, sits to the northeast of the green cylinder.",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "teal"
+},
+{
+"word": "box"
+},
+{
+"word": "1"
+},
+{
+"word": "5"
+},
+{
+"word": "times"
+},
+{
+"word": "taller"
+},
+{
+"word": "than"
+},
+{
+"word": "a"
+},
+{
+"word": "cube"
+},
+{
+"word": "its"
+},
+{
+"word": "length"
+},
+{
+"word": "a"
+},
+{
+"word": "little"
+},
+{
+"word": "shorter"
+},
+{
+"word": "than"
+},
+{
+"word": "the"
+},
+{
+"word": "diameter"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "its"
+},
+{
+"word": "height"
+},
+{
+"word": "a"
+},
+{
+"word": "bit"
+},
+{
+"word": "shorter"
+},
+{
+"word": "than"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "sits"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "northeast"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "A turquoise cuboid is behind all the other objects.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "turquoise"
+},
+{
+"word": "cuboid"
+},
+{
+"word": "is"
+},
+{
+"word": "behind"
+},
+{
+"word": "all"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "objects"
+}
+]
+},
+{
+"string": "A turquoise cube is above the green cylinder. ",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "turquoise"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "above"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "The light blue cubeic shape is by the far corner of the plane",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cubeic"
+},
+{
+"word": "shape"
+},
+{
+"word": "is"
+},
+{
+"word": "by"
+},
+{
+"word": "the"
+},
+{
+"word": "far"
+},
+{
+"word": "corner"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "teal rectangular block",
+"word_list":
+[
+{
+"word": "teal"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "block"
+}
+]
+},
+{
+"string": "Blue big box, blue small box, red box, and yellow box is lined up from center to left. Red octagon prism, green cylinder, and teal box lined up behind red box. A teal octagon prism is behind the big blue box. ",
+"word_list":
+[
+{
+"word": "Blue"
+},
+{
+"word": "big"
+},
+{
+"word": "box"
+},
+{
+"word": "blue"
+},
+{
+"word": "small"
+},
+{
+"word": "box"
+},
+{
+"word": "red"
+},
+{
+"word": "box"
+},
+{
+"word": "and"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "lined"
+},
+{
+"word": "up"
+},
+{
+"word": "from"
+},
+{
+"word": "center"
+},
+{
+"word": "to"
+},
+{
+"word": "left"
+},
+{
+"word": "Red"
+},
+{
+"word": "octagon"
+},
+{
+"word": "prism"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "and"
+},
+{
+"word": "teal"
+},
+{
+"word": "box"
+},
+{
+"word": "lined"
+},
+{
+"word": "up"
+},
+{
+"word": "behind"
+},
+{
+"word": "red"
+},
+{
+"word": "box"
+},
+{
+"word": "A"
+},
+{
+"word": "teal"
+},
+{
+"word": "octagon"
+},
+{
+"word": "prism"
+},
+{
+"word": "is"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "big"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "Behind the green and red cylinders is a teal tower.",
+"word_list":
+[
+{
+"word": "Behind"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "and"
+},
+{
+"word": "red"
+},
+{
+"word": "cylinders"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "teal"
+},
+{
+"word": "tower"
+}
+]
+},
+{
+"string": "This cyan box was hard to distinguish from the last picture, but is about medium length and on the taller side when compared to these objects.",
+"word_list":
+[
+{
+"word": "This"
+},
+{
+"word": "cyan"
+},
+{
+"word": "box"
+},
+{
+"word": "was"
+},
+{
+"word": "hard"
+},
+{
+"word": "to"
+},
+{
+"word": "distinguish"
+},
+{
+"word": "from"
+},
+{
+"word": "the"
+},
+{
+"word": "last"
+},
+{
+"word": "picture"
+},
+{
+"word": "but"
+},
+{
+"word": "is"
+},
+{
+"word": "about"
+},
+{
+"word": "medium"
+},
+{
+"word": "length"
+},
+{
+"word": "and"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "taller"
+},
+{
+"word": "side"
+},
+{
+"word": "when"
+},
+{
+"word": "compared"
+},
+{
+"word": "to"
+},
+{
+"word": "these"
+},
+{
+"word": "objects"
+}
+]
+},
+{
+"string": "Teal square behind the green cylinder",
+"word_list":
+[
+{
+"word": "Teal"
+},
+{
+"word": "square"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "A tall cyan cube sits behind the red and green cylinders.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "tall"
+},
+{
+"word": "cyan"
+},
+{
+"word": "cube"
+},
+{
+"word": "sits"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "red"
+},
+{
+"word": "and"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinders"
+}
+]
+},
+{
+"string": "a pink block has been added at the furthest distance",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "pink"
+},
+{
+"word": "block"
+},
+{
+"word": "has"
+},
+{
+"word": "been"
+},
+{
+"word": "added"
+},
+{
+"word": "at"
+},
+{
+"word": "the"
+},
+{
+"word": "furthest"
+},
+{
+"word": "distance"
+}
+]
+},
+{
+"string": "A teal rectangular prism was place north of the large red octagonal prism.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "teal"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "was"
+},
+{
+"word": "place"
+},
+{
+"word": "north"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "large"
+},
+{
+"word": "red"
+},
+{
+"word": "octagonal"
+},
+{
+"word": "prism"
+}
+]
+},
+{
+"string": "the cylinder is teal, and is furthest back, in line with the yellow box",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "is"
+},
+{
+"word": "teal"
+},
+{
+"word": "and"
+},
+{
+"word": "is"
+},
+{
+"word": "furthest"
+},
+{
+"word": "back"
+},
+{
+"word": "in"
+},
+{
+"word": "line"
+},
+{
+"word": "with"
+},
+{
+"word": "the"
+},
+{
+"word": "yellow"
+},
+{
+"word": "box"
+}
+]
+},
+{
+"string": "blue block placed in back of the green cylinder, farther back than all other blocks",
+"word_list":
+[
+{
+"word": "blue"
+},
+{
+"word": "block"
+},
+{
+"word": "placed"
+},
+{
+"word": "in"
+},
+{
+"word": "back"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "farther"
+},
+{
+"word": "back"
+},
+{
+"word": "than"
+},
+{
+"word": "all"
+},
+{
+"word": "other"
+},
+{
+"word": "blocks"
+}
+]
+},
+{
+"string": "The light blue rectangle is behind the large red cylinder and behind and slightly to the left of the green cylinder.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "is"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "large"
+},
+{
+"word": "red"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "and"
+},
+{
+"word": "behind"
+},
+{
+"word": "and"
+},
+{
+"word": "slightly"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "The object is a cyan rectangle, located north of the think green cylinder ",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "cyan"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "located"
+},
+{
+"word": "north"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "think"
+},
+{
+"word": "green"
+},
+{
+"word": "cylinder"
+}
+]
+},
+{
+"string": "a bluish brick north of everything else.",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "bluish"
+},
+{
+"word": "brick"
+},
+{
+"word": "north"
+},
+{
+"word": "of"
+},
+{
+"word": "everything"
+},
+{
+"word": "else"
+}
+]
+},
+{
+"string": "On the north of the green there is a light blue cube.",
+"word_list":
+[
+{
+"word": "On"
+},
+{
+"word": "the"
+},
+{
+"word": "north"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "green"
+},
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "light"
+},
+{
+"word": "blue"
+},
+{
+"word": "cube"
+}
+]
+}
+]

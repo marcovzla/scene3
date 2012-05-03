@@ -1,0 +1,947 @@
+[
+{
+"string": "the purple far away",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "far"
+},
+{
+"word": "away"
+}
+]
+},
+{
+"string": "Small purple cylinder in upper middle of the slanted grey sqsuare.",
+"word_list":
+[
+{
+"word": "Small"
+},
+{
+"word": "purple"
+},
+{
+"word": "cylinder"
+},
+{
+"word": "in"
+},
+{
+"word": "upper"
+},
+{
+"word": "middle"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "slanted"
+},
+{
+"word": "grey"
+},
+{
+"word": "sqsuare"
+}
+]
+},
+{
+"string": "small, pink sphere placed towards back of surface",
+"word_list":
+[
+{
+"word": "small"
+},
+{
+"word": "pink"
+},
+{
+"word": "sphere"
+},
+{
+"word": "placed"
+},
+{
+"word": "towards"
+},
+{
+"word": "back"
+},
+{
+"word": "of"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "small pink sphere sitting between northwest and northeast corners.",
+"word_list":
+[
+{
+"word": "small"
+},
+{
+"word": "pink"
+},
+{
+"word": "sphere"
+},
+{
+"word": "sitting"
+},
+{
+"word": "between"
+},
+{
+"word": "northwest"
+},
+{
+"word": "and"
+},
+{
+"word": "northeast"
+},
+{
+"word": "corners"
+}
+]
+},
+{
+"string": "the purple sphere is near the top-center of the top portion of the plane.",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "sphere"
+},
+{
+"word": "is"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "top"
+},
+{
+"word": "portion"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "there is a purple box above the center of the grey shape",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "purple"
+},
+{
+"word": "box"
+},
+{
+"word": "above"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "shape"
+}
+]
+},
+{
+"string": "A magenta sphere is sitting on the grey object (not that the grey object ever left, I just don't like mentioning it) toward the northeast side",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "magenta"
+},
+{
+"word": "sphere"
+},
+{
+"word": "is"
+},
+{
+"word": "sitting"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "object"
+},
+{
+"word": "not"
+},
+{
+"word": "that"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "object"
+},
+{
+"word": "ever"
+},
+{
+"word": "left"
+},
+{
+"word": "I"
+},
+{
+"word": "just"
+},
+{
+"word": "don't"
+},
+{
+"word": "like"
+},
+{
+"word": "mentioning"
+},
+{
+"word": "it"
+},
+{
+"word": "toward"
+},
+{
+"word": "the"
+},
+{
+"word": "northeast"
+},
+{
+"word": "side"
+}
+]
+},
+{
+"string": "A small light purple spherish object is toward the back center of the grey surface.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "small"
+},
+{
+"word": "light"
+},
+{
+"word": "purple"
+},
+{
+"word": "spherish"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "toward"
+},
+{
+"word": "the"
+},
+{
+"word": "back"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "There is a pink sphere in the upper middle area. ",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "pink"
+},
+{
+"word": "sphere"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "upper"
+},
+{
+"word": "middle"
+},
+{
+"word": "area"
+}
+]
+},
+{
+"string": "the purple sphere is on the other end of the pane",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "purple"
+},
+{
+"word": "sphere"
+},
+{
+"word": "is"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "other"
+},
+{
+"word": "end"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "pane"
+}
+]
+},
+{
+"string": "purple sphere",
+"word_list":
+[
+{
+"word": "purple"
+},
+{
+"word": "sphere"
+}
+]
+},
+{
+"string": "A small. magenta ball is on the further edge of the gray area.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "small"
+},
+{
+"word": "magenta"
+},
+{
+"word": "ball"
+},
+{
+"word": "is"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "further"
+},
+{
+"word": "edge"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "area"
+}
+]
+},
+{
+"string": "The ball is on the far side of the plane.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "ball"
+},
+{
+"word": "is"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "far"
+},
+{
+"word": "side"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "This purple cube is near the right of the screen and appears very small.",
+"word_list":
+[
+{
+"word": "This"
+},
+{
+"word": "purple"
+},
+{
+"word": "cube"
+},
+{
+"word": "is"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "right"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "screen"
+},
+{
+"word": "and"
+},
+{
+"word": "appears"
+},
+{
+"word": "very"
+},
+{
+"word": "small"
+}
+]
+},
+{
+"string": "There is a purple sphere on the gray surface.",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "purple"
+},
+{
+"word": "sphere"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "A small pink sphere sits towards the back of a gray surface.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "small"
+},
+{
+"word": "pink"
+},
+{
+"word": "sphere"
+},
+{
+"word": "sits"
+},
+{
+"word": "towards"
+},
+{
+"word": "the"
+},
+{
+"word": "back"
+},
+{
+"word": "of"
+},
+{
+"word": "a"
+},
+{
+"word": "gray"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "there is a pink sphere in the plane",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "pink"
+},
+{
+"word": "sphere"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "A pink sphere was placed near the center of the northern hemisphere.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "pink"
+},
+{
+"word": "sphere"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "northern"
+},
+{
+"word": "hemisphere"
+}
+]
+},
+{
+"string": "the ball is magenta, and sits toward the back of the plane, in the middle",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "ball"
+},
+{
+"word": "is"
+},
+{
+"word": "magenta"
+},
+{
+"word": "and"
+},
+{
+"word": "sits"
+},
+{
+"word": "toward"
+},
+{
+"word": "the"
+},
+{
+"word": "back"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+}
+]
+},
+{
+"string": "pink ball in center back of table",
+"word_list":
+[
+{
+"word": "pink"
+},
+{
+"word": "ball"
+},
+{
+"word": "in"
+},
+{
+"word": "center"
+},
+{
+"word": "back"
+},
+{
+"word": "of"
+},
+{
+"word": "table"
+}
+]
+},
+{
+"string": "The small purple sphere is far behind the plane's center close to the edge.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "small"
+},
+{
+"word": "purple"
+},
+{
+"word": "sphere"
+},
+{
+"word": "is"
+},
+{
+"word": "far"
+},
+{
+"word": "behind"
+},
+{
+"word": "the"
+},
+{
+"word": "plane's"
+},
+{
+"word": "center"
+},
+{
+"word": "close"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "edge"
+}
+]
+},
+{
+"string": "The object is a small sphere located near the center of the upper edge of the grey plane",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "small"
+},
+{
+"word": "sphere"
+},
+{
+"word": "located"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "upper"
+},
+{
+"word": "edge"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "a purple sphere on the north part",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "purple"
+},
+{
+"word": "sphere"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "north"
+},
+{
+"word": "part"
+}
+]
+},
+{
+"string": "there is a purple ball/",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "purple"
+},
+{
+"word": "ball"
+}
+]
+}
+]

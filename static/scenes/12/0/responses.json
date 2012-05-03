@@ -1,0 +1,1007 @@
+[
+{
+"string": "The blue",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "blue"
+}
+]
+},
+{
+"string": "blue box added to the bottom of the slanted grey square.",
+"word_list":
+[
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "bottom"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "slanted"
+},
+{
+"word": "grey"
+},
+{
+"word": "square"
+}
+]
+},
+{
+"string": "upright rectangular prism added to left of the center of the surface",
+"word_list":
+[
+{
+"word": "upright"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "added"
+},
+{
+"word": "to"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "Standing blue skinny cube",
+"word_list":
+[
+{
+"word": "Standing"
+},
+{
+"word": "blue"
+},
+{
+"word": "skinny"
+},
+{
+"word": "cube"
+}
+]
+},
+{
+"string": "the blue square is standing up in the center of the left portion of the plane.",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "blue"
+},
+{
+"word": "square"
+},
+{
+"word": "is"
+},
+{
+"word": "standing"
+},
+{
+"word": "up"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "portion"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "there is a blue rectangle to the left of center of the grey shape",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "shape"
+}
+]
+},
+{
+"string": "a blue box, wide, about 1.5 times as wide as it is tall, and 1/3 as long as it is tall, sits, face toward the viewer.",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "wide"
+},
+{
+"word": "about"
+},
+{
+"word": "1"
+},
+{
+"word": "5"
+},
+{
+"word": "times"
+},
+{
+"word": "as"
+},
+{
+"word": "wide"
+},
+{
+"word": "as"
+},
+{
+"word": "it"
+},
+{
+"word": "is"
+},
+{
+"word": "tall"
+},
+{
+"word": "and"
+},
+{
+"word": "1"
+},
+{
+"word": "3"
+},
+{
+"word": "as"
+},
+{
+"word": "long"
+},
+{
+"word": "as"
+},
+{
+"word": "it"
+},
+{
+"word": "is"
+},
+{
+"word": "tall"
+},
+{
+"word": "sits"
+},
+{
+"word": "face"
+},
+{
+"word": "toward"
+},
+{
+"word": "the"
+},
+{
+"word": "viewer"
+}
+]
+},
+{
+"string": "A blue cuboid box on its side is toward the middle front of the grey surface.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "cuboid"
+},
+{
+"word": "box"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "side"
+},
+{
+"word": "is"
+},
+{
+"word": "toward"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "A blue rectangle is to the lower middle area. ",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "is"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "lower"
+},
+{
+"word": "middle"
+},
+{
+"word": "area"
+}
+]
+},
+{
+"string": "THe blue box is in the plane",
+"word_list":
+[
+{
+"word": "THe"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "blue thin rectangular block",
+"word_list":
+[
+{
+"word": "blue"
+},
+{
+"word": "thin"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "block"
+}
+]
+},
+{
+"string": "A blue cereal box stand sidewase left to the center.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "blue"
+},
+{
+"word": "cereal"
+},
+{
+"word": "box"
+},
+{
+"word": "stand"
+},
+{
+"word": "sidewase"
+},
+{
+"word": "left"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+}
+]
+},
+{
+"string": "Near the front of the plane is a blue rectangular prisim.",
+"word_list":
+[
+{
+"word": "Near"
+},
+{
+"word": "the"
+},
+{
+"word": "front"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prisim"
+}
+]
+},
+{
+"string": "The blue box is near the middle of the screen. It appears to be large in height and length.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "middle"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "screen"
+},
+{
+"word": "It"
+},
+{
+"word": "appears"
+},
+{
+"word": "to"
+},
+{
+"word": "be"
+},
+{
+"word": "large"
+},
+{
+"word": "in"
+},
+{
+"word": "height"
+},
+{
+"word": "and"
+},
+{
+"word": "length"
+}
+]
+},
+{
+"string": "There is a blue brick on the gray surface.",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "brick"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "A skinny, blue rectangular block sits on the gray surface.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "skinny"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "block"
+},
+{
+"word": "sits"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "gray"
+},
+{
+"word": "surface"
+}
+]
+},
+{
+"string": "there is a dark blue block on teh plane",
+"word_list":
+[
+{
+"word": "there"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "dark"
+},
+{
+"word": "blue"
+},
+{
+"word": "block"
+},
+{
+"word": "on"
+},
+{
+"word": "teh"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "A tall blue rectangular prism was placed near the center of the plane in the southwestern hemisphere.",
+"word_list":
+[
+{
+"word": "A"
+},
+{
+"word": "tall"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "prism"
+},
+{
+"word": "was"
+},
+{
+"word": "placed"
+},
+{
+"word": "near"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "southwestern"
+},
+{
+"word": "hemisphere"
+}
+]
+},
+{
+"string": "the box is blue, and sits on its edge a little to teh left of the center of the plane",
+"word_list":
+[
+{
+"word": "the"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "blue"
+},
+{
+"word": "and"
+},
+{
+"word": "sits"
+},
+{
+"word": "on"
+},
+{
+"word": "its"
+},
+{
+"word": "edge"
+},
+{
+"word": "a"
+},
+{
+"word": "little"
+},
+{
+"word": "to"
+},
+{
+"word": "teh"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "blue rectangular block on table top",
+"word_list":
+[
+{
+"word": "blue"
+},
+{
+"word": "rectangular"
+},
+{
+"word": "block"
+},
+{
+"word": "on"
+},
+{
+"word": "table"
+},
+{
+"word": "top"
+}
+]
+},
+{
+"string": "The blue box is in the vertical center and to the left side of the plane.",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "blue"
+},
+{
+"word": "box"
+},
+{
+"word": "is"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "vertical"
+},
+{
+"word": "center"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "left"
+},
+{
+"word": "side"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "The object is a blue rectangle, standing on it's edge and to the lower-left of the center of the grey plane",
+"word_list":
+[
+{
+"word": "The"
+},
+{
+"word": "object"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "standing"
+},
+{
+"word": "on"
+},
+{
+"word": "it's"
+},
+{
+"word": "edge"
+},
+{
+"word": "and"
+},
+{
+"word": "to"
+},
+{
+"word": "the"
+},
+{
+"word": "lower"
+},
+{
+"word": "left"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "center"
+},
+{
+"word": "of"
+},
+{
+"word": "the"
+},
+{
+"word": "grey"
+},
+{
+"word": "plane"
+}
+]
+},
+{
+"string": "a blue block in the 3rd quadrant",
+"word_list":
+[
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "block"
+},
+{
+"word": "in"
+},
+{
+"word": "the"
+},
+{
+"word": "3rd"
+},
+{
+"word": "quadrant"
+}
+]
+},
+{
+"string": "There is a blue rectangle on the plateform",
+"word_list":
+[
+{
+"word": "There"
+},
+{
+"word": "is"
+},
+{
+"word": "a"
+},
+{
+"word": "blue"
+},
+{
+"word": "rectangle"
+},
+{
+"word": "on"
+},
+{
+"word": "the"
+},
+{
+"word": "plateform"
+}
+]
+}
+]
