@@ -5,7 +5,9 @@
         <title>room</title>
         <link rel="stylesheet" type="text/css" href="css/ui-lightness/jquery-ui-1.8.18.custom.css" />
         <style type="text/css">
-            .drag {display: inline-block; border: 1px solid black;  position: relative; padding: 0.2em; margin: 0 0 0.5em 0.5em; cursor: move;}
+            .drag {display: inline-block; border: 2px solid black;  position: relative; padding: 0.2em; margin: 0 0 0.5em 0.5em; cursor: move;}
+            #canvas_wrap { position:relative } /* Make this a positioned parent */
+            #word_box    { position:absolute; top:0px; left:0px; }
         </style>
         <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
         <script type="text/javascript" src="js/jquery-ui-1.8.18.custom.min.js"></script>
@@ -46,7 +48,7 @@
                 $('button#save').click(save_responses);
 
                 $('button#load').click(function () {
-                    //disable_user_input();
+                    disable_user_input();
                     $('#load_scene').dialog('open');
                 });
                 
@@ -107,7 +109,7 @@
                         }
                     },
                     close: function () {
-                        //enable_user_input();
+                        enable_user_input();
                         $('#sid').val('');
                     }
                 });
@@ -135,7 +137,10 @@
         <button id="previous" disabled><--</button>
         <button id="next" disabled>--></button>
         <div id="response_display"></div>
+        <div id="canvas_wrap">
+        <canvas id="canvas"> </canvas>
         <div id="word_box"> </div>
+        </div>
         <div id="viewport"></div>
         <!--
         <div id="save_snapshot" title="save snapshot" style="display:none">
