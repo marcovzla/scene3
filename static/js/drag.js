@@ -286,6 +286,7 @@ function load_response_index(i)
         $("#count_remaining").text("response " + (_currentResponseIndex + 1) + " of " + _responses.length);
     }
     update_movement_buttons();
+    resize_scene_to_window();
 }
 
 function update_movement_buttons()

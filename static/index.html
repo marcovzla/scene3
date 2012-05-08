@@ -20,9 +20,26 @@
         <script type="text/javascript">
             var room;
 
+            /* resizing functions */
+            function preferred_viewport_width () {
+                return window.innerWidth - 20;
+            }
+
+            function preferred_viewport_height () {
+                return window.innerHeight - $('#word_box').height() - $('#word_box').position().top - 20;
+            }
+
+            function resize_scene_to_window () {
+                $('#viewport').width(preferred_viewport_width());
+                $('#viewport').height(preferred_viewport_height());
+                room.resizeScene($('#viewport').width(), $('#viewport').height());
+            }
+
             $(document).ready(function () {
                 room = new ROOM3.Room($('#viewport'));
-                room.init();
+                $('#viewport').width(preferred_viewport_width());
+                $('#viewport').height(preferred_viewport_height());
+                room.init($('#viewport').width(), $('#viewport').height());
                 room.animate();
                 //randomScene(10);
 
@@ -36,6 +53,8 @@
                 $('button#next').click(next_response);
 
                 $('button#previous').click(previous_response);
+
+                $(window).resize(resize_scene_to_window);
 
                 /*
                 $('#save_snapshot').dialog({

@@ -5,10 +5,10 @@ TWEEN.start();
 ROOM3.Room = function (container) {
     this.container = container;
 
-    this.init = function (options) {
+    this.init = function (width, height, options) {
         var settings = $.extend(true, {
-            width: window.innerWidth - 50,
-            height: window.innerHeight,
+            width: width,
+            height: height,
             renderer: {
                 antialias: true,
                 shadowMapEnabled: true,
@@ -16,7 +16,7 @@ ROOM3.Room = function (container) {
             },
             camera: {
                 fov: 45,
-                aspect: (window.innerWidth-50) / (window.innerHeight),
+                aspect: (width) / (height),
                 near: 1,
                 far: 1000,
                 position: { x: 60, y: 50, z: 60 }
@@ -40,6 +40,8 @@ ROOM3.Room = function (container) {
         }, options);
 
         this.animate_objects = true;
+
+        this.settings = settings;
 
         // create renderer
         var renderer = new THREE.WebGLRenderer({
@@ -141,8 +143,10 @@ ROOM3.Room = function (container) {
         }
     });
     this.objectAt = function(x, y) {
-        var width = that.container.width();
-        var height = that.container.height();
+        //var width = that.container.width();
+        //var height = that.container.height();
+        var width = that.settings.width;
+        var height = that.settings.height;
         // normalized device coordinates
         var vector = new THREE.Vector3(x/width*2-1, -y/height*2+1);
         var ray = that.projector.pickingRay(vector, that.camera);
@@ -174,9 +178,12 @@ ROOM3.Room = function (container) {
         // mouse coordinates relative to container
         var x = e.clientX - this.offsetLeft;
         var y = e.clientY - this.offsetTop;
-        var width = that.container.width();
-        var height = that.container.height();
+        //var width = that.container.width();
+        //var height = that.container.height();
+        var width = that.settings.width;
+        var height = that.settings.height;
         // normalized device coordinates
+        //var vector = new THREE.Vector3(x/settings.width*2-1, -y/settings.height*2+1);
         var vector = new THREE.Vector3(x/width*2-1, -y/height*2+1);
         var ray = that.projector.pickingRay(vector, that.camera);
         // FIXME we shouldn't have to build this array every time
@@ -499,6 +506,12 @@ ROOM3.Room.prototype = {
             this.scene.remove(o.mesh);
         }
         this.objects = [];
+    },
+
+    resizeScene: function(width, height) {
+        this.settings.width = width;
+        this.settings.height = height;
+        this.renderer.setSize(width, height);
     },
 
     loadData: function (data) {
