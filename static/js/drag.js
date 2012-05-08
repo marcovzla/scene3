@@ -74,6 +74,16 @@ function OnKeyUp(e)
         }
         unselect_all_words();
         update_div_colors();
+    } else if (e.keyCode == 27 && _dragElements)
+    {
+        // repos drag elements
+        for (var i = 0; i < _dragElements.length; i++) {
+            $(_dragElements[i]).offset(_dragElementsOffsets[i]);
+        };
+
+        // clear drag arrays
+        _dragElements = [];
+        _dragElementsOffsets = [];
     }
     return true;
 }
