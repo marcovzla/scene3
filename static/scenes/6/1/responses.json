@@ -2,1345 +2,1461 @@
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "ball"
-            }, 
+                "word": "ball",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "near"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "edge"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "table"
-            }, 
+            },
             {
                 "word": "about"
-            }, 
+            },
             {
                 "word": "halfway"
-            }, 
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "front"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "back"
-            }, 
+            },
             {
                 "word": "edges"
             }
-        ], 
-        "id": 28, 
+        ],
+        "id": 28,
         "string": "A blue ball is placed near the left edge of the table about halfway between the front and back edges"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "ball"
-            }, 
+                "word": "ball",
+                "object_binding": 1
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
             }
-        ], 
-        "id": 55, 
+        ],
+        "id": 55,
         "string": "The blue ball on the left"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Blue"
-            }, 
+                "word": "Blue",
+                "object_binding": 1
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 1
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "bottom"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "green"
-            }, 
+                "word": "green",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 119, 
+        ],
+        "id": 119,
         "string": "Blue sphere added to the bottom left of the green sphere."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Larger"
-            }, 
+                "word": "Larger",
+                "object_binding": 1
+            },
             {
                 "word": ","
-            }, 
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 1
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "green"
-            }, 
+                "word": "green",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "also"
-            }, 
+            },
             {
                 "word": "slightly"
-            }, 
+            },
             {
                 "word": "closer"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "viewer"
             }
-        ], 
-        "id": 181, 
+        ],
+        "id": 181,
         "string": "Larger, blue sphere added to the left of the green sphere, also slightly closer to viewer"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Dark"
-            }, 
+                "word": "Dark",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "spherical"
-            }, 
+                "word": "spherical",
+                "object_binding": 1
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 1
+            },
             {
                 "word": "that"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "slightly"
-            }, 
+            },
             {
                 "word": "bigger"
-            }, 
+            },
             {
                 "word": "than"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "other"
-            }, 
+                "word": "other",
+                "object_binding": 0
+            },
             {
-                "word": "one"
-            }, 
+                "word": "one",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 248, 
+        ],
+        "id": 248,
         "string": "Dark blue spherical object that is slightly bigger than the other one."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 1
+            },
             {
                 "word": "was"
-            }, 
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "down"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "green"
-            }, 
+                "word": "green",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 322, 
+        ],
+        "id": 322,
         "string": "The blue sphere was added down and to the left of the green sphere."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "top-center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "bottom-left"
-            }, 
+            },
             {
                 "word": "portion"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 323, 
+        ],
+        "id": 323,
         "string": "The blue sphere is top-center of the bottom-left portion of the plane."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "there"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "ball"
-            }, 
+                "word": "ball",
+                "object_binding": 1
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "shape"
             }
-        ], 
-        "id": 394, 
+        ],
+        "id": 394,
         "string": "there is a blue ball to the left of center of the grey shape"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 1
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "southwest"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "green"
-            }, 
+                "word": "green",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 486, 
+        ],
+        "id": 486,
         "string": "a blue sphere to the southwest of the green sphere."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "It"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "larger"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "about"
-            }, 
+            },
             {
                 "word": "4"
-            }, 
+            },
             {
                 "word": "diameters"
-            }, 
+            },
             {
                 "word": "away"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 487, 
+        ],
+        "id": 487,
         "string": "It is larger and about 4 diameters away."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "near"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "leftmost"
-            }, 
+            },
             {
                 "word": "corner"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
             }
-        ], 
-        "id": 545, 
+        ],
+        "id": 545,
         "string": "the blue sphere is near the leftmost corner of the plane"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 1
+            },
             {
-                "word": "larger"
-            }, 
+                "word": "larger",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "spherish"
-            }, 
+                "word": "spherish",
+                "object_binding": 1
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "front"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "green"
-            }, 
+                "word": "green",
+                "object_binding": 0
+            },
             {
-                "word": "one"
-            }, 
+                "word": "one",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 594, 
+        ],
+        "id": 594,
         "string": "A larger blue spherish object is in front and to the left of the green one."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "There"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "circular"
-            }, 
+                "word": "circular",
+                "object_binding": 1
+            },
             {
-                "word": "shaped"
-            }, 
+                "word": "shaped",
+                "object_binding": 1
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 1
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "lower"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "area"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "area"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 651, 
+        ],
+        "id": 651,
         "string": "There is a blue circular shaped object added to the lower left area of the gray area."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "sphere"
+                "word": "sphere",
+                "object_binding": 1
             }
-        ], 
-        "id": 773, 
+        ],
+        "id": 773,
         "string": "blue sphere"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "Pakistan"
-            }, 
+                "word": "Pakistan",
+                "object_binding": 0
+            },
             {
-                "word": "green"
-            }, 
+                "word": "green",
+                "object_binding": 0
+            },
             {
-                "word": "ball"
-            }, 
+                "word": "ball",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "close"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "furthest"
-            }, 
+            },
             {
                 "word": "edge"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "pentagon"
-            }, 
+            },
             {
                 "word": "area"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 862, 
+        ],
+        "id": 862,
         "string": "A Pakistan green ball is placed close to the furthest edge on the gray, pentagon area."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "ball"
-            }, 
+                "word": "ball",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "at"
-            }, 
+            },
             {
                 "word": "08:30"
-            }, 
+            },
             {
                 "word": "direction"
-            }, 
+            },
             {
                 "word": "from"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "grenn"
-            }, 
+                "word": "grenn",
+                "object_binding": 0
+            },
             {
-                "word": "ball"
-            }, 
+                "word": "ball",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 863, 
+        ],
+        "id": 863,
         "string": "A blue ball is placed at 08:30 direction from the grenn ball."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "In"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "front"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "corner"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "ball"
-            }, 
+                "word": "ball",
+                "object_binding": 1
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1005, 
+        ],
+        "id": 1005,
         "string": "In the front left corner of the plane is a blue ball."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 1
+            },
             {
                 "word": "appears"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "be"
-            }, 
+            },
             {
                 "word": "larger"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "closer"
-            }, 
+            },
             {
                 "word": "than"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "green"
-            }, 
+                "word": "green",
+                "object_binding": 0
+            },
             {
-                "word": "one"
-            }, 
+                "word": "one",
+                "object_binding": 0
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "similarly"
-            }, 
+            },
             {
                 "word": "shaped"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "off"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "side"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1028, 
+        ],
+        "id": 1028,
         "string": "The blue object appears to be larger and closer than the green one, similarly shaped and off on the left side of the plane."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "There"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "now"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 1
+            },
             {
                 "word": "also"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "surface"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1148, 
+        ],
+        "id": 1148,
         "string": "There is now a blue sphere also on the gray surface."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 1
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "other"
-            }, 
+            },
             {
                 "word": "side"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "surface"
-            }, 
+            },
             {
                 "word": "from"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "green"
-            }, 
+                "word": "green",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1209, 
+        ],
+        "id": 1209,
         "string": "A blue sphere sits on the other side of the gray surface from the green sphere."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "there"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 1
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "other"
-            }, 
+            },
             {
                 "word": "sphere"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "closer"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "me"
             }
-        ], 
-        "id": 1270, 
+        ],
+        "id": 1270,
         "string": "there is a blue sphere to the left of the other sphere and closer to me"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 1
+            },
             {
                 "word": "was"
-            }, 
+            },
             {
                 "word": "place"
-            }, 
+            },
             {
                 "word": "southwest"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "green"
-            }, 
+                "word": "green",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "southwestern"
-            }, 
+            },
             {
                 "word": "hempisphere"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1317, 
+        ],
+        "id": 1317,
         "string": "A blue sphere was place southwest of the green sphere, in the southwestern hempisphere."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "ball"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "blue"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "floats"
-            }, 
+            },
             {
                 "word": "above"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "near"
-            }, 
+            },
             {
                 "word": "edge"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
             }
-        ], 
-        "id": 1333, 
+        ],
+        "id": 1333,
         "string": "the ball is blue, and floats above the near edge of the plane"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Blue"
-            }, 
+                "word": "Blue",
+                "object_binding": 1
+            },
             {
-                "word": "ball"
-            }, 
+                "word": "ball",
+                "object_binding": 1
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "table"
-            }, 
+            },
             {
                 "word": "top"
-            }, 
+            },
             {
                 "word": "with"
-            }, 
+            },
             {
-                "word": "green"
-            }, 
+                "word": "green",
+                "object_binding": 0
+            },
             {
-                "word": "ball"
+                "word": "ball",
+                "object_binding": 0
             }
-        ], 
-        "id": 1385, 
+        ],
+        "id": 1385,
         "string": "Blue ball added to table top with green ball"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 1
+            },
             {
-                "word": "larger"
-            }, 
+                "word": "larger",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "front"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "green"
-            }, 
+                "word": "green",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1462, 
+        ],
+        "id": 1462,
         "string": "The larger blue sphere is in front of and to the left of the green sphere."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "The"
-            }, 
+            },
             {
                 "word": "object"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "blue"
-            }, 
+            },
             {
                 "word": "sphere"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "proportionally"
-            }, 
+            },
             {
                 "word": "larger"
-            }, 
+            },
             {
                 "word": "than"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "green"
-            }, 
+            },
             {
                 "word": "sphere"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "situated"
-            }, 
+            },
             {
                 "word": "towards"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "far"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "plane"
             }
-        ], 
-        "id": 1477, 
+        ],
+        "id": 1477,
         "string": "The object is a blue sphere, proportionally larger than the green sphere, situated towards the far left on the grey plane"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 1
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 1
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 1
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "southwest"
-            }, 
+            },
             {
                 "word": "diagonal"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "first"
-            }, 
+                "word": "first",
+                "object_binding": 0
+            },
             {
-                "word": "one"
-            }, 
+                "word": "one",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1619, 
+        ],
+        "id": 1619,
         "string": "A blue sphere in a southwest diagonal to the first one."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "next"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
-                "word": "green"
-            }, 
+                "word": "green",
+                "object_binding": 0
+            },
             {
-                "word": "ball"
-            }, 
+                "word": "ball",
+                "object_binding": 0
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
             }
-        ], 
-        "id": 1627, 
+        ],
+        "id": 1627,
         "string": "next to green ball on the right"
     }
 ]
