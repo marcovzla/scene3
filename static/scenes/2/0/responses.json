@@ -227,19 +227,23 @@
     {
         "word_list": [
             {
-                "word": "Small"
+                "word": "Small",
+                "object_binding": 0
             },
             {
                 "word": ","
             },
             {
-                "word": "short"
+                "word": "short",
+                "object_binding": 0
             },
             {
-                "word": "box-like"
+                "word": "box-like",
+                "object_binding": 0
             },
             {
-                "word": "prism"
+                "word": "prism",
+                "object_binding": 0
             },
             {
                 "word": "located"
@@ -529,16 +533,19 @@
     {
         "word_list": [
             {
-                "word": "Yellow"
+                "word": "Yellow",
+                "object_binding": 0
             },
             {
                 "word": ","
             },
             {
-                "word": "elongated"
+                "word": "elongated",
+                "object_binding": 0
             },
             {
-                "word": "box"
+                "word": "box",
+                "object_binding": 0
             },
             {
                 "word": ","
