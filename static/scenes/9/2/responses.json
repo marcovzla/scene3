@@ -1,1196 +1,1310 @@
 [
-{
-"string": "The lower purple object close to middle",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "lower"
-},
-{
-"word": "purple"
-},
-{
-"word": "object"
-},
-{
-"word": "close"
-},
-{
-"word": "to"
-},
-{
-"word": "middle"
-}
-]
-},
-{
-"string": "short purple cylinder added to the front of the purple sphere.",
-"word_list":
-[
-{
-"word": "short"
-},
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "added"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "short cylinder added in front of sphere",
-"word_list":
-[
-{
-"word": "short"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "added"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "Pink flattened cylinder to the near south of the pink sphere",
-"word_list":
-[
-{
-"word": "Pink"
-},
-{
-"word": "flattened"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "near"
-},
-{
-"word": "south"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "pink"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "The purple disc is down from the purple sphere.  The purple disc is a fifth the distance of the red cube from the purple sphere.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "purple"
-},
-{
-"word": "disc"
-},
-{
-"word": "is"
-},
-{
-"word": "down"
-},
-{
-"word": "from"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "sphere"
-},
-{
-"word": "The"
-},
-{
-"word": "purple"
-},
-{
-"word": "disc"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "fifth"
-},
-{
-"word": "the"
-},
-{
-"word": "distance"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "cube"
-},
-{
-"word": "from"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "there is a pink circle below the pink ball",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "pink"
-},
-{
-"word": "circle"
-},
-{
-"word": "below"
-},
-{
-"word": "the"
-},
-{
-"word": "pink"
-},
-{
-"word": "ball"
-}
-]
-},
-{
-"string": "now a magenta cylinder, like a disc, short and flat, wider than the red cube (its corners might lie on the cylinder's edge were they to stack). The cylinder is to the south and a bit east of the sphere.",
-"word_list":
-[
-{
-"word": "now"
-},
-{
-"word": "a"
-},
-{
-"word": "magenta"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "like"
-},
-{
-"word": "a"
-},
-{
-"word": "disc"
-},
-{
-"word": "short"
-},
-{
-"word": "and"
-},
-{
-"word": "flat"
-},
-{
-"word": "wider"
-},
-{
-"word": "than"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "cube"
-},
-{
-"word": "its"
-},
-{
-"word": "corners"
-},
-{
-"word": "might"
-},
-{
-"word": "lie"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "cylinder's"
-},
-{
-"word": "edge"
-},
-{
-"word": "were"
-},
-{
-"word": "they"
-},
-{
-"word": "to"
-},
-{
-"word": "stack"
-},
-{
-"word": "The"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "south"
-},
-{
-"word": "and"
-},
-{
-"word": "a"
-},
-{
-"word": "bit"
-},
-{
-"word": "east"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "A short  light purple 3D octagon is in front of the other light purple object.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "short"
-},
-{
-"word": "light"
-},
-{
-"word": "purple"
-},
-{
-"word": "3D"
-},
-{
-"word": "octagon"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "light"
-},
-{
-"word": "purple"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "A pink octagon slice was added below the pink sphere. ",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "pink"
-},
-{
-"word": "octagon"
-},
-{
-"word": "slice"
-},
-{
-"word": "was"
-},
-{
-"word": "added"
-},
-{
-"word": "below"
-},
-{
-"word": "the"
-},
-{
-"word": "pink"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "The puplredisk is in front of the purple sphere",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "puplredisk"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "purple thin disk",
-"word_list":
-[
-{
-"word": "purple"
-},
-{
-"word": "thin"
-},
-{
-"word": "disk"
-}
-]
-},
-{
-"string": "A small. magenta ball is on the further edge of the gray pentagon area. Left to the ball, a red cube is close to a corner of the gray area. Dead front of the ball is a magenta, octagon pizza box.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "small"
-},
-{
-"word": "magenta"
-},
-{
-"word": "ball"
-},
-{
-"word": "is"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "further"
-},
-{
-"word": "edge"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "pentagon"
-},
-{
-"word": "area"
-},
-{
-"word": "Left"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "ball"
-},
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "cube"
-},
-{
-"word": "is"
-},
-{
-"word": "close"
-},
-{
-"word": "to"
-},
-{
-"word": "a"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "area"
-},
-{
-"word": "Dead"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "ball"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "magenta"
-},
-{
-"word": "octagon"
-},
-{
-"word": "pizza"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "The pink disk is in front of the ball.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "pink"
-},
-{
-"word": "disk"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "ball"
-}
-]
-},
-{
-"string": "The purple octahedron is placed forward from the first purple object and is very short and long in comparison to the other two objects.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "purple"
-},
-{
-"word": "octahedron"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "forward"
-},
-{
-"word": "from"
-},
-{
-"word": "the"
-},
-{
-"word": "first"
-},
-{
-"word": "purple"
-},
-{
-"word": "object"
-},
-{
-"word": "and"
-},
-{
-"word": "is"
-},
-{
-"word": "very"
-},
-{
-"word": "short"
-},
-{
-"word": "and"
-},
-{
-"word": "long"
-},
-{
-"word": "in"
-},
-{
-"word": "comparison"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "two"
-},
-{
-"word": "objects"
-}
-]
-},
-{
-"string": "There is a slim purple cylinder in front of the purple sphere.",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "slim"
-},
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "A flat pink cylinder sits in front of the pink sphere.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "flat"
-},
-{
-"word": "pink"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "sits"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "pink"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "there is aflat purple cylinder in front of the pink sphere",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "aflat"
-},
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "pink"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "a pink octagonal prism was placed just south of the pink sphere.",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "pink"
-},
-{
-"word": "octagonal"
-},
-{
-"word": "prism"
-},
-{
-"word": "was"
-},
-{
-"word": "placed"
-},
-{
-"word": "just"
-},
-{
-"word": "south"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "pink"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "the disk is magenta, and sits front-right of the magenta ball",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "disk"
-},
-{
-"word": "is"
-},
-{
-"word": "magenta"
-},
-{
-"word": "and"
-},
-{
-"word": "sits"
-},
-{
-"word": "front"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "magenta"
-},
-{
-"word": "ball"
-}
-]
-},
-{
-"string": "purple octagon block place din front of pink ball",
-"word_list":
-[
-{
-"word": "purple"
-},
-{
-"word": "octagon"
-},
-{
-"word": "block"
-},
-{
-"word": "place"
-},
-{
-"word": "din"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "pink"
-},
-{
-"word": "ball"
-}
-]
-},
-{
-"string": "The wide short cylinder is in front of and to the right of the small purple sphere.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "wide"
-},
-{
-"word": "short"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "and"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "small"
-},
-{
-"word": "purple"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "The object is a thin, purple disk located just south of the purple sphere and just north of the center of the grey plane",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "thin"
-},
-{
-"word": "purple"
-},
-{
-"word": "disk"
-},
-{
-"word": "located"
-},
-{
-"word": "just"
-},
-{
-"word": "south"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "sphere"
-},
-{
-"word": "and"
-},
-{
-"word": "just"
-},
-{
-"word": "north"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "a purple ngon south of the cylinder",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "purple"
-},
-{
-"word": "ngon"
-},
-{
-"word": "south"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "cylinder"
-}
-]
-},
-{
-"string": "There is a thin purple cylinder on the 6 o' clock of the ball.",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "thin"
-},
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "6"
-},
-{
-"word": "o'"
-},
-{
-"word": "clock"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "ball"
-}
-]
-}
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "lower"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "close"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "middle"
+            }
+        ], 
+        "id": 70, 
+        "string": "The lower purple object close to middle"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "short"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 135, 
+        "string": "short purple cylinder added to the front of the purple sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "short"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 196, 
+        "string": "short cylinder added in front of sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Pink"
+            }, 
+            {
+                "word": "flattened"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "south"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 263, 
+        "string": "Pink flattened cylinder to the near south of the pink sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "disc"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "down"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 352, 
+        "string": "The purple disc is down from the purple sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "disc"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "fifth"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "distance"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 353, 
+        "string": "The purple disc is a fifth the distance of the red cube from the purple sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "circle"
+            }, 
+            {
+                "word": "below"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "ball"
+            }
+        ], 
+        "id": 431, 
+        "string": "there is a pink circle below the pink ball"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "now"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "like"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "disc"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "short"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "flat"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "wider"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "-LRB-"
+            }, 
+            {
+                "word": "its"
+            }, 
+            {
+                "word": "corners"
+            }, 
+            {
+                "word": "might"
+            }, 
+            {
+                "word": "lie"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "'s"
+            }, 
+            {
+                "word": "edge"
+            }, 
+            {
+                "word": "were"
+            }, 
+            {
+                "word": "they"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "stack"
+            }, 
+            {
+                "word": "-RRB-"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 527, 
+        "string": "now a magenta cylinder, like a disc, short and flat, wider than the red cube (its corners might lie on the cylinder's edge were they to stack)."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "south"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "bit"
+            }, 
+            {
+                "word": "east"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 528, 
+        "string": "The cylinder is to the south and a bit east of the sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "short"
+            }, 
+            {
+                "word": "light"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "3D"
+            }, 
+            {
+                "word": "octagon"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "light"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 609, 
+        "string": "A short  light purple 3D octagon is in front of the other light purple object."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "octagon"
+            }, 
+            {
+                "word": "slice"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "below"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 666, 
+        "string": "A pink octagon slice was added below the pink sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "puplredisk"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 690, 
+        "string": "The puplredisk is in front of the purple sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "thin"
+            }, 
+            {
+                "word": "disk"
+            }
+        ], 
+        "id": 788, 
+        "string": "purple thin disk"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 908, 
+        "string": "A small."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "further"
+            }, 
+            {
+                "word": "edge"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "pentagon"
+            }, 
+            {
+                "word": "area"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 909, 
+        "string": "magenta ball is on the further edge of the gray pentagon area."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Left"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "close"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "area"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 910, 
+        "string": "Left to the ball, a red cube is close to a corner of the gray area."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Dead"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "octagon"
+            }, 
+            {
+                "word": "pizza"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 911, 
+        "string": "Dead front of the ball is a magenta, octagon pizza box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "disk"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 973, 
+        "string": "The pink disk is in front of the ball."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "octahedron"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "forward"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "first"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "very"
+            }, 
+            {
+                "word": "short"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "long"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "comparison"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "two"
+            }, 
+            {
+                "word": "objects"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1084, 
+        "string": "The purple octahedron is placed forward from the first purple object and is very short and long in comparison to the other two objects."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "slim"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1157, 
+        "string": "There is a slim purple cylinder in front of the purple sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "flat"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1213, 
+        "string": "A flat pink cylinder sits in front of the pink sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "aflat"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 1268, 
+        "string": "there is aflat purple cylinder in front of the pink sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "octagonal"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "just"
+            }, 
+            {
+                "word": "south"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1289, 
+        "string": "a pink octagonal prism was placed just south of the pink sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "disk"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "front-right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "ball"
+            }
+        ], 
+        "id": 1373, 
+        "string": "the disk is magenta, and sits front-right of the magenta ball"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "octagon"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "place"
+            }, 
+            {
+                "word": "din"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "ball"
+            }
+        ], 
+        "id": 1411, 
+        "string": "purple octagon block place din front of pink ball"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "wide"
+            }, 
+            {
+                "word": "short"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1510, 
+        "string": "The wide short cylinder is in front of and to the right of the small purple sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "thin"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "disk"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "just"
+            }, 
+            {
+                "word": "south"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "just"
+            }, 
+            {
+                "word": "north"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "plane"
+            }
+        ], 
+        "id": 1569, 
+        "string": "The object is a thin, purple disk located just south of the purple sphere and just north of the center of the grey plane"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "ngon"
+            }, 
+            {
+                "word": "south"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "cylinder"
+            }
+        ], 
+        "id": 1587, 
+        "string": "a purple ngon south of the cylinder"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "thin"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "6"
+            }, 
+            {
+                "word": "o"
+            }, 
+            {
+                "word": "'"
+            }, 
+            {
+                "word": "clock"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1657, 
+        "string": "There is a thin purple cylinder on the 6 o' clock of the ball."
+    }
 ]

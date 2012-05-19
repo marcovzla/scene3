@@ -1,1220 +1,1304 @@
 [
-{
-"string": "The blue ball is in the back.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "blue"
-},
-{
-"word": "ball"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-}
-]
-},
-{
-"string": "A blue ball is near the back edge of the table, about halfway across.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "blue"
-},
-{
-"word": "ball"
-},
-{
-"word": "is"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "edge"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "table"
-},
-{
-"word": "about"
-},
-{
-"word": "halfway"
-},
-{
-"word": "across"
-}
-]
-},
-{
-"string": "The deep blue ball.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "deep"
-},
-{
-"word": "blue"
-},
-{
-"word": "ball"
-}
-]
-},
-{
-"string": "Blue sphere located in upper right corner of slanted grey square.",
-"word_list":
-[
-{
-"word": "Blue"
-},
-{
-"word": "sphere"
-},
-{
-"word": "located"
-},
-{
-"word": "in"
-},
-{
-"word": "upper"
-},
-{
-"word": "right"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "slanted"
-},
-{
-"word": "grey"
-},
-{
-"word": "square"
-}
-]
-},
-{
-"string": "blue sphere placed towards the back of the surface towards the middle in respect to left and right side",
-"word_list":
-[
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-},
-{
-"word": "placed"
-},
-{
-"word": "towards"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "surface"
-},
-{
-"word": "towards"
-},
-{
-"word": "the"
-},
-{
-"word": "middle"
-},
-{
-"word": "in"
-},
-{
-"word": "respect"
-},
-{
-"word": "to"
-},
-{
-"word": "left"
-},
-{
-"word": "and"
-},
-{
-"word": "right"
-},
-{
-"word": "side"
-}
-]
-},
-{
-"string": "Spherical blue object on the back end of the platform.",
-"word_list":
-[
-{
-"word": "Spherical"
-},
-{
-"word": "blue"
-},
-{
-"word": "object"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "end"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "platform"
-}
-]
-},
-{
-"string": "The blue sphere is near the left side of the top-right portion of the plane.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-},
-{
-"word": "is"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "right"
-},
-{
-"word": "portion"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "there is a blue ball way above and just to the right of center of the grey shape.",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "blue"
-},
-{
-"word": "ball"
-},
-{
-"word": "way"
-},
-{
-"word": "above"
-},
-{
-"word": "and"
-},
-{
-"word": "just"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "shape"
-}
-]
-},
-{
-"string": "It is a blue sphere, similar to the green sphere from before, except it sits closer to the top-right corner of the grey object, just right of the midpoint on the top-right edge of the grey object.",
-"word_list":
-[
-{
-"word": "It"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-},
-{
-"word": "similar"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "sphere"
-},
-{
-"word": "from"
-},
-{
-"word": "before"
-},
-{
-"word": "except"
-},
-{
-"word": "it"
-},
-{
-"word": "sits"
-},
-{
-"word": "closer"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "right"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "object"
-},
-{
-"word": "just"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "midpoint"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "right"
-},
-{
-"word": "edge"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "The blue sphere is on the opposite side of the plane",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-},
-{
-"word": "is"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "opposite"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "The blue spherish ball is toward the back right of the grey surface.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "blue"
-},
-{
-"word": "spherish"
-},
-{
-"word": "ball"
-},
-{
-"word": "is"
-},
-{
-"word": "toward"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "There is a blue ball-like shaped object more towards the upper right corner. ",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "blue"
-},
-{
-"word": "ball"
-},
-{
-"word": "like"
-},
-{
-"word": "shaped"
-},
-{
-"word": "object"
-},
-{
-"word": "more"
-},
-{
-"word": "towards"
-},
-{
-"word": "the"
-},
-{
-"word": "upper"
-},
-{
-"word": "right"
-},
-{
-"word": "corner"
-}
-]
-},
-{
-"string": "A blue sphere is located in the northeastern hemisphere of the gray plane.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-},
-{
-"word": "is"
-},
-{
-"word": "located"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "northeastern"
-},
-{
-"word": "hemisphere"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "Blue Sphere on the right top side",
-"word_list":
-[
-{
-"word": "Blue"
-},
-{
-"word": "Sphere"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "top"
-},
-{
-"word": "side"
-}
-]
-},
-{
-"string": "Blue sphere",
-"word_list":
-[
-{
-"word": "Blue"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "a pure blue sphere is placed close to the furthest edge of a huge, pentagon, gray mat. There is a light source coming from 4 o'clock direction. ",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "pure"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "close"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "furthest"
-},
-{
-"word": "edge"
-},
-{
-"word": "of"
-},
-{
-"word": "a"
-},
-{
-"word": "huge"
-},
-{
-"word": "pentagon"
-},
-{
-"word": "gray"
-},
-{
-"word": "mat"
-},
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "light"
-},
-{
-"word": "source"
-},
-{
-"word": "coming"
-},
-{
-"word": "from"
-},
-{
-"word": "4"
-},
-{
-"word": "o'clock"
-},
-{
-"word": "direction"
-}
-]
-},
-{
-"string": "Near the back right side of the plane is a blue ball.",
-"word_list":
-[
-{
-"word": "Near"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "right"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "blue"
-},
-{
-"word": "ball"
-}
-]
-},
-{
-"string": "This blue object seems very much like the old blue ball-shaped object. It is off to the right from the middle and has a very long shadow.",
-"word_list":
-[
-{
-"word": "This"
-},
-{
-"word": "blue"
-},
-{
-"word": "object"
-},
-{
-"word": "seems"
-},
-{
-"word": "very"
-},
-{
-"word": "much"
-},
-{
-"word": "like"
-},
-{
-"word": "the"
-},
-{
-"word": "old"
-},
-{
-"word": "blue"
-},
-{
-"word": "ball"
-},
-{
-"word": "shaped"
-},
-{
-"word": "object"
-},
-{
-"word": "It"
-},
-{
-"word": "is"
-},
-{
-"word": "off"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "from"
-},
-{
-"word": "the"
-},
-{
-"word": "middle"
-},
-{
-"word": "and"
-},
-{
-"word": "has"
-},
-{
-"word": "a"
-},
-{
-"word": "very"
-},
-{
-"word": "long"
-},
-{
-"word": "shadow"
-}
-]
-},
-{
-"string": "Blue sphere on gray surface",
-"word_list":
-[
-{
-"word": "Blue"
-},
-{
-"word": "sphere"
-},
-{
-"word": "on"
-},
-{
-"word": "gray"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "A blue sphere sits towards the back of the gray surface.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-},
-{
-"word": "sits"
-},
-{
-"word": "towards"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "the blue ball is sitting on the plane",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "ball"
-},
-{
-"word": "is"
-},
-{
-"word": "sitting"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "the ball is blue, and is located toward the back of the plane, in the middle.",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "ball"
-},
-{
-"word": "is"
-},
-{
-"word": "blue"
-},
-{
-"word": "and"
-},
-{
-"word": "is"
-},
-{
-"word": "located"
-},
-{
-"word": "toward"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "middle"
-}
-]
-},
-{
-"string": "blue ball near back of table top",
-"word_list":
-[
-{
-"word": "blue"
-},
-{
-"word": "ball"
-},
-{
-"word": "near"
-},
-{
-"word": "back"
-},
-{
-"word": "of"
-},
-{
-"word": "table"
-},
-{
-"word": "top"
-}
-]
-},
-{
-"string": "The sphere is resting on the far right side of the square plane.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "sphere"
-},
-{
-"word": "is"
-},
-{
-"word": "resting"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "far"
-},
-{
-"word": "right"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "square"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "The object is a blue sphere, positioned on the north end of the grey plane - slightly to the right of the center",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-},
-{
-"word": "positioned"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "north"
-},
-{
-"word": "end"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "plane"
-},
-{
-"word": "slightly"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-}
-]
-},
-{
-"string": "a blue sphere in the first quadrant",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "first"
-},
-{
-"word": "quadrant"
-}
-]
-}
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 6, 
+        "string": "The blue ball is in the back."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "edge"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "table"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "about"
+            }, 
+            {
+                "word": "halfway"
+            }, 
+            {
+                "word": "across"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 15, 
+        "string": "A blue ball is near the back edge of the table, about halfway across."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "deep"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 42, 
+        "string": "The deep blue ball."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "upper"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "slanted"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 106, 
+        "string": "Blue sphere located in upper right corner of slanted grey square."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "towards"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "surface"
+            }, 
+            {
+                "word": "towards"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "middle"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "respect"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "side"
+            }
+        ], 
+        "id": 155, 
+        "string": "blue sphere placed towards the back of the surface towards the middle in respect to left and right side"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Spherical"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "end"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "platform"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 232, 
+        "string": "Spherical blue object on the back end of the platform."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top-right"
+            }, 
+            {
+                "word": "portion"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 296, 
+        "string": "The blue sphere is near the left side of the top-right portion of the plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "way"
+            }, 
+            {
+                "word": "above"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "just"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "shape"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 367, 
+        "string": "there is a blue ball way above and just to the right of center of the grey shape."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "It"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "similar"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "before"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "except"
+            }, 
+            {
+                "word": "it"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "closer"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top-right"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "just"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "midpoint"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top-right"
+            }, 
+            {
+                "word": "edge"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 465, 
+        "string": "It is a blue sphere, similar to the green sphere from before, except it sits closer to the top-right corner of the grey object, just right of the midpoint on the top-right edge of the grey object."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "opposite"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }
+        ], 
+        "id": 496, 
+        "string": "The blue sphere is on the opposite side of the plane"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "spherish"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "toward"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "surface"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 581, 
+        "string": "The blue spherish ball is toward the back right of the grey surface."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "ball-like"
+            }, 
+            {
+                "word": "shaped"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "more"
+            }, 
+            {
+                "word": "towards"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "upper"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 638, 
+        "string": "There is a blue ball-like shaped object more towards the upper right corner."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "northeastern"
+            }, 
+            {
+                "word": "hemisphere"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 721, 
+        "string": "A blue sphere is located in the northeastern hemisphere of the gray plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Blue"
+            }, 
+            {
+                "word": "Sphere"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "top"
+            }, 
+            {
+                "word": "side"
+            }
+        ], 
+        "id": 732, 
+        "string": "Blue Sphere on the right top side"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Blue"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 760, 
+        "string": "Blue sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "pure"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "close"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "furthest"
+            }, 
+            {
+                "word": "edge"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "huge"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "pentagon"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "mat"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 828, 
+        "string": "a pure blue sphere is placed close to the furthest edge of a huge, pentagon, gray mat."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "light"
+            }, 
+            {
+                "word": "source"
+            }, 
+            {
+                "word": "coming"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "4"
+            }, 
+            {
+                "word": "o'clock"
+            }, 
+            {
+                "word": "direction"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 829, 
+        "string": "There is a light source coming from 4 o'clock direction."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1000, 
+        "string": "Near the back right side of the plane is a blue ball."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "This"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "seems"
+            }, 
+            {
+                "word": "very"
+            }, 
+            {
+                "word": "much"
+            }, 
+            {
+                "word": "like"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "old"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "ball-shaped"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1042, 
+        "string": "This blue object seems very much like the old blue ball-shaped object."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "It"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "off"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "middle"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "has"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "very"
+            }, 
+            {
+                "word": "long"
+            }, 
+            {
+                "word": "shadow"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1043, 
+        "string": "It is off to the right from the middle and has a very long shadow."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "surface"
+            }
+        ], 
+        "id": 1109, 
+        "string": "Blue sphere on gray surface"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "towards"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "surface"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1199, 
+        "string": "A blue sphere sits towards the back of the gray surface."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "sitting"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }
+        ], 
+        "id": 1234, 
+        "string": "the blue ball is sitting on the plane"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "toward"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "middle"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1319, 
+        "string": "the ball is blue, and is located toward the back of the plane, in the middle."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "table"
+            }, 
+            {
+                "word": "top"
+            }
+        ], 
+        "id": 1397, 
+        "string": "blue ball near back of table top"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "resting"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "far"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1449, 
+        "string": "The sphere is resting on the far right side of the square plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "positioned"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "north"
+            }, 
+            {
+                "word": "end"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "-"
+            }, 
+            {
+                "word": "slightly"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }
+        ], 
+        "id": 1484, 
+        "string": "The object is a blue sphere, positioned on the north end of the grey plane - slightly to the right of the center"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "first"
+            }, 
+            {
+                "word": "quadrant"
+            }
+        ], 
+        "id": 1614, 
+        "string": "a blue sphere in the first quadrant"
+    }
 ]

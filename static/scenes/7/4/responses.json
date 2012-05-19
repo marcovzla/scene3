@@ -1,1457 +1,1604 @@
 [
-{
-"string": "Another brick, this one blue, partly obscures the small green brick.",
-"word_list":
-[
-{
-"word": "Another"
-},
-{
-"word": "brick"
-},
-{
-"word": "this"
-},
-{
-"word": "one"
-},
-{
-"word": "blue"
-},
-{
-"word": "partly"
-},
-{
-"word": "obscures"
-},
-{
-"word": "the"
-},
-{
-"word": "small"
-},
-{
-"word": "green"
-},
-{
-"word": "brick"
-}
-]
-},
-{
-"string": "The blue in the objects group",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "blue"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "objects"
-},
-{
-"word": "group"
-}
-]
-},
-{
-"string": "blue box added in front of the shorter green box.",
-"word_list":
-[
-{
-"word": "blue"
-},
-{
-"word": "box"
-},
-{
-"word": "added"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "shorter"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "blue square-like prism placed in front of third object",
-"word_list":
-[
-{
-"word": "blue"
-},
-{
-"word": "square"
-},
-{
-"word": "like"
-},
-{
-"word": "prism"
-},
-{
-"word": "placed"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "third"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "Dark blue, looks like large wall covering a part of the green structure behind it.",
-"word_list":
-[
-{
-"word": "Dark"
-},
-{
-"word": "blue"
-},
-{
-"word": "looks"
-},
-{
-"word": "like"
-},
-{
-"word": "large"
-},
-{
-"word": "wall"
-},
-{
-"word": "covering"
-},
-{
-"word": "a"
-},
-{
-"word": "part"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "structure"
-},
-{
-"word": "behind"
-},
-{
-"word": "it"
-}
-]
-},
-{
-"string": "The blue cube is between the smaller green square and the purple cylinder.  The blue cube is near the center of the top-left portion of the plane.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "blue"
-},
-{
-"word": "cube"
-},
-{
-"word": "is"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "smaller"
-},
-{
-"word": "green"
-},
-{
-"word": "square"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "The"
-},
-{
-"word": "blue"
-},
-{
-"word": "cube"
-},
-{
-"word": "is"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "left"
-},
-{
-"word": "portion"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "there is a blue square below the small green square ",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "blue"
-},
-{
-"word": "square"
-},
-{
-"word": "below"
-},
-{
-"word": "the"
-},
-{
-"word": "small"
-},
-{
-"word": "green"
-},
-{
-"word": "square"
-}
-]
-},
-{
-"string": "a blue box like the last green cracker, but thicker, is now sitting at the midpoint between the shorter green box and the purple cylinder. You can still see the green box.",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "blue"
-},
-{
-"word": "box"
-},
-{
-"word": "like"
-},
-{
-"word": "the"
-},
-{
-"word": "last"
-},
-{
-"word": "green"
-},
-{
-"word": "cracker"
-},
-{
-"word": "but"
-},
-{
-"word": "thicker"
-},
-{
-"word": "is"
-},
-{
-"word": "now"
-},
-{
-"word": "sitting"
-},
-{
-"word": "at"
-},
-{
-"word": "the"
-},
-{
-"word": "midpoint"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "shorter"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "You"
-},
-{
-"word": "can"
-},
-{
-"word": "still"
-},
-{
-"word": "see"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "The blue box is in between the small green box and the purple cylinder",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "blue"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "small"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-}
-]
-},
-{
-"string": "A taller blue 3D square on it's side is between the smaller green square and the light purple object.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "taller"
-},
-{
-"word": "blue"
-},
-{
-"word": "3D"
-},
-{
-"word": "square"
-},
-{
-"word": "on"
-},
-{
-"word": "it's"
-},
-{
-"word": "side"
-},
-{
-"word": "is"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "smaller"
-},
-{
-"word": "green"
-},
-{
-"word": "square"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "light"
-},
-{
-"word": "purple"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "There is a blue rectangle cube added in between the pink and first green object. ",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "blue"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "cube"
-},
-{
-"word": "added"
-},
-{
-"word": "in"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "pink"
-},
-{
-"word": "and"
-},
-{
-"word": "first"
-},
-{
-"word": "green"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "blue thin square 3d",
-"word_list":
-[
-{
-"word": "blue"
-},
-{
-"word": "thin"
-},
-{
-"word": "square"
-},
-{
-"word": "3d"
-}
-]
-},
-{
-"string": "A magenta can is on the left side of the gray area. A blue pie's box is behind the magenta can, stands sidewase. A green cookie box is right behind the blue pie's box. and a green cereal box is right next to the cookie box.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "magenta"
-},
-{
-"word": "can"
-},
-{
-"word": "is"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "area"
-},
-{
-"word": "A"
-},
-{
-"word": "blue"
-},
-{
-"word": "pie's"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "magenta"
-},
-{
-"word": "can"
-},
-{
-"word": "stands"
-},
-{
-"word": "sidewase"
-},
-{
-"word": "A"
-},
-{
-"word": "green"
-},
-{
-"word": "cookie"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "right"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "pie's"
-},
-{
-"word": "box"
-},
-{
-"word": "and"
-},
-{
-"word": "a"
-},
-{
-"word": "green"
-},
-{
-"word": "cereal"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "right"
-},
-{
-"word": "next"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "cookie"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "Right between the pink cylidner and the green rectangular prisim is a blue cube.",
-"word_list":
-[
-{
-"word": "Right"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "pink"
-},
-{
-"word": "cylidner"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prisim"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "blue"
-},
-{
-"word": "cube"
-}
-]
-},
-{
-"string": "The blue object is placed in between the smaller-green object and the purple object. it is roughly the same size as the larger green object",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "blue"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "in"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "smaller"
-},
-{
-"word": "green"
-},
-{
-"word": "object"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "object"
-},
-{
-"word": "it"
-},
-{
-"word": "is"
-},
-{
-"word": "roughly"
-},
-{
-"word": "the"
-},
-{
-"word": "same"
-},
-{
-"word": "size"
-},
-{
-"word": "as"
-},
-{
-"word": "the"
-},
-{
-"word": "larger"
-},
-{
-"word": "green"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "The blue brick is in front of one of the green ones",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "blue"
-},
-{
-"word": "brick"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "one"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "ones"
-}
-]
-},
-{
-"string": "A large but skinny blue box sits inbetween the magenta cylinder and smaller green blocks.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "large"
-},
-{
-"word": "but"
-},
-{
-"word": "skinny"
-},
-{
-"word": "blue"
-},
-{
-"word": "box"
-},
-{
-"word": "sits"
-},
-{
-"word": "inbetween"
-},
-{
-"word": "the"
-},
-{
-"word": "magenta"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "and"
-},
-{
-"word": "smaller"
-},
-{
-"word": "green"
-},
-{
-"word": "blocks"
-}
-]
-},
-{
-"string": "there is a blue square in between the purple cylinder and the smaller brown block",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "blue"
-},
-{
-"word": "square"
-},
-{
-"word": "in"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "smaller"
-},
-{
-"word": "brown"
-},
-{
-"word": "block"
-}
-]
-},
-{
-"string": "A tall blue rectangular prism was placed in front of the first green rectangular prism.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "tall"
-},
-{
-"word": "blue"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "was"
-},
-{
-"word": "placed"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "first"
-},
-{
-"word": "green"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-}
-]
-},
-{
-"string": "the box is blue, and sits between the cylinder and the smaller green box",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "blue"
-},
-{
-"word": "and"
-},
-{
-"word": "sits"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "smaller"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "large blue block placed in fron tof smaller green block",
-"word_list":
-[
-{
-"word": "large"
-},
-{
-"word": "blue"
-},
-{
-"word": "block"
-},
-{
-"word": "placed"
-},
-{
-"word": "in"
-},
-{
-"word": "fron"
-},
-{
-"word": "tof"
-},
-{
-"word": "smaller"
-},
-{
-"word": "green"
-},
-{
-"word": "block"
-}
-]
-},
-{
-"string": "A thicker blue rectangular prism is now placed on its edge between the pink cylinder and the smaller green rectangular prism",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "thicker"
-},
-{
-"word": "blue"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "is"
-},
-{
-"word": "now"
-},
-{
-"word": "placed"
-},
-{
-"word": "on"
-},
-{
-"word": "its"
-},
-{
-"word": "edge"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "pink"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "smaller"
-},
-{
-"word": "green"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-}
-]
-},
-{
-"string": "The object is a blue rectangle, thicker than the large green rectangle, but about the same height. The blue rectangle is located in between the small green rectangle and the purple cylinder. ",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "blue"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "thicker"
-},
-{
-"word": "than"
-},
-{
-"word": "the"
-},
-{
-"word": "large"
-},
-{
-"word": "green"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "but"
-},
-{
-"word": "about"
-},
-{
-"word": "the"
-},
-{
-"word": "same"
-},
-{
-"word": "height"
-},
-{
-"word": "The"
-},
-{
-"word": "blue"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "is"
-},
-{
-"word": "located"
-},
-{
-"word": "in"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "small"
-},
-{
-"word": "green"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-}
-]
-},
-{
-"string": "The tall, wider, blue box is between the smaller, green box and the purple cylinder.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "tall"
-},
-{
-"word": "wider"
-},
-{
-"word": "blue"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "smaller"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-}
-]
-},
-{
-"string": "a blue block south of the green ones, but north of the cylinder.",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "blue"
-},
-{
-"word": "block"
-},
-{
-"word": "south"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "ones"
-},
-{
-"word": "but"
-},
-{
-"word": "north"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "cylinder"
-}
-]
-},
-{
-"string": "There is a blue cube next to the original green shape.",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "blue"
-},
-{
-"word": "cube"
-},
-{
-"word": "next"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "original"
-},
-{
-"word": "green"
-},
-{
-"word": "shape"
-}
-]
-}
+    {
+        "word_list": [
+            {
+                "word": "Another"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "this"
+            }, 
+            {
+                "word": "one"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "partly"
+            }, 
+            {
+                "word": "obscures"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 34, 
+        "string": "Another brick, this one blue, partly obscures the small green brick."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "objects"
+            }, 
+            {
+                "word": "group"
+            }
+        ], 
+        "id": 61, 
+        "string": "The blue in the objects group"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "shorter"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 125, 
+        "string": "blue box added in front of the shorter green box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "square-like"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "third"
+            }, 
+            {
+                "word": "object"
+            }
+        ], 
+        "id": 187, 
+        "string": "blue square-like prism placed in front of third object"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Dark"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "looks"
+            }, 
+            {
+                "word": "like"
+            }, 
+            {
+                "word": "large"
+            }, 
+            {
+                "word": "wall"
+            }, 
+            {
+                "word": "covering"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "part"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "structure"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "it"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 254, 
+        "string": "Dark blue, looks like large wall covering a part of the green structure behind it."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "smaller"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 335, 
+        "string": "The blue cube is between the smaller green square and the purple cylinder."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top-left"
+            }, 
+            {
+                "word": "portion"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 336, 
+        "string": "The blue cube is near the center of the top-left portion of the plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "below"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "square"
+            }
+        ], 
+        "id": 411, 
+        "string": "there is a blue square below the small green square"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "like"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "last"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "cracker"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "thicker"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "now"
+            }, 
+            {
+                "word": "sitting"
+            }, 
+            {
+                "word": "at"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "midpoint"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "shorter"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 506, 
+        "string": "a blue box like the last green cracker, but thicker, is now sitting at the midpoint between the shorter green box and the purple cylinder."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "You"
+            }, 
+            {
+                "word": "can"
+            }, 
+            {
+                "word": "still"
+            }, 
+            {
+                "word": "see"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 507, 
+        "string": "You can still see the green box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }
+        ], 
+        "id": 569, 
+        "string": "The blue box is in between the small green box and the purple cylinder"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "taller"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "3D"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "it"
+            }, 
+            {
+                "word": "'s"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "smaller"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "light"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 600, 
+        "string": "A taller blue 3D square on it's side is between the smaller green square and the light purple object."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "first"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 657, 
+        "string": "There is a blue rectangle cube added in between the pink and first green object."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "thin"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "3d"
+            }
+        ], 
+        "id": 779, 
+        "string": "blue thin square 3d"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "can"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "area"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 878, 
+        "string": "A magenta can is on the left side of the gray area."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "pie"
+            }, 
+            {
+                "word": "'s"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "can"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "stands"
+            }, 
+            {
+                "word": "sidewase"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 879, 
+        "string": "A blue pie's box is behind the magenta can, stands sidewase."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "cookie"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "pie"
+            }, 
+            {
+                "word": "'s"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 880, 
+        "string": "A green cookie box is right behind the blue pie's box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "cereal"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "next"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "cookie"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 881, 
+        "string": "and a green cereal box is right next to the cookie box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Right"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "cylidner"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prisim"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 999, 
+        "string": "Right between the pink cylidner and the green rectangular prisim is a blue cube."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "smaller-green"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1036, 
+        "string": "The blue object is placed in between the smaller-green object and the purple object."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "it"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "roughly"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "same"
+            }, 
+            {
+                "word": "size"
+            }, 
+            {
+                "word": "as"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "larger"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "object"
+            }
+        ], 
+        "id": 1037, 
+        "string": "it is roughly the same size as the larger green object"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "one"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "ones"
+            }
+        ], 
+        "id": 1133, 
+        "string": "The blue brick is in front of one of the green ones"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "large"
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "skinny"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "inbetween"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "smaller"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "blocks"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1190, 
+        "string": "A large but skinny blue box sits inbetween the magenta cylinder and smaller green blocks."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "smaller"
+            }, 
+            {
+                "word": "brown"
+            }, 
+            {
+                "word": "block"
+            }
+        ], 
+        "id": 1247, 
+        "string": "there is a blue square in between the purple cylinder and the smaller brown block"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "first"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1299, 
+        "string": "A tall blue rectangular prism was placed in front of the first green rectangular prism."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "smaller"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }
+        ], 
+        "id": 1339, 
+        "string": "the box is blue, and sits between the cylinder and the smaller green box"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "large"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "fron"
+            }, 
+            {
+                "word": "tof"
+            }, 
+            {
+                "word": "smaller"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "block"
+            }
+        ], 
+        "id": 1421, 
+        "string": "large blue block placed in fron tof smaller green block"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "thicker"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "now"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "its"
+            }, 
+            {
+                "word": "edge"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "smaller"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }
+        ], 
+        "id": 1448, 
+        "string": "A thicker blue rectangular prism is now placed on its edge between the pink cylinder and the smaller green rectangular prism"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "thicker"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "large"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "about"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "same"
+            }, 
+            {
+                "word": "height"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1514, 
+        "string": "The object is a blue rectangle, thicker than the large green rectangle, but about the same height."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1515, 
+        "string": "The blue rectangle is located in between the small green rectangle and the purple cylinder."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "wider"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "smaller"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1535, 
+        "string": "The tall, wider, blue box is between the smaller, green box and the purple cylinder."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "south"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "ones"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "north"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1592, 
+        "string": "a blue block south of the green ones, but north of the cylinder."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "next"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "original"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "shape"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1638, 
+        "string": "There is a blue cube next to the original green shape."
+    }
 ]

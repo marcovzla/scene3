@@ -1,1160 +1,1226 @@
 [
-{
-"string": "A tiny pink cylinder is near the left edge of the table ",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "tiny"
-},
-{
-"word": "pink"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "edge"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "table"
-}
-]
-},
-{
-"string": "The purple on the left",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "purple"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-}
-]
-},
-{
-"string": "Purple cylinder in the middle right of slanted grey square.",
-"word_list":
-[
-{
-"word": "Purple"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "middle"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "slanted"
-},
-{
-"word": "grey"
-},
-{
-"word": "square"
-}
-]
-},
-{
-"string": "pink cylinder added towards the left side of the surface",
-"word_list":
-[
-{
-"word": "pink"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "added"
-},
-{
-"word": "towards"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "Small pink cylinder sitting to the left of center closer to the edge.",
-"word_list":
-[
-{
-"word": "Small"
-},
-{
-"word": "pink"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "sitting"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "center"
-},
-{
-"word": "closer"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "edge"
-}
-]
-},
-{
-"string": "The purple cylinder is in the center of the left side of the plane.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "there is a purple cylinder to the left of the original grey shape",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "original"
-},
-{
-"word": "grey"
-},
-{
-"word": "shape"
-}
-]
-},
-{
-"string": "a magenta cylinder, taller than it is fat is towards the west side of the grey object",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "magenta"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "taller"
-},
-{
-"word": "than"
-},
-{
-"word": "it"
-},
-{
-"word": "is"
-},
-{
-"word": "fat"
-},
-{
-"word": "is"
-},
-{
-"word": "towards"
-},
-{
-"word": "the"
-},
-{
-"word": "west"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "the pink cylinder is on the left side of the plane",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "pink"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "A small light purple 3D octagon is placed at the left middle if the grey surface.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "small"
-},
-{
-"word": "light"
-},
-{
-"word": "purple"
-},
-{
-"word": "3D"
-},
-{
-"word": "octagon"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "at"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "middle"
-},
-{
-"word": "if"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "There is a pink cylinder in the middle left part of the gray area. ",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "pink"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "middle"
-},
-{
-"word": "left"
-},
-{
-"word": "part"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "area"
-}
-]
-},
-{
-"string": "purple cylinder tube",
-"word_list":
-[
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "tube"
-}
-]
-},
-{
-"string": "A magenta can is on the left side of the gray area.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "magenta"
-},
-{
-"word": "can"
-},
-{
-"word": "is"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "area"
-}
-]
-},
-{
-"string": "Near the front right side of the plane is a pink cylidner.",
-"word_list":
-[
-{
-"word": "Near"
-},
-{
-"word": "the"
-},
-{
-"word": "front"
-},
-{
-"word": "right"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "pink"
-},
-{
-"word": "cylidner"
-}
-]
-},
-{
-"string": "This cylindrical purple object is very small as well but it appears to be not placed right on the plane, only by mere degrees. it is near the center but off to the left a bit.",
-"word_list":
-[
-{
-"word": "This"
-},
-{
-"word": "cylindrical"
-},
-{
-"word": "purple"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "very"
-},
-{
-"word": "small"
-},
-{
-"word": "as"
-},
-{
-"word": "well"
-},
-{
-"word": "but"
-},
-{
-"word": "it"
-},
-{
-"word": "appears"
-},
-{
-"word": "to"
-},
-{
-"word": "be"
-},
-{
-"word": "not"
-},
-{
-"word": "placed"
-},
-{
-"word": "right"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-},
-{
-"word": "only"
-},
-{
-"word": "by"
-},
-{
-"word": "mere"
-},
-{
-"word": "degrees"
-},
-{
-"word": "it"
-},
-{
-"word": "is"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "but"
-},
-{
-"word": "off"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "a"
-},
-{
-"word": "bit"
-}
-]
-},
-{
-"string": "Magenta cylinder on gray surface",
-"word_list":
-[
-{
-"word": "Magenta"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "on"
-},
-{
-"word": "gray"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "A magenta cylinder sits on the left side of a deformed surface.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "magenta"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "sits"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "a"
-},
-{
-"word": "deformed"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "th epurple cylinder is in the plane",
-"word_list":
-[
-{
-"word": "th"
-},
-{
-"word": "epurple"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "A pink cylinder was placed near the center of the western hemisphere.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "pink"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "was"
-},
-{
-"word": "placed"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "western"
-},
-{
-"word": "hemisphere"
-}
-]
-},
-{
-"string": "the cylinder is magenta, and sits toward teh left of the plane, in the middle",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "magenta"
-},
-{
-"word": "and"
-},
-{
-"word": "sits"
-},
-{
-"word": "toward"
-},
-{
-"word": "teh"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "middle"
-}
-]
-},
-{
-"string": "pink cylinder tilting on left middle side of table",
-"word_list":
-[
-{
-"word": "pink"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "tilting"
-},
-{
-"word": "on"
-},
-{
-"word": "left"
-},
-{
-"word": "middle"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "table"
-}
-]
-},
-{
-"string": "There is a pink cylinder located on the top face of a grey rectangular prism and located to the left of center of the rectangle's face",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "pink"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "located"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "face"
-},
-{
-"word": "of"
-},
-{
-"word": "a"
-},
-{
-"word": "grey"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "and"
-},
-{
-"word": "located"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "rectangle's"
-},
-{
-"word": "face"
-}
-]
-},
-{
-"string": "The object is a small purple cylinder, close to the far left edge of the grey plane",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "small"
-},
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "close"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "far"
-},
-{
-"word": "left"
-},
-{
-"word": "edge"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "The purple cylinder is to the far left side of the plane in the vertical center.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "far"
-},
-{
-"word": "left"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "vertical"
-},
-{
-"word": "center"
-}
-]
-},
-{
-"string": "a small cylinder on the west half, slightly south of the midline",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "small"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "west"
-},
-{
-"word": "half"
-},
-{
-"word": "slightly"
-},
-{
-"word": "south"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "midline"
-}
-]
-},
-{
-"string": "There is a purple cylinder.",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-}
-]
-}
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "tiny"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "edge"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "table"
+            }
+        ], 
+        "id": 30, 
+        "string": "A tiny pink cylinder is near the left edge of the table"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }
+        ], 
+        "id": 57, 
+        "string": "The purple on the left"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "middle"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "slanted"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 121, 
+        "string": "Purple cylinder in the middle right of slanted grey square."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "towards"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "surface"
+            }
+        ], 
+        "id": 183, 
+        "string": "pink cylinder added towards the left side of the surface"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Small"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "sitting"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "closer"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "edge"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 250, 
+        "string": "Small pink cylinder sitting to the left of center closer to the edge."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 327, 
+        "string": "The purple cylinder is in the center of the left side of the plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "original"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "shape"
+            }
+        ], 
+        "id": 398, 
+        "string": "there is a purple cylinder to the left of the original grey shape"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "taller"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "it"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "fat"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "towards"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "west"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "object"
+            }
+        ], 
+        "id": 491, 
+        "string": "a magenta cylinder, taller than it is fat is towards the west side of the grey object"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }
+        ], 
+        "id": 547, 
+        "string": "the pink cylinder is on the left side of the plane"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "light"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "3D"
+            }, 
+            {
+                "word": "octagon"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "at"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "middle"
+            }, 
+            {
+                "word": "if"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "surface"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 596, 
+        "string": "A small light purple 3D octagon is placed at the left middle if the grey surface."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "middle"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "part"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "area"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 653, 
+        "string": "There is a pink cylinder in the middle left part of the gray area."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "tube"
+            }
+        ], 
+        "id": 775, 
+        "string": "purple cylinder tube"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "can"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "area"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 867, 
+        "string": "A magenta can is on the left side of the gray area."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "cylidner"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 995, 
+        "string": "Near the front right side of the plane is a pink cylidner."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "This"
+            }, 
+            {
+                "word": "cylindrical"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "very"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "as"
+            }, 
+            {
+                "word": "well"
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "it"
+            }, 
+            {
+                "word": "appears"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "be"
+            }, 
+            {
+                "word": "not"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "only"
+            }, 
+            {
+                "word": "by"
+            }, 
+            {
+                "word": "mere"
+            }, 
+            {
+                "word": "degrees"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1030, 
+        "string": "This cylindrical purple object is very small as well but it appears to be not placed right on the plane, only by mere degrees."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "it"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "off"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "bit"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1031, 
+        "string": "it is near the center but off to the left a bit."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Magenta"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "surface"
+            }
+        ], 
+        "id": 1129, 
+        "string": "Magenta cylinder on gray surface"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "deformed"
+            }, 
+            {
+                "word": "surface"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1186, 
+        "string": "A magenta cylinder sits on the left side of a deformed surface."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "th"
+            }, 
+            {
+                "word": "epurple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }
+        ], 
+        "id": 1243, 
+        "string": "th epurple cylinder is in the plane"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "western"
+            }, 
+            {
+                "word": "hemisphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1295, 
+        "string": "A pink cylinder was placed near the center of the western hemisphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "toward"
+            }, 
+            {
+                "word": "teh"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "middle"
+            }
+        ], 
+        "id": 1335, 
+        "string": "the cylinder is magenta, and sits toward teh left of the plane, in the middle"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "tilting"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "middle"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "table"
+            }
+        ], 
+        "id": 1417, 
+        "string": "pink cylinder tilting on left middle side of table"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top"
+            }, 
+            {
+                "word": "face"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "'s"
+            }, 
+            {
+                "word": "face"
+            }
+        ], 
+        "id": 1443, 
+        "string": "There is a pink cylinder located on the top face of a grey rectangular prism and located to the left of center of the rectangle's face"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "close"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "far"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "edge"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "plane"
+            }
+        ], 
+        "id": 1505, 
+        "string": "The object is a small purple cylinder, close to the far left edge of the grey plane"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "far"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "vertical"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1529, 
+        "string": "The purple cylinder is to the far left side of the plane in the vertical center."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "west"
+            }, 
+            {
+                "word": "half"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "slightly"
+            }, 
+            {
+                "word": "south"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "midline"
+            }
+        ], 
+        "id": 1588, 
+        "string": "a small cylinder on the west half, slightly south of the midline"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1634, 
+        "string": "There is a purple cylinder."
+    }
 ]

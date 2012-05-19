@@ -1,1151 +1,1235 @@
 [
-{
-"string": "the red on the right hand",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "hand"
-}
-]
-},
-{
-"string": "shorter, wider red box added to the right of the tall purple box.",
-"word_list":
-[
-{
-"word": "shorter"
-},
-{
-"word": "wider"
-},
-{
-"word": "red"
-},
-{
-"word": "box"
-},
-{
-"word": "added"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "tall"
-},
-{
-"word": "purple"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "rectangular prism added to the right of previous object",
-"word_list":
-[
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "added"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "previous"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "Red rectangular cube closer to the center and to the right of the previous object",
-"word_list":
-[
-{
-"word": "Red"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "cube"
-},
-{
-"word": "closer"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "and"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "previous"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "the red rectangular prism was added to the right of the purple rectangular prism. the red rectangular prism on the left-center of the right side of the plane.",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "was"
-},
-{
-"word": "added"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "there is a red box in the center of the grey shape",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "box"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "shape"
-}
-]
-},
-{
-"string": "a red, brick-like box sits to the east of the magenta box. The box is sitting as a brick normally would and has its smallest face toward the viewer.",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "brick"
-},
-{
-"word": "like"
-},
-{
-"word": "box"
-},
-{
-"word": "sits"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "east"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "magenta"
-},
-{
-"word": "box"
-},
-{
-"word": "The"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "sitting"
-},
-{
-"word": "as"
-},
-{
-"word": "a"
-},
-{
-"word": "brick"
-},
-{
-"word": "normally"
-},
-{
-"word": "would"
-},
-{
-"word": "and"
-},
-{
-"word": "has"
-},
-{
-"word": "its"
-},
-{
-"word": "smallest"
-},
-{
-"word": "face"
-},
-{
-"word": "toward"
-},
-{
-"word": "the"
-},
-{
-"word": "viewer"
-}
-]
-},
-{
-"string": "A red cuboid box is to the right of the purple one.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "red"
-},
-{
-"word": "cuboid"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "one"
-}
-]
-},
-{
-"string": "A red cube is to the right of the pink object. ",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "red"
-},
-{
-"word": "cube"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "pink"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "The red box is to the right of the vertical purple box",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "red"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "vertical"
-},
-{
-"word": "purple"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "red rectangular brick",
-"word_list":
-[
-{
-"word": "red"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "brick"
-}
-]
-},
-{
-"string": "A magenta prism and a red tissue box shares the center.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "magenta"
-},
-{
-"word": "prism"
-},
-{
-"word": "and"
-},
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "tissue"
-},
-{
-"word": "box"
-},
-{
-"word": "shares"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-}
-]
-},
-{
-"string": "The red rectangular prisim is to the right of the tower.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "red"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prisim"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "tower"
-}
-]
-},
-{
-"string": "This red box is synonymous with the red book from earlier, but it is larger and placed to the right of the purple object.",
-"word_list":
-[
-{
-"word": "This"
-},
-{
-"word": "red"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "synonymous"
-},
-{
-"word": "with"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "book"
-},
-{
-"word": "from"
-},
-{
-"word": "earlier"
-},
-{
-"word": "but"
-},
-{
-"word": "it"
-},
-{
-"word": "is"
-},
-{
-"word": "larger"
-},
-{
-"word": "and"
-},
-{
-"word": "placed"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "There is a red brick to the right of the purple brick.",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "brick"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "brick"
-}
-]
-},
-{
-"string": "A flat rectangular box sits to the right of the tall pink cube.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "flat"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "box"
-},
-{
-"word": "sits"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "tall"
-},
-{
-"word": "pink"
-},
-{
-"word": "cube"
-}
-]
-},
-{
-"string": "there is a brown rectangle to the right of teh purple rectangle",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "brown"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "teh"
-},
-{
-"word": "purple"
-},
-{
-"word": "rectangle"
-}
-]
-},
-{
-"string": "A red rectangular prism was placed east of the tall thin pink rectangular prism.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "red"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "was"
-},
-{
-"word": "placed"
-},
-{
-"word": "east"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "tall"
-},
-{
-"word": "thin"
-},
-{
-"word": "pink"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-}
-]
-},
-{
-"string": "the brick is red, and sits to the right of the other block, to the right",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "brick"
-},
-{
-"word": "is"
-},
-{
-"word": "red"
-},
-{
-"word": "and"
-},
-{
-"word": "sits"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "block"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-}
-]
-},
-{
-"string": "red rectangular block layed on table to the right of other block",
-"word_list":
-[
-{
-"word": "red"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "block"
-},
-{
-"word": "layed"
-},
-{
-"word": "on"
-},
-{
-"word": "table"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "other"
-},
-{
-"word": "block"
-}
-]
-},
-{
-"string": "The red, long box is to the right of the tall, purple box.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "red"
-},
-{
-"word": "long"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "tall"
-},
-{
-"word": "purple"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "The object is a red rectangle, much wider than the column, and is located slightly to the right of the center of the grey plane",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "much"
-},
-{
-"word": "wider"
-},
-{
-"word": "than"
-},
-{
-"word": "the"
-},
-{
-"word": "column"
-},
-{
-"word": "and"
-},
-{
-"word": "is"
-},
-{
-"word": "located"
-},
-{
-"word": "slightly"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "a red brick east of the purple tower",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "brick"
-},
-{
-"word": "east"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "tower"
-}
-]
-},
-{
-"string": "There is now a red rectangle cube  on the 5 o' clock",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "now"
-},
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "cube"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "5"
-},
-{
-"word": "o'"
-},
-{
-"word": "clock"
-}
-]
-}
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "hand"
+            }
+        ], 
+        "id": 84, 
+        "string": "the red on the right hand"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "shorter"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "wider"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 153, 
+        "string": "shorter, wider red box added to the right of the tall purple box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "previous"
+            }, 
+            {
+                "word": "object"
+            }
+        ], 
+        "id": 210, 
+        "string": "rectangular prism added to the right of previous object"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Red"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "closer"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "previous"
+            }, 
+            {
+                "word": "object"
+            }
+        ], 
+        "id": 277, 
+        "string": "Red rectangular cube closer to the center and to the right of the previous object"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 396, 
+        "string": "the red rectangular prism was added to the right of the purple rectangular prism."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left-center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 397, 
+        "string": "the red rectangular prism on the left-center of the right side of the plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "shape"
+            }
+        ], 
+        "id": 445, 
+        "string": "there is a red box in the center of the grey shape"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "brick-like"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "east"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 555, 
+        "string": "a red, brick-like box sits to the east of the magenta box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "sitting"
+            }, 
+            {
+                "word": "as"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": "normally"
+            }, 
+            {
+                "word": "would"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "has"
+            }, 
+            {
+                "word": "its"
+            }, 
+            {
+                "word": "smallest"
+            }, 
+            {
+                "word": "face"
+            }, 
+            {
+                "word": "toward"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "viewer"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 556, 
+        "string": "The box is sitting as a brick normally would and has its smallest face toward the viewer."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cuboid"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "one"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 623, 
+        "string": "A red cuboid box is to the right of the purple one."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 682, 
+        "string": "A red cube is to the right of the pink object."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "vertical"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "box"
+            }
+        ], 
+        "id": 710, 
+        "string": "The red box is to the right of the vertical purple box"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "brick"
+            }
+        ], 
+        "id": 802, 
+        "string": "red rectangular brick"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "tissue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "shares"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 941, 
+        "string": "A magenta prism and a red tissue box shares the center."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prisim"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "tower"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 975, 
+        "string": "The red rectangular prisim is to the right of the tower."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "This"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "synonymous"
+            }, 
+            {
+                "word": "with"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "``"
+            }, 
+            {
+                "word": "book"
+            }, 
+            {
+                "word": "''"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "earlier"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "it"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "larger"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1040, 
+        "string": "This red box is synonymous with the red \"book\" from earlier, but it is larger and placed to the right of the purple object."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1138, 
+        "string": "There is a red brick to the right of the purple brick."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "flat"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1194, 
+        "string": "A flat rectangular box sits to the right of the tall pink cube."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "brown"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "teh"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "rectangle"
+            }
+        ], 
+        "id": 1278, 
+        "string": "there is a brown rectangle to the right of teh purple rectangle"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "east"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "thin"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1301, 
+        "string": "A red rectangular prism was placed east of the tall thin pink rectangular prism."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }
+        ], 
+        "id": 1382, 
+        "string": "the brick is red, and sits to the right of the other block, to the right"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "layed"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "table"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "block"
+            }
+        ], 
+        "id": 1390, 
+        "string": "red rectangular block layed on table to the right of other block"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "long"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1501, 
+        "string": "The red, long box is to the right of the tall, purple box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "much"
+            }, 
+            {
+                "word": "wider"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "column"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "slightly"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "plane"
+            }
+        ], 
+        "id": 1522, 
+        "string": "The object is a red rectangle, much wider than the column, and is located slightly to the right of the center of the grey plane"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": "east"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "tower"
+            }
+        ], 
+        "id": 1622, 
+        "string": "a red brick east of the purple tower"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "now"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "5"
+            }, 
+            {
+                "word": "o"
+            }, 
+            {
+                "word": "'"
+            }, 
+            {
+                "word": "clock"
+            }
+        ], 
+        "id": 1653, 
+        "string": "There is now a red rectangle cube  on the 5 o' clock"
+    }
 ]

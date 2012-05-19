@@ -1,992 +1,1067 @@
 [
-{
-"string": "The purple close to middle",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "purple"
-},
-{
-"word": "close"
-},
-{
-"word": "to"
-},
-{
-"word": "middle"
-}
-]
-},
-{
-"string": "tall purple box in the middle right of the slanted grey square.",
-"word_list":
-[
-{
-"word": "tall"
-},
-{
-"word": "purple"
-},
-{
-"word": "box"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "middle"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "slanted"
-},
-{
-"word": "grey"
-},
-{
-"word": "square"
-}
-]
-},
-{
-"string": "elongated upright rectangular prism",
-"word_list":
-[
-{
-"word": "elongated"
-},
-{
-"word": "upright"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-}
-]
-},
-{
-"string": "Very tall pink cube",
-"word_list":
-[
-{
-"word": "Very"
-},
-{
-"word": "tall"
-},
-{
-"word": "pink"
-},
-{
-"word": "cube"
-}
-]
-},
-{
-"string": "the purple rectangular prism is standing up near the center of the right side of the plane.",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "is"
-},
-{
-"word": "standing"
-},
-{
-"word": "up"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "there is a purple rectangle to the left of center of the grey shape",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "purple"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "shape"
-}
-]
-},
-{
-"string": "a tall magenta box, a bit wider than it is long, but about 4 times as long as it is tall is toward the northwest of the grey shape.",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "tall"
-},
-{
-"word": "magenta"
-},
-{
-"word": "box"
-},
-{
-"word": "a"
-},
-{
-"word": "bit"
-},
-{
-"word": "wider"
-},
-{
-"word": "than"
-},
-{
-"word": "it"
-},
-{
-"word": "is"
-},
-{
-"word": "long"
-},
-{
-"word": "but"
-},
-{
-"word": "about"
-},
-{
-"word": "4"
-},
-{
-"word": "times"
-},
-{
-"word": "as"
-},
-{
-"word": "long"
-},
-{
-"word": "as"
-},
-{
-"word": "it"
-},
-{
-"word": "is"
-},
-{
-"word": "tall"
-},
-{
-"word": "is"
-},
-{
-"word": "toward"
-},
-{
-"word": "the"
-},
-{
-"word": "northwest"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "shape"
-}
-]
-},
-{
-"string": "A purple cuboid box standing on end is toward the middle left of the grey surface.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "purple"
-},
-{
-"word": "cuboid"
-},
-{
-"word": "box"
-},
-{
-"word": "standing"
-},
-{
-"word": "on"
-},
-{
-"word": "end"
-},
-{
-"word": "is"
-},
-{
-"word": "toward"
-},
-{
-"word": "the"
-},
-{
-"word": "middle"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "A skinny tall pink cube is in the left middle area of the gray area. ",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "skinny"
-},
-{
-"word": "tall"
-},
-{
-"word": "pink"
-},
-{
-"word": "cube"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "middle"
-},
-{
-"word": "area"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "area"
-}
-]
-},
-{
-"string": "THe purple vertical box is in the plane",
-"word_list":
-[
-{
-"word": "THe"
-},
-{
-"word": "purple"
-},
-{
-"word": "vertical"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "tall purple 3d rectangle",
-"word_list":
-[
-{
-"word": "tall"
-},
-{
-"word": "purple"
-},
-{
-"word": "3d"
-},
-{
-"word": "rectangle"
-}
-]
-},
-{
-"string": "A magenta prism stands left to the center",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "magenta"
-},
-{
-"word": "prism"
-},
-{
-"word": "stands"
-},
-{
-"word": "left"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-}
-]
-},
-{
-"string": "The pink tower is in the middle of the plane.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "pink"
-},
-{
-"word": "tower"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "middle"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "The purple object appears very slender because its height is much larger than its width. It is very close to the center of the four corners.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "purple"
-},
-{
-"word": "object"
-},
-{
-"word": "appears"
-},
-{
-"word": "very"
-},
-{
-"word": "slender"
-},
-{
-"word": "because"
-},
-{
-"word": "its"
-},
-{
-"word": "height"
-},
-{
-"word": "is"
-},
-{
-"word": "much"
-},
-{
-"word": "larger"
-},
-{
-"word": "than"
-},
-{
-"word": "its"
-},
-{
-"word": "width"
-},
-{
-"word": "It"
-},
-{
-"word": "is"
-},
-{
-"word": "very"
-},
-{
-"word": "close"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "four"
-},
-{
-"word": "corners"
-}
-]
-},
-{
-"string": "There is a purple object on the gray surface",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "purple"
-},
-{
-"word": "object"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "A tall magenta cube sits on a gray surface.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "tall"
-},
-{
-"word": "magenta"
-},
-{
-"word": "cube"
-},
-{
-"word": "sits"
-},
-{
-"word": "on"
-},
-{
-"word": "a"
-},
-{
-"word": "gray"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "there is a tall purple rectangle",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "tall"
-},
-{
-"word": "purple"
-},
-{
-"word": "rectangle"
-}
-]
-},
-{
-"string": "A tall thin pink rectangular prism was placed just west of the center of the plane.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "tall"
-},
-{
-"word": "thin"
-},
-{
-"word": "pink"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "was"
-},
-{
-"word": "placed"
-},
-{
-"word": "just"
-},
-{
-"word": "west"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "the tower is tall, narrow, and magenta. It stis to the left of center in the plane",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "tower"
-},
-{
-"word": "is"
-},
-{
-"word": "tall"
-},
-{
-"word": "narrow"
-},
-{
-"word": "and"
-},
-{
-"word": "magenta"
-},
-{
-"word": "It"
-},
-{
-"word": "stis"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "center"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "rectangular block placed on tabletop",
-"word_list":
-[
-{
-"word": "rectangular"
-},
-{
-"word": "block"
-},
-{
-"word": "placed"
-},
-{
-"word": "on"
-},
-{
-"word": "tabletop"
-}
-]
-},
-{
-"string": "The tall, skinny purple box is to the left of the plane's center.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "tall"
-},
-{
-"word": "skinny"
-},
-{
-"word": "purple"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane's"
-},
-{
-"word": "center"
-}
-]
-},
-{
-"string": "The object is a thin, tall purple column, located slightly to the left of the center of the grey plane",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "thin"
-},
-{
-"word": "tall"
-},
-{
-"word": "purple"
-},
-{
-"word": "column"
-},
-{
-"word": "located"
-},
-{
-"word": "slightly"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "a tall skinny purple tower in the third quadrant",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "tall"
-},
-{
-"word": "skinny"
-},
-{
-"word": "purple"
-},
-{
-"word": "tower"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "third"
-},
-{
-"word": "quadrant"
-}
-]
-},
-{
-"string": "There is a long purple cylinder.",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "long"
-},
-{
-"word": "purple"
-},
-{
-"word": "cylinder"
-}
-]
-}
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "close"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "middle"
+            }
+        ], 
+        "id": 83, 
+        "string": "The purple close to middle"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "middle"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "slanted"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 152, 
+        "string": "tall purple box in the middle right of the slanted grey square."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "elongated"
+            }, 
+            {
+                "word": "upright"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }
+        ], 
+        "id": 209, 
+        "string": "elongated upright rectangular prism"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Very"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "cube"
+            }
+        ], 
+        "id": 276, 
+        "string": "Very tall pink cube"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "standing"
+            }, 
+            {
+                "word": "up"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 393, 
+        "string": "the purple rectangular prism is standing up near the center of the right side of the plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "shape"
+            }
+        ], 
+        "id": 444, 
+        "string": "there is a purple rectangle to the left of center of the grey shape"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "bit"
+            }, 
+            {
+                "word": "wider"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "it"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "long"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "about"
+            }, 
+            {
+                "word": "4"
+            }, 
+            {
+                "word": "times"
+            }, 
+            {
+                "word": "as"
+            }, 
+            {
+                "word": "long"
+            }, 
+            {
+                "word": "as"
+            }, 
+            {
+                "word": "it"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "toward"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "northwest"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "shape"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 554, 
+        "string": "a tall magenta box, a bit wider than it is long, but about 4 times as long as it is tall is toward the northwest of the grey shape."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cuboid"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "standing"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "end"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "toward"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "middle"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "surface"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 622, 
+        "string": "A purple cuboid box standing on end is toward the middle left of the grey surface."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "skinny"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "middle"
+            }, 
+            {
+                "word": "area"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "area"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 681, 
+        "string": "A skinny tall pink cube is in the left middle area of the gray area."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "THe"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "vertical"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }
+        ], 
+        "id": 709, 
+        "string": "THe purple vertical box is in the plane"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "3d"
+            }, 
+            {
+                "word": "rectangle"
+            }
+        ], 
+        "id": 801, 
+        "string": "tall purple 3d rectangle"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "stands"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }
+        ], 
+        "id": 940, 
+        "string": "A magenta prism stands left to the center"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "tower"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "middle"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 974, 
+        "string": "The pink tower is in the middle of the plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "appears"
+            }, 
+            {
+                "word": "very"
+            }, 
+            {
+                "word": "slender"
+            }, 
+            {
+                "word": "because"
+            }, 
+            {
+                "word": "its"
+            }, 
+            {
+                "word": "height"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "much"
+            }, 
+            {
+                "word": "larger"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "its"
+            }, 
+            {
+                "word": "width"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1038, 
+        "string": "The purple object appears very slender because its height is much larger than its width."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "It"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "very"
+            }, 
+            {
+                "word": "close"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "four"
+            }, 
+            {
+                "word": "corners"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1039, 
+        "string": "It is very close to the center of the four corners."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "surface"
+            }
+        ], 
+        "id": 1137, 
+        "string": "There is a purple object on the gray surface"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "surface"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1193, 
+        "string": "A tall magenta cube sits on a gray surface."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "rectangle"
+            }
+        ], 
+        "id": 1277, 
+        "string": "there is a tall purple rectangle"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "thin"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "just"
+            }, 
+            {
+                "word": "west"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1300, 
+        "string": "A tall thin pink rectangular prism was placed just west of the center of the plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "tower"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "narrow"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1380, 
+        "string": "the tower is tall, narrow, and magenta."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "It"
+            }, 
+            {
+                "word": "stis"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }
+        ], 
+        "id": 1381, 
+        "string": "It stis to the left of center in the plane"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "tabletop"
+            }
+        ], 
+        "id": 1389, 
+        "string": "rectangular block placed on tabletop"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "skinny"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "'s"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1500, 
+        "string": "The tall, skinny purple box is to the left of the plane's center."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "thin"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "column"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "slightly"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "plane"
+            }
+        ], 
+        "id": 1516, 
+        "string": "The object is a thin, tall purple column, located slightly to the left of the center of the grey plane"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "skinny"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "tower"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "third"
+            }, 
+            {
+                "word": "quadrant"
+            }
+        ], 
+        "id": 1621, 
+        "string": "a tall skinny purple tower in the third quadrant"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "long"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1652, 
+        "string": "There is a long purple cylinder."
+    }
 ]

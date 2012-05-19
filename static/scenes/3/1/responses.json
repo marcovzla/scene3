@@ -1,1322 +1,1448 @@
 [
-{
-"string": "The yellow cylinder is to the left of the blue sphere.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "a small gold cylinder is near the back left corner of the table.",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "small"
-},
-{
-"word": "gold"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "left"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "table"
-}
-]
-},
-{
-"string": "The yellow object.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "Yellow cylinder located in upper right of slanted grey square.",
-"word_list":
-[
-{
-"word": "Yellow"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "located"
-},
-{
-"word": "in"
-},
-{
-"word": "upper"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "slanted"
-},
-{
-"word": "grey"
-},
-{
-"word": "square"
-}
-]
-},
-{
-"string": "yellow cylinder added to the left and slightly farther than the sphere",
-"word_list":
-[
-{
-"word": "yellow"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "added"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "and"
-},
-{
-"word": "slightly"
-},
-{
-"word": "farther"
-},
-{
-"word": "than"
-},
-{
-"word": "the"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "The cylindrical structure is behind the blue object and is standing upright.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "cylindrical"
-},
-{
-"word": "structure"
-},
-{
-"word": "is"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "object"
-},
-{
-"word": "and"
-},
-{
-"word": "is"
-},
-{
-"word": "standing"
-},
-{
-"word": "upright"
-}
-]
-},
-{
-"string": "The yellow cylinder was added up and to the left of the blue sphere.  The yellow cylinder is near the top of the top-left portion of the plane.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "was"
-},
-{
-"word": "added"
-},
-{
-"word": "up"
-},
-{
-"word": "and"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-},
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "left"
-},
-{
-"word": "portion"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "there is a yellow cylinder located above and to the left of the blue ball.",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "yellow"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "located"
-},
-{
-"word": "above"
-},
-{
-"word": "and"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "ball"
-}
-]
-},
-{
-"string": "A yellow cylinder, stationed to the northwest of the blue sphere. I also now realize that I probably used directions wrong before. I am directionally retarded, forgive me.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "yellow"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "stationed"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "northwest"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-},
-{
-"word": "I"
-},
-{
-"word": "also"
-},
-{
-"word": "now"
-},
-{
-"word": "realize"
-},
-{
-"word": "that"
-},
-{
-"word": "I"
-},
-{
-"word": "probably"
-},
-{
-"word": "used"
-},
-{
-"word": "directions"
-},
-{
-"word": "wrong"
-},
-{
-"word": "before"
-},
-{
-"word": "I"
-},
-{
-"word": "am"
-},
-{
-"word": "directionally"
-},
-{
-"word": "retarded"
-},
-{
-"word": "forgive"
-},
-{
-"word": "me"
-}
-]
-},
-{
-"string": "The yellow cylinder is to the left of the blue sphere",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "A yellow 3D octagon is placed to the left and behind the blue object.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "yellow"
-},
-{
-"word": "3D"
-},
-{
-"word": "octagon"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "and"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "There is now a yellow object that is to the left and towards the upper left corner of the area. ",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "now"
-},
-{
-"word": "a"
-},
-{
-"word": "yellow"
-},
-{
-"word": "object"
-},
-{
-"word": "that"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "and"
-},
-{
-"word": "towards"
-},
-{
-"word": "the"
-},
-{
-"word": "upper"
-},
-{
-"word": "left"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "area"
-}
-]
-},
-{
-"string": "A yellow cylinder was placed west and very slightly north of the blue sphere.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "yellow"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "was"
-},
-{
-"word": "placed"
-},
-{
-"word": "west"
-},
-{
-"word": "and"
-},
-{
-"word": "very"
-},
-{
-"word": "slightly"
-},
-{
-"word": "north"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "They added a cylinder next to the blue sphere. The yellow sphere is near the top left side.",
-"word_list":
-[
-{
-"word": "They"
-},
-{
-"word": "added"
-},
-{
-"word": "a"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "next"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-},
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "sphere"
-},
-{
-"word": "is"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "left"
-},
-{
-"word": "side"
-}
-]
-},
-{
-"string": "yellow cylinderical object further from blue sphere",
-"word_list":
-[
-{
-"word": "yellow"
-},
-{
-"word": "cylinderical"
-},
-{
-"word": "object"
-},
-{
-"word": "further"
-},
-{
-"word": "from"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "A blue sphere is placed on the furthest edge of a huge, pentagon, gray mat. A short, olive-colored cylinder is placed left to the sphere, close of the furthest corner on the same mat. There is a light source from 4 o'clock direction.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "furthest"
-},
-{
-"word": "edge"
-},
-{
-"word": "of"
-},
-{
-"word": "a"
-},
-{
-"word": "huge"
-},
-{
-"word": "pentagon"
-},
-{
-"word": "gray"
-},
-{
-"word": "mat"
-},
-{
-"word": "A"
-},
-{
-"word": "short"
-},
-{
-"word": "olive"
-},
-{
-"word": "colored"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "left"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "sphere"
-},
-{
-"word": "close"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "furthest"
-},
-{
-"word": "corner"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "same"
-},
-{
-"word": "mat"
-},
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "light"
-},
-{
-"word": "source"
-},
-{
-"word": "from"
-},
-{
-"word": "4"
-},
-{
-"word": "o'clock"
-},
-{
-"word": "direction"
-}
-]
-},
-{
-"string": "In the back left side of the plane is a yellow cyilider.",
-"word_list":
-[
-{
-"word": "In"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "left"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "yellow"
-},
-{
-"word": "cyilider"
-}
-]
-},
-{
-"string": "This yellow octahedron is smaller than the ball and appears to be very back in the picture",
-"word_list":
-[
-{
-"word": "This"
-},
-{
-"word": "yellow"
-},
-{
-"word": "octahedron"
-},
-{
-"word": "is"
-},
-{
-"word": "smaller"
-},
-{
-"word": "than"
-},
-{
-"word": "the"
-},
-{
-"word": "ball"
-},
-{
-"word": "and"
-},
-{
-"word": "appears"
-},
-{
-"word": "to"
-},
-{
-"word": "be"
-},
-{
-"word": "very"
-},
-{
-"word": "back"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "picture"
-}
-]
-},
-{
-"string": "Yellow cylinder across from blue sphere",
-"word_list":
-[
-{
-"word": "Yellow"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "across"
-},
-{
-"word": "from"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "A yellow cylinder sits to the left of the blue sphere.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "yellow"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "sits"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "the orange cylinder is more distant and to the left of the blue ball",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "orange"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "more"
-},
-{
-"word": "distant"
-},
-{
-"word": "and"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "ball"
-}
-]
-},
-{
-"string": "the cylinder is yellow, and is located to the left of the blue ball.",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "yellow"
-},
-{
-"word": "and"
-},
-{
-"word": "is"
-},
-{
-"word": "located"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "ball"
-}
-]
-},
-{
-"string": "yellow cylinder placed to left and back of blue ball",
-"word_list":
-[
-{
-"word": "yellow"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "placed"
-},
-{
-"word": "to"
-},
-{
-"word": "left"
-},
-{
-"word": "and"
-},
-{
-"word": "back"
-},
-{
-"word": "of"
-},
-{
-"word": "blue"
-},
-{
-"word": "ball"
-}
-]
-},
-{
-"string": "The cylinder is to the left of and slightly behind the sphere.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "and"
-},
-{
-"word": "slightly"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "The object is a yellow cylinder, situated to the upper left-hand corner on the grey plane, with respects to the blue sphere",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "yellow"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "situated"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "upper"
-},
-{
-"word": "left"
-},
-{
-"word": "hand"
-},
-{
-"word": "corner"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "plane"
-},
-{
-"word": "with"
-},
-{
-"word": "respects"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "a yellow cylinder northwest of the original object.",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "yellow"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "northwest"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "original"
-},
-{
-"word": "object"
-}
-]
-}
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 7, 
+        "string": "The yellow cylinder is to the left of the blue sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "gold"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "table"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 16, 
+        "string": "a small gold cylinder is near the back left corner of the table."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 43, 
+        "string": "The yellow object."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Yellow"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "upper"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "slanted"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 107, 
+        "string": "Yellow cylinder located in upper right of slanted grey square."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "slightly"
+            }, 
+            {
+                "word": "farther"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 160, 
+        "string": "yellow cylinder added to the left and slightly farther than the sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "cylindrical"
+            }, 
+            {
+                "word": "structure"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "standing"
+            }, 
+            {
+                "word": "upright"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 233, 
+        "string": "The cylindrical structure is behind the blue object and is standing upright."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "up"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 297, 
+        "string": "The yellow cylinder was added up and to the left of the blue sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top-left"
+            }, 
+            {
+                "word": "portion"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 298, 
+        "string": "The yellow cylinder is near the top of the top-left portion of the plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "above"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 368, 
+        "string": "there is a yellow cylinder located above and to the left of the blue ball."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "stationed"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "northwest"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 466, 
+        "string": "A yellow cylinder, stationed to the northwest of the blue sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "I"
+            }, 
+            {
+                "word": "also"
+            }, 
+            {
+                "word": "now"
+            }, 
+            {
+                "word": "realize"
+            }, 
+            {
+                "word": "that"
+            }, 
+            {
+                "word": "I"
+            }, 
+            {
+                "word": "probably"
+            }, 
+            {
+                "word": "used"
+            }, 
+            {
+                "word": "directions"
+            }, 
+            {
+                "word": "wrong"
+            }, 
+            {
+                "word": "before"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 467, 
+        "string": "I also now realize that I probably used directions wrong before."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "I"
+            }, 
+            {
+                "word": "am"
+            }, 
+            {
+                "word": "directionally"
+            }, 
+            {
+                "word": "retarded"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "forgive"
+            }, 
+            {
+                "word": "me"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 468, 
+        "string": "I am directionally retarded, forgive me."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 497, 
+        "string": "The yellow cylinder is to the left of the blue sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "3D"
+            }, 
+            {
+                "word": "octagon"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 582, 
+        "string": "A yellow 3D octagon is placed to the left and behind the blue object."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "now"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "that"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "towards"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "upper"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "area"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 639, 
+        "string": "There is now a yellow object that is to the left and towards the upper left corner of the area."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "west"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "very"
+            }, 
+            {
+                "word": "slightly"
+            }, 
+            {
+                "word": "north"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 722, 
+        "string": "A yellow cylinder was placed west and very slightly north of the blue sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "They"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "next"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 733, 
+        "string": "They added a cylinder next to the blue sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 734, 
+        "string": "The yellow sphere is near the top left side."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cylinderical"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "further"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 761, 
+        "string": "yellow cylinderical object further from blue sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "furthest"
+            }, 
+            {
+                "word": "edge"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "huge"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "pentagon"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "mat"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 830, 
+        "string": "A blue sphere is placed on the furthest edge of a huge, pentagon, gray mat."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "short"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "olive-colored"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "close"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "furthest"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "same"
+            }, 
+            {
+                "word": "mat"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 831, 
+        "string": "A short, olive-colored cylinder is placed left to the sphere, close of the furthest corner on the same mat."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "light"
+            }, 
+            {
+                "word": "source"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "4"
+            }, 
+            {
+                "word": "o'clock"
+            }, 
+            {
+                "word": "direction"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 832, 
+        "string": "There is a light source from 4 o'clock direction."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "In"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cyilider"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1001, 
+        "string": "In the back left side of the plane is a yellow cyilider."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "This"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "octahedron"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "smaller"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "appears"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "be"
+            }, 
+            {
+                "word": "very"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "picture"
+            }
+        ], 
+        "id": 1044, 
+        "string": "This yellow octahedron is smaller than the ball and appears to be very back in the picture"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Yellow"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "across"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 1110, 
+        "string": "Yellow cylinder across from blue sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1200, 
+        "string": "A yellow cylinder sits to the left of the blue sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "orange"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "more"
+            }, 
+            {
+                "word": "distant"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "ball"
+            }
+        ], 
+        "id": 1235, 
+        "string": "the orange cylinder is more distant and to the left of the blue ball"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1320, 
+        "string": "the cylinder is yellow, and is located to the left of the blue ball."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "ball"
+            }
+        ], 
+        "id": 1398, 
+        "string": "yellow cylinder placed to left and back of blue ball"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "slightly"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1450, 
+        "string": "The cylinder is to the left of and slightly behind the sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "situated"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "upper"
+            }, 
+            {
+                "word": "left-hand"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "with"
+            }, 
+            {
+                "word": "respects"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 1486, 
+        "string": "The object is a yellow cylinder, situated to the upper left-hand corner on the grey plane, with respects to the blue sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "northwest"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "original"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1615, 
+        "string": "a yellow cylinder northwest of the original object."
+    }
 ]

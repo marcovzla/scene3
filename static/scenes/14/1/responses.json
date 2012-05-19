@@ -1,926 +1,986 @@
 [
-{
-"string": "The red higher",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "red"
-},
-{
-"word": "higher"
-}
-]
-},
-{
-"string": "tall red cylinder added behind the red box.",
-"word_list":
-[
-{
-"word": "tall"
-},
-{
-"word": "red"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "added"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "red cylinder added behind previous object",
-"word_list":
-[
-{
-"word": "red"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "added"
-},
-{
-"word": "behind"
-},
-{
-"word": "previous"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "very large re cylinder sitting behind red rectangular cube",
-"word_list":
-[
-{
-"word": "very"
-},
-{
-"word": "large"
-},
-{
-"word": "re"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "sitting"
-},
-{
-"word": "behind"
-},
-{
-"word": "red"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "cube"
-}
-]
-},
-{
-"string": "the red cylinder was added up from the red rectangular prism.  the red cylinder is almost touching the red rectangular prism.",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "was"
-},
-{
-"word": "added"
-},
-{
-"word": "up"
-},
-{
-"word": "from"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "almost"
-},
-{
-"word": "touching"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-}
-]
-},
-{
-"string": "there is a red cylinder above the red box",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "above"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "a red cylinder, diameter 3/4 as long as the red box, and as tall as the red box, sits just to the northeast of the box.",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "diameter"
-},
-{
-"word": "3"
-},
-{
-"word": "4"
-},
-{
-"word": "as"
-},
-{
-"word": "long"
-},
-{
-"word": "as"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "box"
-},
-{
-"word": "and"
-},
-{
-"word": "as"
-},
-{
-"word": "tall"
-},
-{
-"word": "as"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "box"
-},
-{
-"word": "sits"
-},
-{
-"word": "just"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "northeast"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "A red 3D octagon is behind the red",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "red"
-},
-{
-"word": "3D"
-},
-{
-"word": "octagon"
-},
-{
-"word": "is"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-}
-]
-},
-{
-"string": "A tall red octagon is above the red rectangle. ",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "tall"
-},
-{
-"word": "red"
-},
-{
-"word": "octagon"
-},
-{
-"word": "is"
-},
-{
-"word": "above"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "rectangle"
-}
-]
-},
-{
-"string": "The red cylinder is just behind the red box",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "red"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "just"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "red cylindrical tube",
-"word_list":
-[
-{
-"word": "red"
-},
-{
-"word": "cylindrical"
-},
-{
-"word": "tube"
-}
-]
-},
-{
-"string": "A red tissue box is left to the center and a red, octagon bucket is behind the tissue box.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "red"
-},
-{
-"word": "tissue"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "left"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "and"
-},
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "octagon"
-},
-{
-"word": "bucket"
-},
-{
-"word": "is"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "tissue"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "Directly behind the red rectangular prisim is a red cylinder.",
-"word_list":
-[
-{
-"word": "Directly"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prisim"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "cylinder"
-}
-]
-},
-{
-"string": "This red octahedron is much larger in height but similar in length to Brick, and is placed close but behind Brick.",
-"word_list":
-[
-{
-"word": "This"
-},
-{
-"word": "red"
-},
-{
-"word": "octahedron"
-},
-{
-"word": "is"
-},
-{
-"word": "much"
-},
-{
-"word": "larger"
-},
-{
-"word": "in"
-},
-{
-"word": "height"
-},
-{
-"word": "but"
-},
-{
-"word": "similar"
-},
-{
-"word": "in"
-},
-{
-"word": "length"
-},
-{
-"word": "to"
-},
-{
-"word": "Brick"
-},
-{
-"word": "and"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "close"
-},
-{
-"word": "but"
-},
-{
-"word": "behind"
-},
-{
-"word": "Brick"
-}
-]
-},
-{
-"string": "Red cylinder next to red brick",
-"word_list":
-[
-{
-"word": "Red"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "next"
-},
-{
-"word": "to"
-},
-{
-"word": "red"
-},
-{
-"word": "brick"
-}
-]
-},
-{
-"string": "A big red cylinder sits behind the flat red block.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "big"
-},
-{
-"word": "red"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "sits"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "flat"
-},
-{
-"word": "red"
-},
-{
-"word": "block"
-}
-]
-},
-{
-"string": "there is a brown cylinder behind the brown block",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "brown"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "brown"
-},
-{
-"word": "block"
-}
-]
-},
-{
-"string": "A large red octagonal prism was placed just north of the red rectangular prism.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "large"
-},
-{
-"word": "red"
-},
-{
-"word": "octagonal"
-},
-{
-"word": "prism"
-},
-{
-"word": "was"
-},
-{
-"word": "placed"
-},
-{
-"word": "just"
-},
-{
-"word": "north"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-}
-]
-},
-{
-"string": "the cylinder is red, and is located directly behind the brick",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "red"
-},
-{
-"word": "and"
-},
-{
-"word": "is"
-},
-{
-"word": "located"
-},
-{
-"word": "directly"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "brick"
-}
-]
-},
-{
-"string": "red cylinder placed behind red rectangle",
-"word_list":
-[
-{
-"word": "red"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "placed"
-},
-{
-"word": "behind"
-},
-{
-"word": "red"
-},
-{
-"word": "rectangle"
-}
-]
-},
-{
-"string": "The tall red cylinder is behind the red box.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "tall"
-},
-{
-"word": "red"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "is"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "The object is a large red cylinder, situated directly above the red rectangle ",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "large"
-},
-{
-"word": "red"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "situated"
-},
-{
-"word": "directly"
-},
-{
-"word": "above"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "rectangle"
-}
-]
-},
-{
-"string": "a square south of the cylinder",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "square"
-},
-{
-"word": "south"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "cylinder"
-}
-]
-},
-{
-"string": "There is now a red cylinder on the top side of the other red.",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "now"
-},
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "cylinder"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "red"
-}
-]
-}
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "higher"
+            }
+        ], 
+        "id": 87, 
+        "string": "The red higher"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 157, 
+        "string": "tall red cylinder added behind the red box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "previous"
+            }, 
+            {
+                "word": "object"
+            }
+        ], 
+        "id": 213, 
+        "string": "red cylinder added behind previous object"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "very"
+            }, 
+            {
+                "word": "large"
+            }, 
+            {
+                "word": "re"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "sitting"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "cube"
+            }
+        ], 
+        "id": 280, 
+        "string": "very large re cylinder sitting behind red rectangular cube"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "up"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 404, 
+        "string": "the red cylinder was added up from the red rectangular prism."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "almost"
+            }, 
+            {
+                "word": "touching"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 405, 
+        "string": "the red cylinder is almost touching the red rectangular prism."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "above"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "box"
+            }
+        ], 
+        "id": 448, 
+        "string": "there is a red cylinder above the red box"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "diameter"
+            }, 
+            {
+                "word": "3\\/4"
+            }, 
+            {
+                "word": "as"
+            }, 
+            {
+                "word": "long"
+            }, 
+            {
+                "word": "as"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "as"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "as"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "just"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "northeast"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 560, 
+        "string": "a red cylinder, diameter 3/4 as long as the red box, and as tall as the red box, sits just to the northeast of the box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "3D"
+            }, 
+            {
+                "word": "octagon"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }
+        ], 
+        "id": 626, 
+        "string": "A red 3D octagon is behind the red"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "octagon"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "above"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 689, 
+        "string": "A tall red octagon is above the red rectangle."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "just"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "box"
+            }
+        ], 
+        "id": 713, 
+        "string": "The red cylinder is just behind the red box"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cylindrical"
+            }, 
+            {
+                "word": "tube"
+            }
+        ], 
+        "id": 805, 
+        "string": "red cylindrical tube"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "tissue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "octagon"
+            }, 
+            {
+                "word": "bucket"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "tissue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 945, 
+        "string": "A red tissue box is left to the center and a red, octagon bucket is behind the tissue box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Directly"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prisim"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1008, 
+        "string": "Directly behind the red rectangular prisim is a red cylinder."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "This"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "octahedron"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "much"
+            }, 
+            {
+                "word": "larger"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "height"
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "similar"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "length"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "Brick"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "close"
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "Brick"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1093, 
+        "string": "This red octahedron is much larger in height but similar in length to Brick, and is placed close but behind Brick."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Red"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "next"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "brick"
+            }
+        ], 
+        "id": 1102, 
+        "string": "Red cylinder next to red brick"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "big"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "flat"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1215, 
+        "string": "A big red cylinder sits behind the flat red block."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "brown"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "brown"
+            }, 
+            {
+                "word": "block"
+            }
+        ], 
+        "id": 1252, 
+        "string": "there is a brown cylinder behind the brown block"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "large"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "octagonal"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "just"
+            }, 
+            {
+                "word": "north"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1304, 
+        "string": "A large red octagonal prism was placed just north of the red rectangular prism."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "directly"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "brick"
+            }
+        ], 
+        "id": 1324, 
+        "string": "the cylinder is red, and is located directly behind the brick"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangle"
+            }
+        ], 
+        "id": 1426, 
+        "string": "red cylinder placed behind red rectangle"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1512, 
+        "string": "The tall red cylinder is behind the red box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "large"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "situated"
+            }, 
+            {
+                "word": "directly"
+            }, 
+            {
+                "word": "above"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangle"
+            }
+        ], 
+        "id": 1543, 
+        "string": "The object is a large red cylinder, situated directly above the red rectangle"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "south"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "cylinder"
+            }
+        ], 
+        "id": 1607, 
+        "string": "a square south of the cylinder"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "now"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cylinder"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1659, 
+        "string": "There is now a red cylinder on the top side of the other red."
+    }
 ]

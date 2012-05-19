@@ -1,1619 +1,1751 @@
 [
-{
-"string": "To the right, and closer to me, is a green brick standing on its edge",
-"word_list":
-[
-{
-"word": "To"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "and"
-},
-{
-"word": "closer"
-},
-{
-"word": "to"
-},
-{
-"word": "me"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "green"
-},
-{
-"word": "brick"
-},
-{
-"word": "standing"
-},
-{
-"word": "on"
-},
-{
-"word": "its"
-},
-{
-"word": "edge"
-}
-]
-},
-{
-"string": "The green object away from the objects group",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "green"
-},
-{
-"word": "object"
-},
-{
-"word": "away"
-},
-{
-"word": "from"
-},
-{
-"word": "the"
-},
-{
-"word": "objects"
-},
-{
-"word": "group"
-}
-]
-},
-{
-"string": "Another green box added to the right of the other green box.",
-"word_list":
-[
-{
-"word": "Another"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-},
-{
-"word": "added"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "Another Green rectangular prism added to the right of all other objects and also closer to viewer",
-"word_list":
-[
-{
-"word": "Another"
-},
-{
-"word": "Green"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "added"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "all"
-},
-{
-"word": "other"
-},
-{
-"word": "objects"
-},
-{
-"word": "and"
-},
-{
-"word": "also"
-},
-{
-"word": "closer"
-},
-{
-"word": "to"
-},
-{
-"word": "viewer"
-}
-]
-},
-{
-"string": "Newest structure appears to be displaced to the right of the other structures and is dark green.",
-"word_list":
-[
-{
-"word": "Newest"
-},
-{
-"word": "structure"
-},
-{
-"word": "appears"
-},
-{
-"word": "to"
-},
-{
-"word": "be"
-},
-{
-"word": "displaced"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "structures"
-},
-{
-"word": "and"
-},
-{
-"word": "is"
-},
-{
-"word": "dark"
-},
-{
-"word": "green"
-}
-]
-},
-{
-"string": "The green square is standing up near the center of the top-right portion of the plane.  The green square is down and to the right of the green cube.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "green"
-},
-{
-"word": "square"
-},
-{
-"word": "is"
-},
-{
-"word": "standing"
-},
-{
-"word": "up"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "right"
-},
-{
-"word": "portion"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-},
-{
-"word": "The"
-},
-{
-"word": "green"
-},
-{
-"word": "square"
-},
-{
-"word": "is"
-},
-{
-"word": "down"
-},
-{
-"word": "and"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "cube"
-}
-]
-},
-{
-"string": "there is a green rectangle below and to the right of the first green box",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "green"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "below"
-},
-{
-"word": "and"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "first"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "Nos there is just a lame, tall, thin, green box, short face positioned towards the user, aligned with the other boxes but to the southwest such that only its shadow dares get close to the other shapes (though it is not quite past half the grey object).",
-"word_list":
-[
-{
-"word": "Nos"
-},
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "just"
-},
-{
-"word": "a"
-},
-{
-"word": "lame"
-},
-{
-"word": "tall"
-},
-{
-"word": "thin"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-},
-{
-"word": "short"
-},
-{
-"word": "face"
-},
-{
-"word": "positioned"
-},
-{
-"word": "towards"
-},
-{
-"word": "the"
-},
-{
-"word": "user"
-},
-{
-"word": "aligned"
-},
-{
-"word": "with"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "boxes"
-},
-{
-"word": "but"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "southwest"
-},
-{
-"word": "such"
-},
-{
-"word": "that"
-},
-{
-"word": "only"
-},
-{
-"word": "its"
-},
-{
-"word": "shadow"
-},
-{
-"word": "dares"
-},
-{
-"word": "get"
-},
-{
-"word": "close"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "shapes"
-},
-{
-"word": "though"
-},
-{
-"word": "it"
-},
-{
-"word": "is"
-},
-{
-"word": "not"
-},
-{
-"word": "quite"
-},
-{
-"word": "past"
-},
-{
-"word": "half"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "The vertical green box is to the right of the other group of boxes",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "vertical"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "group"
-},
-{
-"word": "of"
-},
-{
-"word": "boxes"
-}
-]
-},
-{
-"string": "A short green 3D square on its side is to the right of the other objects.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "short"
-},
-{
-"word": "green"
-},
-{
-"word": "3D"
-},
-{
-"word": "square"
-},
-{
-"word": "on"
-},
-{
-"word": "its"
-},
-{
-"word": "side"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "objects"
-}
-]
-},
-{
-"string": "There is a taller green rectangular object that is not in line with the other objects but to the right and a little lower in the gray area. ",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "taller"
-},
-{
-"word": "green"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "object"
-},
-{
-"word": "that"
-},
-{
-"word": "is"
-},
-{
-"word": "not"
-},
-{
-"word": "in"
-},
-{
-"word": "line"
-},
-{
-"word": "with"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "objects"
-},
-{
-"word": "but"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "and"
-},
-{
-"word": "a"
-},
-{
-"word": "little"
-},
-{
-"word": "lower"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "area"
-}
-]
-},
-{
-"string": "They added a more rectangle looking box on the lower right side of the other green box.",
-"word_list":
-[
-{
-"word": "They"
-},
-{
-"word": "added"
-},
-{
-"word": "a"
-},
-{
-"word": "more"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "looking"
-},
-{
-"word": "box"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "lower"
-},
-{
-"word": "right"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "green thin 3d square",
-"word_list":
-[
-{
-"word": "green"
-},
-{
-"word": "thin"
-},
-{
-"word": "3d"
-},
-{
-"word": "square"
-}
-]
-},
-{
-"string": "A teal pizza box is on a corner of a big gray mat. A purple box is right to the teal box, follow by a small olived shoes box and a skinny green box. At 4 o'clock direction, a green pizza box stands up tall, sidewase.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "teal"
-},
-{
-"word": "pizza"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "on"
-},
-{
-"word": "a"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "a"
-},
-{
-"word": "big"
-},
-{
-"word": "gray"
-},
-{
-"word": "mat"
-},
-{
-"word": "A"
-},
-{
-"word": "purple"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "right"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "teal"
-},
-{
-"word": "box"
-},
-{
-"word": "follow"
-},
-{
-"word": "by"
-},
-{
-"word": "a"
-},
-{
-"word": "small"
-},
-{
-"word": "olived"
-},
-{
-"word": "shoes"
-},
-{
-"word": "box"
-},
-{
-"word": "and"
-},
-{
-"word": "a"
-},
-{
-"word": "skinny"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-},
-{
-"word": "At"
-},
-{
-"word": "4"
-},
-{
-"word": "o'clock"
-},
-{
-"word": "direction"
-},
-{
-"word": "a"
-},
-{
-"word": "green"
-},
-{
-"word": "pizza"
-},
-{
-"word": "box"
-},
-{
-"word": "stands"
-},
-{
-"word": "up"
-},
-{
-"word": "tall"
-},
-{
-"word": "sidewase"
-}
-]
-},
-{
-"string": "Towards the right side of the plane, in front of and off to the side of the green tower is a green cube.",
-"word_list":
-[
-{
-"word": "Towards"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "and"
-},
-{
-"word": "off"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "tower"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "green"
-},
-{
-"word": "cube"
-}
-]
-},
-{
-"string": "The newly added green object appears to have the same width as Yellow, but appears to be the tallest of the bunch. It is placed closer to the point of view and to the right than the other green object.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "newly"
-},
-{
-"word": "added"
-},
-{
-"word": "green"
-},
-{
-"word": "object"
-},
-{
-"word": "appears"
-},
-{
-"word": "to"
-},
-{
-"word": "have"
-},
-{
-"word": "the"
-},
-{
-"word": "same"
-},
-{
-"word": "width"
-},
-{
-"word": "as"
-},
-{
-"word": "Yellow"
-},
-{
-"word": "but"
-},
-{
-"word": "appears"
-},
-{
-"word": "to"
-},
-{
-"word": "be"
-},
-{
-"word": "the"
-},
-{
-"word": "tallest"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "bunch"
-},
-{
-"word": "It"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "closer"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "point"
-},
-{
-"word": "of"
-},
-{
-"word": "view"
-},
-{
-"word": "and"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "than"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "green"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "New green brick is away from the others",
-"word_list":
-[
-{
-"word": "New"
-},
-{
-"word": "green"
-},
-{
-"word": "brick"
-},
-{
-"word": "is"
-},
-{
-"word": "away"
-},
-{
-"word": "from"
-},
-{
-"word": "the"
-},
-{
-"word": "others"
-}
-]
-},
-{
-"string": "A second rectangular prism is placed southeast of the other prisms in the eastern hemisphere.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "second"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "southeast"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "prisms"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "eastern"
-},
-{
-"word": "hemisphere"
-}
-]
-},
-{
-"string": "A flat but vertical square box sits away from the other objects.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "flat"
-},
-{
-"word": "but"
-},
-{
-"word": "vertical"
-},
-{
-"word": "square"
-},
-{
-"word": "box"
-},
-{
-"word": "sits"
-},
-{
-"word": "away"
-},
-{
-"word": "from"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "objects"
-}
-]
-},
-{
-"string": "the brown block is to the right and closer to me than the other blocks",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "brown"
-},
-{
-"word": "block"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "and"
-},
-{
-"word": "closer"
-},
-{
-"word": "to"
-},
-{
-"word": "me"
-},
-{
-"word": "than"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "blocks"
-}
-]
-},
-{
-"string": "the box is green, and sits in front of the line of blocks, on the right side. The long side of the new box faces the line of blocks",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "green"
-},
-{
-"word": "and"
-},
-{
-"word": "sits"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "line"
-},
-{
-"word": "of"
-},
-{
-"word": "blocks"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "side"
-},
-{
-"word": "The"
-},
-{
-"word": "long"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "new"
-},
-{
-"word": "box"
-},
-{
-"word": "faces"
-},
-{
-"word": "the"
-},
-{
-"word": "line"
-},
-{
-"word": "of"
-},
-{
-"word": "blocks"
-}
-]
-},
-{
-"string": "green block placed in front of and to the right of all other blocks",
-"word_list":
-[
-{
-"word": "green"
-},
-{
-"word": "block"
-},
-{
-"word": "placed"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "and"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "all"
-},
-{
-"word": "other"
-},
-{
-"word": "blocks"
-}
-]
-},
-{
-"string": "The skinny green box is to the right of and in front of the first green box.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "skinny"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "and"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "first"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "The object is a green rectangle, placed on its long end, located to the upper-right of the center of the grey plane",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "green"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "placed"
-},
-{
-"word": "on"
-},
-{
-"word": "its"
-},
-{
-"word": "long"
-},
-{
-"word": "end"
-},
-{
-"word": "located"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "upper"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "a green block southeast of the collection",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "green"
-},
-{
-"word": "block"
-},
-{
-"word": "southeast"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "collection"
-}
-]
-}
+    {
+        "word_list": [
+            {
+                "word": "To"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "closer"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "me"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": "standing"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "its"
+            }, 
+            {
+                "word": "edge"
+            }
+        ], 
+        "id": 23, 
+        "string": "To the right, and closer to me, is a green brick standing on its edge"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "away"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "objects"
+            }, 
+            {
+                "word": "group"
+            }
+        ], 
+        "id": 50, 
+        "string": "The green object away from the objects group"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Another"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 114, 
+        "string": "Another green box added to the right of the other green box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Another"
+            }, 
+            {
+                "word": "Green"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "all"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "objects"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "also"
+            }, 
+            {
+                "word": "closer"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "viewer"
+            }
+        ], 
+        "id": 174, 
+        "string": "Another Green rectangular prism added to the right of all other objects and also closer to viewer"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Newest"
+            }, 
+            {
+                "word": "structure"
+            }, 
+            {
+                "word": "appears"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "be"
+            }, 
+            {
+                "word": "displaced"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "structures"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "dark"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 241, 
+        "string": "Newest structure appears to be displaced to the right of the other structures and is dark green."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "standing"
+            }, 
+            {
+                "word": "up"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top-right"
+            }, 
+            {
+                "word": "portion"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 313, 
+        "string": "The green square is standing up near the center of the top-right portion of the plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "down"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 314, 
+        "string": "The green square is down and to the right of the green cube."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "below"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "first"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }
+        ], 
+        "id": 384, 
+        "string": "there is a green rectangle below and to the right of the first green box"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Nos"
+            }, 
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "just"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "lame"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "thin"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "short"
+            }, 
+            {
+                "word": "face"
+            }, 
+            {
+                "word": "positioned"
+            }, 
+            {
+                "word": "towards"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "user"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "aligned"
+            }, 
+            {
+                "word": "with"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "boxes"
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "southwest"
+            }, 
+            {
+                "word": "such"
+            }, 
+            {
+                "word": "that"
+            }, 
+            {
+                "word": "only"
+            }, 
+            {
+                "word": "its"
+            }, 
+            {
+                "word": "shadow"
+            }, 
+            {
+                "word": "dares"
+            }, 
+            {
+                "word": "get"
+            }, 
+            {
+                "word": "close"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "shapes"
+            }, 
+            {
+                "word": "-LRB-"
+            }, 
+            {
+                "word": "though"
+            }, 
+            {
+                "word": "it"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "not"
+            }, 
+            {
+                "word": "quite"
+            }, 
+            {
+                "word": "past"
+            }, 
+            {
+                "word": "half"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "-RRB-"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 478, 
+        "string": "Nos there is just a lame, tall, thin, green box, short face positioned towards the user, aligned with the other boxes but to the southwest such that only its shadow dares get close to the other shapes (though it is not quite past half the grey object)."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "vertical"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "group"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "boxes"
+            }
+        ], 
+        "id": 514, 
+        "string": "The vertical green box is to the right of the other group of boxes"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "short"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "3D"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "its"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "objects"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 589, 
+        "string": "A short green 3D square on its side is to the right of the other objects."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "taller"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "that"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "not"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "line"
+            }, 
+            {
+                "word": "with"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "objects"
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "little"
+            }, 
+            {
+                "word": "lower"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "area"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 646, 
+        "string": "There is a taller green rectangular object that is not in line with the other objects but to the right and a little lower in the gray area."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "They"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "more"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "looking"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "lower"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 744, 
+        "string": "They added a more rectangle looking box on the lower right side of the other green box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "thin"
+            }, 
+            {
+                "word": "3d"
+            }, 
+            {
+                "word": "square"
+            }
+        ], 
+        "id": 768, 
+        "string": "green thin 3d square"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "teal"
+            }, 
+            {
+                "word": "pizza"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "big"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "mat"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 854, 
+        "string": "A teal pizza box is on a corner of a big gray mat."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "teal"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "follow"
+            }, 
+            {
+                "word": "by"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "olived"
+            }, 
+            {
+                "word": "shoes"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "skinny"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 855, 
+        "string": "A purple box is right to the teal box, follow by a small olived shoes box and a skinny green box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "At"
+            }, 
+            {
+                "word": "4"
+            }, 
+            {
+                "word": "o'clock"
+            }, 
+            {
+                "word": "direction"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "pizza"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "stands"
+            }, 
+            {
+                "word": "up"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "sidewase"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 856, 
+        "string": "At 4 o'clock direction, a green pizza box stands up tall, sidewase."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Towards"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "off"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "tower"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 994, 
+        "string": "Towards the right side of the plane, in front of and off to the side of the green tower is a green cube."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "newly"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "appears"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "have"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "same"
+            }, 
+            {
+                "word": "width"
+            }, 
+            {
+                "word": "as"
+            }, 
+            {
+                "word": "Yellow"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "appears"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "be"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "tallest"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "bunch"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1061, 
+        "string": "The newly added green object appears to have the same width as Yellow, but appears to be the tallest of the bunch."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "It"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "closer"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "point"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "view"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1062, 
+        "string": "It is placed closer to the point of view and to the right than the other green object."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "New"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "away"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "others"
+            }
+        ], 
+        "id": 1128, 
+        "string": "New green brick is away from the others"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "second"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "southeast"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "prisms"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "eastern"
+            }, 
+            {
+                "word": "hemisphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1161, 
+        "string": "A second rectangular prism is placed southeast of the other prisms in the eastern hemisphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "flat"
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "vertical"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "away"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "objects"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1182, 
+        "string": "A flat but vertical square box sits away from the other objects."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "brown"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "closer"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "me"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "blocks"
+            }
+        ], 
+        "id": 1242, 
+        "string": "the brown block is to the right and closer to me than the other blocks"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "line"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "blocks"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1358, 
+        "string": "the box is green, and sits in front of the line of blocks, on the right side."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "long"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "new"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "faces"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "line"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "blocks"
+            }
+        ], 
+        "id": 1359, 
+        "string": "The long side of the new box faces the line of blocks"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "all"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "blocks"
+            }
+        ], 
+        "id": 1416, 
+        "string": "green block placed in front of and to the right of all other blocks"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "skinny"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "first"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1481, 
+        "string": "The skinny green box is to the right of and in front of the first green box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "its"
+            }, 
+            {
+                "word": "long"
+            }, 
+            {
+                "word": "end"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "upper-right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "plane"
+            }
+        ], 
+        "id": 1564, 
+        "string": "The object is a green rectangle, placed on its long end, located to the upper-right of the center of the grey plane"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "southeast"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "collection"
+            }
+        ], 
+        "id": 1584, 
+        "string": "a green block southeast of the collection"
+    }
 ]

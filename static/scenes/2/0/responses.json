@@ -1,1421 +1,1538 @@
 [
-{
-"string": "The yellow block is in the back left corner.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "block"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "left"
-},
-{
-"word": "corner"
-}
-]
-},
-{
-"string": "A gold brick is far back, on the left side of the table.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "gold"
-},
-{
-"word": "brick"
-},
-{
-"word": "is"
-},
-{
-"word": "far"
-},
-{
-"word": "back"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "table"
-}
-]
-},
-{
-"string": "The light green-yellow object on the left-up conner.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "light"
-},
-{
-"word": "green"
-},
-{
-"word": "yellow"
-},
-{
-"word": "object"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "up"
-},
-{
-"word": "conner"
-}
-]
-},
-{
-"string": "A gold box is located on the left top side over the gray ground.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "gold"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "located"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "top"
-},
-{
-"word": "side"
-},
-{
-"word": "over"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "ground"
-}
-]
-},
-{
-"string": "yellow box located on upper left of slanted grey square.",
-"word_list":
-[
-{
-"word": "yellow"
-},
-{
-"word": "box"
-},
-{
-"word": "located"
-},
-{
-"word": "on"
-},
-{
-"word": "upper"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "slanted"
-},
-{
-"word": "grey"
-},
-{
-"word": "square"
-}
-]
-},
-{
-"string": "Small, short box-like prism located at the top left of the surface",
-"word_list":
-[
-{
-"word": "Small"
-},
-{
-"word": "short"
-},
-{
-"word": "box"
-},
-{
-"word": "like"
-},
-{
-"word": "prism"
-},
-{
-"word": "located"
-},
-{
-"word": "at"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "the yellow rectangular object is near the top left region of the plane.",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "yellow"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "left"
-},
-{
-"word": "region"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "there is a small yellow prism that is way up north.",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "small"
-},
-{
-"word": "yellow"
-},
-{
-"word": "prism"
-},
-{
-"word": "that"
-},
-{
-"word": "is"
-},
-{
-"word": "way"
-},
-{
-"word": "up"
-},
-{
-"word": "north"
-}
-]
-},
-{
-"string": "Yellow structure that is near the left hand corner of the platform",
-"word_list":
-[
-{
-"word": "Yellow"
-},
-{
-"word": "structure"
-},
-{
-"word": "that"
-},
-{
-"word": "is"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "hand"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "platform"
-}
-]
-},
-{
-"string": "The yellow rectangular prism is in the center of the top-left portion of the plane.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "left"
-},
-{
-"word": "portion"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "there is a yellow rectangle located near the upper left corner of the grey shape.",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "yellow"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "located"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "upper"
-},
-{
-"word": "left"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "shape"
-}
-]
-},
-{
-"string": "Yellow, elongated box, shadow pointing to the northwest, also sitting atop the grey object. It is in the top corner of the grey object.",
-"word_list":
-[
-{
-"word": "Yellow"
-},
-{
-"word": "elongated"
-},
-{
-"word": "box"
-},
-{
-"word": "shadow"
-},
-{
-"word": "pointing"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "northwest"
-},
-{
-"word": "also"
-},
-{
-"word": "sitting"
-},
-{
-"word": "atop"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "object"
-},
-{
-"word": "It"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "The yellow rectangular prism is by the far corner.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "is"
-},
-{
-"word": "by"
-},
-{
-"word": "the"
-},
-{
-"word": "far"
-},
-{
-"word": "corner"
-}
-]
-},
-{
-"string": "The yellow cube is located on the platform.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "cube"
-},
-{
-"word": "is"
-},
-{
-"word": "located"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "platform"
-}
-]
-},
-{
-"string": "The yellow cuboid box is placed toward the rear left corner.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "cuboid"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "toward"
-},
-{
-"word": "the"
-},
-{
-"word": "rear"
-},
-{
-"word": "left"
-},
-{
-"word": "corner"
-}
-]
-},
-{
-"string": "There is a green cube in the northwest area of the gray object. ",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "green"
-},
-{
-"word": "cube"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "northwest"
-},
-{
-"word": "area"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "A yellow rectangular prism is located in the northwestern hemisphere of the gray plane.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "yellow"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "is"
-},
-{
-"word": "located"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "northwestern"
-},
-{
-"word": "hemisphere"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "This time the rectangular box is the top left hand side.",
-"word_list":
-[
-{
-"word": "This"
-},
-{
-"word": "time"
-},
-{
-"word": "the"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "left"
-},
-{
-"word": "hand"
-},
-{
-"word": "side"
-}
-]
-},
-{
-"string": "The original gray base, now a yellow 3D rectangle is place in the furthest corner.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "original"
-},
-{
-"word": "gray"
-},
-{
-"word": "base"
-},
-{
-"word": "now"
-},
-{
-"word": "a"
-},
-{
-"word": "yellow"
-},
-{
-"word": "3D"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "is"
-},
-{
-"word": "place"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "furthest"
-},
-{
-"word": "corner"
-}
-]
-},
-{
-"string": "A small, olive-colored, rectangular box is placed close to a corner of a huge, pentagon, gray  mat. The box is placed closed to a corner that has the furthest distance from me.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "small"
-},
-{
-"word": "olive"
-},
-{
-"word": "colored"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "close"
-},
-{
-"word": "to"
-},
-{
-"word": "a"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "a"
-},
-{
-"word": "huge"
-},
-{
-"word": "pentagon"
-},
-{
-"word": "gray"
-},
-{
-"word": "mat"
-},
-{
-"word": "The"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "closed"
-},
-{
-"word": "to"
-},
-{
-"word": "a"
-},
-{
-"word": "corner"
-},
-{
-"word": "that"
-},
-{
-"word": "has"
-},
-{
-"word": "the"
-},
-{
-"word": "furthest"
-},
-{
-"word": "distance"
-},
-{
-"word": "from"
-},
-{
-"word": "me"
-}
-]
-},
-{
-"string": "Near the back left corner of the plane is a yellow rectangular prisim.",
-"word_list":
-[
-{
-"word": "Near"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "left"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "yellow"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prisim"
-}
-]
-},
-{
-"string": "The object in the picture appears to be a cuboid, yellow, and casts a small shadow implying the light source is behind the point of view but pretty high up as it is not a long shadow.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "object"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "picture"
-},
-{
-"word": "appears"
-},
-{
-"word": "to"
-},
-{
-"word": "be"
-},
-{
-"word": "a"
-},
-{
-"word": "cuboid"
-},
-{
-"word": "yellow"
-},
-{
-"word": "and"
-},
-{
-"word": "casts"
-},
-{
-"word": "a"
-},
-{
-"word": "small"
-},
-{
-"word": "shadow"
-},
-{
-"word": "implying"
-},
-{
-"word": "the"
-},
-{
-"word": "light"
-},
-{
-"word": "source"
-},
-{
-"word": "is"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "point"
-},
-{
-"word": "of"
-},
-{
-"word": "view"
-},
-{
-"word": "but"
-},
-{
-"word": "pretty"
-},
-{
-"word": "high"
-},
-{
-"word": "up"
-},
-{
-"word": "as"
-},
-{
-"word": "it"
-},
-{
-"word": "is"
-},
-{
-"word": "not"
-},
-{
-"word": "a"
-},
-{
-"word": "long"
-},
-{
-"word": "shadow"
-}
-]
-},
-{
-"string": "Yellow brick on gray surface",
-"word_list":
-[
-{
-"word": "Yellow"
-},
-{
-"word": "brick"
-},
-{
-"word": "on"
-},
-{
-"word": "gray"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "A yellow flat rectangular block sits towards the back corner of the gray surface.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "yellow"
-},
-{
-"word": "flat"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "block"
-},
-{
-"word": "sits"
-},
-{
-"word": "towards"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "the orange rectangle is in the plane",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "orange"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "the box is yellow, and toward the back of the plane, on the left side",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "yellow"
-},
-{
-"word": "and"
-},
-{
-"word": "toward"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "side"
-}
-]
-},
-{
-"string": "green block on far left side of table",
-"word_list":
-[
-{
-"word": "green"
-},
-{
-"word": "block"
-},
-{
-"word": "on"
-},
-{
-"word": "far"
-},
-{
-"word": "left"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "table"
-}
-]
-},
-{
-"string": "The yellow rectangle is on the far left side of the rectangular plane.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "is"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "far"
-},
-{
-"word": "left"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "The object is a small, yellow rectangle, situated in the upper left corner of the grey plane",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "small"
-},
-{
-"word": "yellow"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "situated"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "upper"
-},
-{
-"word": "left"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "a small brick in the corner of a large square",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "small"
-},
-{
-"word": "brick"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "a"
-},
-{
-"word": "large"
-},
-{
-"word": "square"
-}
-]
-}
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 3, 
+        "string": "The yellow block is in the back left corner."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "gold"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "far"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "table"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 12, 
+        "string": "A gold brick is far back, on the left side of the table."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "light"
+            }, 
+            {
+                "word": "green-yellow"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left-up"
+            }, 
+            {
+                "word": "conner"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 39, 
+        "string": "The light green-yellow object on the left-up conner."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "gold"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "top"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "over"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "ground"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 96, 
+        "string": "A gold box is located on the left top side over the gray ground."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "upper"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "slanted"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 103, 
+        "string": "yellow box located on upper left of slanted grey square."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Small"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "short"
+            }, 
+            {
+                "word": "box-like"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "at"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "surface"
+            }
+        ], 
+        "id": 141, 
+        "string": "Small, short box-like prism located at the top left of the surface"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "region"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 175, 
+        "string": "the yellow rectangular object is near the top left region of the plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "that"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "way"
+            }, 
+            {
+                "word": "up"
+            }, 
+            {
+                "word": "north"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 222, 
+        "string": "there is a small yellow prism that is way up north."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Yellow"
+            }, 
+            {
+                "word": "structure"
+            }, 
+            {
+                "word": "that"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "hand"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "platform"
+            }
+        ], 
+        "id": 228, 
+        "string": "Yellow structure that is near the left hand corner of the platform"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top-left"
+            }, 
+            {
+                "word": "portion"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 290, 
+        "string": "The yellow rectangular prism is in the center of the top-left portion of the plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "upper"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "shape"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 359, 
+        "string": "there is a yellow rectangle located near the upper left corner of the grey shape."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Yellow"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "elongated"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "shadow"
+            }, 
+            {
+                "word": "pointing"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "northwest"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "also"
+            }, 
+            {
+                "word": "sitting"
+            }, 
+            {
+                "word": "atop"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 459, 
+        "string": "Yellow, elongated box, shadow pointing to the northwest, also sitting atop the grey object."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "It"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 460, 
+        "string": "It is in the top corner of the grey object."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "by"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "far"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 489, 
+        "string": "The yellow rectangular prism is by the far corner."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "platform"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 574, 
+        "string": "The yellow cube is located on the platform."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cuboid"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "toward"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "rear"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 578, 
+        "string": "The yellow cuboid box is placed toward the rear left corner."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "northwest"
+            }, 
+            {
+                "word": "area"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 635, 
+        "string": "There is a green cube in the northwest area of the gray object."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "northwestern"
+            }, 
+            {
+                "word": "hemisphere"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 718, 
+        "string": "A yellow rectangular prism is located in the northwestern hemisphere of the gray plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "This"
+            }, 
+            {
+                "word": "time"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "hand"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 729, 
+        "string": "This time the rectangular box is the top left hand side."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "original"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "base"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "now"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "3D"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "place"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "furthest"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 757, 
+        "string": "The original gray base, now a yellow 3D rectangle is place in the furthest corner."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "olive-colored"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "close"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "huge"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "pentagon"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "mat"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 820, 
+        "string": "A small, olive-colored, rectangular box is placed close to a corner of a huge, pentagon, gray  mat."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "closed"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "that"
+            }, 
+            {
+                "word": "has"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "furthest"
+            }, 
+            {
+                "word": "distance"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "me"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 821, 
+        "string": "The box is placed closed to a corner that has the furthest distance from me."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prisim"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 987, 
+        "string": "Near the back left corner of the plane is a yellow rectangular prisim."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "picture"
+            }, 
+            {
+                "word": "appears"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "be"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "cuboid"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "casts"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "shadow"
+            }, 
+            {
+                "word": "implying"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "light"
+            }, 
+            {
+                "word": "source"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "point"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "view"
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "pretty"
+            }, 
+            {
+                "word": "high"
+            }, 
+            {
+                "word": "up"
+            }, 
+            {
+                "word": "as"
+            }, 
+            {
+                "word": "it"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "not"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "long"
+            }, 
+            {
+                "word": "shadow"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1023, 
+        "string": "The object in the picture appears to be a cuboid, yellow, and casts a small shadow implying the light source is behind the point of view but pretty high up as it is not a long shadow."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Yellow"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "surface"
+            }
+        ], 
+        "id": 1115, 
+        "string": "Yellow brick on gray surface"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "flat"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "towards"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "surface"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1196, 
+        "string": "A yellow flat rectangular block sits towards the back corner of the gray surface."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "orange"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }
+        ], 
+        "id": 1248, 
+        "string": "the orange rectangle is in the plane"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "toward"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "side"
+            }
+        ], 
+        "id": 1360, 
+        "string": "the box is yellow, and toward the back of the plane, on the left side"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "far"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "table"
+            }
+        ], 
+        "id": 1401, 
+        "string": "green block on far left side of table"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "far"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1454, 
+        "string": "The yellow rectangle is on the far left side of the rectangular plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "situated"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "upper"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "plane"
+            }
+        ], 
+        "id": 1496, 
+        "string": "The object is a small, yellow rectangle, situated in the upper left corner of the grey plane"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "large"
+            }, 
+            {
+                "word": "square"
+            }
+        ], 
+        "id": 1570, 
+        "string": "a small brick in the corner of a large square"
+    }
 ]

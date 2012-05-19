@@ -1,1316 +1,1451 @@
 [
-{
-"string": "a small yellow brick lies flat between the puce cube and the green one",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "small"
-},
-{
-"word": "yellow"
-},
-{
-"word": "brick"
-},
-{
-"word": "lies"
-},
-{
-"word": "flat"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "puce"
-},
-{
-"word": "cube"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "one"
-}
-]
-},
-{
-"string": "The light green-yellow object between blue and green.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "light"
-},
-{
-"word": "green"
-},
-{
-"word": "yellow"
-},
-{
-"word": "object"
-},
-{
-"word": "between"
-},
-{
-"word": "blue"
-},
-{
-"word": "and"
-},
-{
-"word": "green"
-}
-]
-},
-{
-"string": "Yellow box added between purple and green box.",
-"word_list":
-[
-{
-"word": "Yellow"
-},
-{
-"word": "box"
-},
-{
-"word": "added"
-},
-{
-"word": "between"
-},
-{
-"word": "purple"
-},
-{
-"word": "and"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "yellow rectangular box added directly between purple and green prisms",
-"word_list":
-[
-{
-"word": "yellow"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "box"
-},
-{
-"word": "added"
-},
-{
-"word": "directly"
-},
-{
-"word": "between"
-},
-{
-"word": "purple"
-},
-{
-"word": "and"
-},
-{
-"word": "green"
-},
-{
-"word": "prisms"
-}
-]
-},
-{
-"string": "New structure is lying in between the purple and green structures.",
-"word_list":
-[
-{
-"word": "New"
-},
-{
-"word": "structure"
-},
-{
-"word": "is"
-},
-{
-"word": "lying"
-},
-{
-"word": "in"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "and"
-},
-{
-"word": "green"
-},
-{
-"word": "structures"
-}
-]
-},
-{
-"string": "The yellow rectangular prism is occupying the space between the green cube and the purple cube.  The yellow rectangular prism is a quarter the height of the purple cube and the green cube.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "is"
-},
-{
-"word": "occupying"
-},
-{
-"word": "the"
-},
-{
-"word": "space"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "cube"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "cube"
-},
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "quarter"
-},
-{
-"word": "the"
-},
-{
-"word": "height"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "cube"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "cube"
-}
-]
-},
-{
-"string": "there is a yellow rectangle between the green box and the purple box",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "yellow"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "I am prophecy! There is now a short, long yellow box, even shorter than the teal box, even thinner than the green box, sitting in the gap between the green box and the maroon box.",
-"word_list":
-[
-{
-"word": "I"
-},
-{
-"word": "am"
-},
-{
-"word": "prophecy"
-},
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "now"
-},
-{
-"word": "a"
-},
-{
-"word": "short"
-},
-{
-"word": "long"
-},
-{
-"word": "yellow"
-},
-{
-"word": "box"
-},
-{
-"word": "even"
-},
-{
-"word": "shorter"
-},
-{
-"word": "than"
-},
-{
-"word": "the"
-},
-{
-"word": "teal"
-},
-{
-"word": "box"
-},
-{
-"word": "even"
-},
-{
-"word": "thinner"
-},
-{
-"word": "than"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-},
-{
-"word": "sitting"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "gap"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "maroon"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "The yellow box is in between the purple and green boxes",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "and"
-},
-{
-"word": "green"
-},
-{
-"word": "boxes"
-}
-]
-},
-{
-"string": "A yellow cuboid box is between the green and light purple cubes.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "yellow"
-},
-{
-"word": "cuboid"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "and"
-},
-{
-"word": "light"
-},
-{
-"word": "purple"
-},
-{
-"word": "cubes"
-}
-]
-},
-{
-"string": "There is an even smaller yellow rectangular cube that is inbetween the purple and green cubes. ",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "an"
-},
-{
-"word": "even"
-},
-{
-"word": "smaller"
-},
-{
-"word": "yellow"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "cube"
-},
-{
-"word": "that"
-},
-{
-"word": "is"
-},
-{
-"word": "inbetween"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "and"
-},
-{
-"word": "green"
-},
-{
-"word": "cubes"
-}
-]
-},
-{
-"string": "They added a rectangular box between the green and purple shape. The yellow box is thinner than the green and purple.",
-"word_list":
-[
-{
-"word": "They"
-},
-{
-"word": "added"
-},
-{
-"word": "a"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "box"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "and"
-},
-{
-"word": "purple"
-},
-{
-"word": "shape"
-},
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "thinner"
-},
-{
-"word": "than"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "and"
-},
-{
-"word": "purple"
-}
-]
-},
-{
-"string": "yellow 3d rectangle",
-"word_list":
-[
-{
-"word": "yellow"
-},
-{
-"word": "3d"
-},
-{
-"word": "rectangle"
-}
-]
-},
-{
-"string": "A purple box is places closed to the furthest corner of a huge, pentagon, gray mat. A teal pizza box is left to the purle box. A small, skinny, Pakistan green box is right to the purple box. A small, olived box is in between of purple & green box. ",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "purple"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "places"
-},
-{
-"word": "closed"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "furthest"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "a"
-},
-{
-"word": "huge"
-},
-{
-"word": "pentagon"
-},
-{
-"word": "gray"
-},
-{
-"word": "mat"
-},
-{
-"word": "A"
-},
-{
-"word": "teal"
-},
-{
-"word": "pizza"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "left"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "purle"
-},
-{
-"word": "box"
-},
-{
-"word": "A"
-},
-{
-"word": "small"
-},
-{
-"word": "skinny"
-},
-{
-"word": "Pakistan"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "right"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "box"
-},
-{
-"word": "A"
-},
-{
-"word": "small"
-},
-{
-"word": "olived"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "between"
-},
-{
-"word": "of"
-},
-{
-"word": "purple"
-},
-{
-"word": "green"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "In between the pink cube and the green tower is a yellow rectangular prisim.",
-"word_list":
-[
-{
-"word": "In"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "pink"
-},
-{
-"word": "cube"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "tower"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "yellow"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prisim"
-}
-]
-},
-{
-"string": "This short but long yellow object is placed in between Purple and Green. Yellow appears to be touching each shape.",
-"word_list":
-[
-{
-"word": "This"
-},
-{
-"word": "short"
-},
-{
-"word": "but"
-},
-{
-"word": "long"
-},
-{
-"word": "yellow"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "in"
-},
-{
-"word": "between"
-},
-{
-"word": "Purple"
-},
-{
-"word": "and"
-},
-{
-"word": "Green"
-},
-{
-"word": "Yellow"
-},
-{
-"word": "appears"
-},
-{
-"word": "to"
-},
-{
-"word": "be"
-},
-{
-"word": "touching"
-},
-{
-"word": "each"
-},
-{
-"word": "shape"
-}
-]
-},
-{
-"string": "Yellow brick between the green and magenta ones",
-"word_list":
-[
-{
-"word": "Yellow"
-},
-{
-"word": "brick"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "and"
-},
-{
-"word": "magenta"
-},
-{
-"word": "ones"
-}
-]
-},
-{
-"string": "A yellow horizontal rectangular prism is inbetween the purple cube and the green rectangular prism.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "yellow"
-},
-{
-"word": "horizontal"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-},
-{
-"word": "is"
-},
-{
-"word": "inbetween"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "cube"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-}
-]
-},
-{
-"string": "A flat yellow rectangular box sits between the pink and green boxes.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "flat"
-},
-{
-"word": "yellow"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "box"
-},
-{
-"word": "sits"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "pink"
-},
-{
-"word": "and"
-},
-{
-"word": "green"
-},
-{
-"word": "boxes"
-}
-]
-},
-{
-"string": "the orange block is in between the purple and brown blocks",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "orange"
-},
-{
-"word": "block"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "and"
-},
-{
-"word": "brown"
-},
-{
-"word": "blocks"
-}
-]
-},
-{
-"string": "the box is yellow, and sits in between the green and the magenta boxes",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "yellow"
-},
-{
-"word": "and"
-},
-{
-"word": "sits"
-},
-{
-"word": "in"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "magenta"
-},
-{
-"word": "boxes"
-}
-]
-},
-{
-"string": "yellow block placed in between puple block and green block",
-"word_list":
-[
-{
-"word": "yellow"
-},
-{
-"word": "block"
-},
-{
-"word": "placed"
-},
-{
-"word": "in"
-},
-{
-"word": "between"
-},
-{
-"word": "puple"
-},
-{
-"word": "block"
-},
-{
-"word": "and"
-},
-{
-"word": "green"
-},
-{
-"word": "block"
-}
-]
-},
-{
-"string": "The short yellow box is touching the edges of the purple and green boxes.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "short"
-},
-{
-"word": "yellow"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "touching"
-},
-{
-"word": "the"
-},
-{
-"word": "edges"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "and"
-},
-{
-"word": "green"
-},
-{
-"word": "boxes"
-}
-]
-},
-{
-"string": "The object is a thin yellow rectangle placed in between the purple cube and green rectangle",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "thin"
-},
-{
-"word": "yellow"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "placed"
-},
-{
-"word": "in"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "cube"
-},
-{
-"word": "and"
-},
-{
-"word": "green"
-},
-{
-"word": "rectangle"
-}
-]
-},
-{
-"string": "a yellow block connecting the purple and green blocks",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "yellow"
-},
-{
-"word": "block"
-},
-{
-"word": "connecting"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "and"
-},
-{
-"word": "green"
-},
-{
-"word": "blocks"
-}
-]
-}
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": "lies"
+            }, 
+            {
+                "word": "flat"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "puce"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "one"
+            }
+        ], 
+        "id": 22, 
+        "string": "a small yellow brick lies flat between the puce cube and the green one"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "light"
+            }, 
+            {
+                "word": "green-yellow"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 49, 
+        "string": "The light green-yellow object between blue and green."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Yellow"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 113, 
+        "string": "Yellow box added between purple and green box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "directly"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "prisms"
+            }
+        ], 
+        "id": 173, 
+        "string": "yellow rectangular box added directly between purple and green prisms"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "New"
+            }, 
+            {
+                "word": "structure"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "lying"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "structures"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 240, 
+        "string": "New structure is lying in between the purple and green structures."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "occupying"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "space"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 311, 
+        "string": "The yellow rectangular prism is occupying the space between the green cube and the purple cube."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "quarter"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "height"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 312, 
+        "string": "The yellow rectangular prism is a quarter the height of the purple cube and the green cube."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "box"
+            }
+        ], 
+        "id": 381, 
+        "string": "there is a yellow rectangle between the green box and the purple box"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "I"
+            }, 
+            {
+                "word": "am"
+            }, 
+            {
+                "word": "prophecy"
+            }, 
+            {
+                "word": "!"
+            }
+        ], 
+        "id": 476, 
+        "string": "I am prophecy!"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "now"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "short"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "long"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "even"
+            }, 
+            {
+                "word": "shorter"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "teal"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "even"
+            }, 
+            {
+                "word": "thinner"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "sitting"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gap"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "maroon"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 477, 
+        "string": "There is now a short, long yellow box, even shorter than the teal box, even thinner than the green box, sitting in the gap between the green box and the maroon box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "boxes"
+            }
+        ], 
+        "id": 509, 
+        "string": "The yellow box is in between the purple and green boxes"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "cuboid"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "light"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cubes"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 588, 
+        "string": "A yellow cuboid box is between the green and light purple cubes."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "an"
+            }, 
+            {
+                "word": "even"
+            }, 
+            {
+                "word": "smaller"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "that"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "inbetween"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "cubes"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 645, 
+        "string": "There is an even smaller yellow rectangular cube that is inbetween the purple and green cubes."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "They"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "shape"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 742, 
+        "string": "They added a rectangular box between the green and purple shape."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "thinner"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 743, 
+        "string": "The yellow box is thinner than the green and purple."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "3d"
+            }, 
+            {
+                "word": "rectangle"
+            }
+        ], 
+        "id": 767, 
+        "string": "yellow 3d rectangle"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "places"
+            }, 
+            {
+                "word": "closed"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "furthest"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "huge"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "pentagon"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "mat"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 850, 
+        "string": "A purple box is places closed to the furthest corner of a huge, pentagon, gray mat."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "teal"
+            }, 
+            {
+                "word": "pizza"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purle"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 851, 
+        "string": "A teal pizza box is left to the purle box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "skinny"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "Pakistan"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 852, 
+        "string": "A small, skinny, Pakistan green box is right to the purple box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "olived"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "&"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 853, 
+        "string": "A small, olived box is in between of purple & green box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "In"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "tower"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prisim"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 993, 
+        "string": "In between the pink cube and the green tower is a yellow rectangular prisim."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "This"
+            }, 
+            {
+                "word": "short"
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "long"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "Purple"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "Green"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1059, 
+        "string": "This short but long yellow object is placed in between Purple and Green."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Yellow"
+            }, 
+            {
+                "word": "appears"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "be"
+            }, 
+            {
+                "word": "touching"
+            }, 
+            {
+                "word": "each"
+            }, 
+            {
+                "word": "shape"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1060, 
+        "string": "Yellow appears to be touching each shape."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Yellow"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "ones"
+            }
+        ], 
+        "id": 1127, 
+        "string": "Yellow brick between the green and magenta ones"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "horizontal"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "inbetween"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1160, 
+        "string": "A yellow horizontal rectangular prism is inbetween the purple cube and the green rectangular prism."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "flat"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "boxes"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1181, 
+        "string": "A flat yellow rectangular box sits between the pink and green boxes."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "orange"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "brown"
+            }, 
+            {
+                "word": "blocks"
+            }
+        ], 
+        "id": 1241, 
+        "string": "the orange block is in between the purple and brown blocks"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "boxes"
+            }
+        ], 
+        "id": 1357, 
+        "string": "the box is yellow, and sits in between the green and the magenta boxes"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "puple"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "block"
+            }
+        ], 
+        "id": 1415, 
+        "string": "yellow block placed in between puple block and green block"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "short"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "touching"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "edges"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "boxes"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1479, 
+        "string": "The short yellow box is touching the edges of the purple and green boxes."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "thin"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "rectangle"
+            }
+        ], 
+        "id": 1563, 
+        "string": "The object is a thin yellow rectangle placed in between the purple cube and green rectangle"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "connecting"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "blocks"
+            }
+        ], 
+        "id": 1583, 
+        "string": "a yellow block connecting the purple and green blocks"
+    }
 ]

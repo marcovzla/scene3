@@ -1,1133 +1,1196 @@
 [
-{
-"string": "A green ball sits at the far edge of the table near the midline that runs across the able from front to back",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "green"
-},
-{
-"word": "ball"
-},
-{
-"word": "sits"
-},
-{
-"word": "at"
-},
-{
-"word": "the"
-},
-{
-"word": "far"
-},
-{
-"word": "edge"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "table"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "midline"
-},
-{
-"word": "that"
-},
-{
-"word": "runs"
-},
-{
-"word": "across"
-},
-{
-"word": "the"
-},
-{
-"word": "able"
-},
-{
-"word": "from"
-},
-{
-"word": "front"
-},
-{
-"word": "to"
-},
-{
-"word": "back"
-}
-]
-},
-{
-"string": "The green ball",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "green"
-},
-{
-"word": "ball"
-}
-]
-},
-{
-"string": "Green sphere on the upper part of the slanted grey square.",
-"word_list":
-[
-{
-"word": "Green"
-},
-{
-"word": "sphere"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "upper"
-},
-{
-"word": "part"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "slanted"
-},
-{
-"word": "grey"
-},
-{
-"word": "square"
-}
-]
-},
-{
-"string": "Green sphere added towards the back of the surface",
-"word_list":
-[
-{
-"word": "Green"
-},
-{
-"word": "sphere"
-},
-{
-"word": "added"
-},
-{
-"word": "towards"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "Dark green spherical structure to the north of the center of platform.",
-"word_list":
-[
-{
-"word": "Dark"
-},
-{
-"word": "green"
-},
-{
-"word": "spherical"
-},
-{
-"word": "structure"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "north"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "platform"
-}
-]
-},
-{
-"string": "the green sphere is located in the top-left corner of the top-right portion of the plane.",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "green"
-},
-{
-"word": "sphere"
-},
-{
-"word": "is"
-},
-{
-"word": "located"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "left"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "right"
-},
-{
-"word": "portion"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "there is a green ball above and to the right of center of the grey shape",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "green"
-},
-{
-"word": "ball"
-},
-{
-"word": "above"
-},
-{
-"word": "and"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "of"
-},
-{
-"word": "center"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "shape"
-}
-]
-},
-{
-"string": "a green sphere sitting toward the top edge of the grey object, barely more towards the east than the west.",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "green"
-},
-{
-"word": "sphere"
-},
-{
-"word": "sitting"
-},
-{
-"word": "toward"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "edge"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "object"
-},
-{
-"word": "barely"
-},
-{
-"word": "more"
-},
-{
-"word": "towards"
-},
-{
-"word": "the"
-},
-{
-"word": "east"
-},
-{
-"word": "than"
-},
-{
-"word": "the"
-},
-{
-"word": "west"
-}
-]
-},
-{
-"string": "The green sphere is on the far end of the plane",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "green"
-},
-{
-"word": "sphere"
-},
-{
-"word": "is"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "far"
-},
-{
-"word": "end"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "A green spherish object is placed toward the right rear of the grey surface.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "green"
-},
-{
-"word": "spherish"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "toward"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "rear"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "There is a dark green sphere in the upper middle part of the gray area. ",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "dark"
-},
-{
-"word": "green"
-},
-{
-"word": "sphere"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "upper"
-},
-{
-"word": "middle"
-},
-{
-"word": "part"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "area"
-}
-]
-},
-{
-"string": "Green sphere on the near top right side of the platform.",
-"word_list":
-[
-{
-"word": "Green"
-},
-{
-"word": "sphere"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "near"
-},
-{
-"word": "top"
-},
-{
-"word": "right"
-},
-{
-"word": "side"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "platform"
-}
-]
-},
-{
-"string": "green sphere",
-"word_list":
-[
-{
-"word": "green"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "A Pakistan green ball is placed close to the furthest edge on the gray area. ",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "Pakistan"
-},
-{
-"word": "green"
-},
-{
-"word": "ball"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "close"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "furthest"
-},
-{
-"word": "edge"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "area"
-}
-]
-},
-{
-"string": "In the middle of the rear part of the plane is a green ball.",
-"word_list":
-[
-{
-"word": "In"
-},
-{
-"word": "the"
-},
-{
-"word": "middle"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "rear"
-},
-{
-"word": "part"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "green"
-},
-{
-"word": "ball"
-}
-]
-},
-{
-"string": "This new object is the same shade of green as the last two, it appears to be spherical but has flatter surfaces, and is placed in between and off to the side as the first and third (now eliminated) objects.",
-"word_list":
-[
-{
-"word": "This"
-},
-{
-"word": "new"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "the"
-},
-{
-"word": "same"
-},
-{
-"word": "shade"
-},
-{
-"word": "of"
-},
-{
-"word": "green"
-},
-{
-"word": "as"
-},
-{
-"word": "the"
-},
-{
-"word": "last"
-},
-{
-"word": "two"
-},
-{
-"word": "it"
-},
-{
-"word": "appears"
-},
-{
-"word": "to"
-},
-{
-"word": "be"
-},
-{
-"word": "spherical"
-},
-{
-"word": "but"
-},
-{
-"word": "has"
-},
-{
-"word": "flatter"
-},
-{
-"word": "surfaces"
-},
-{
-"word": "and"
-},
-{
-"word": "is"
-},
-{
-"word": "placed"
-},
-{
-"word": "in"
-},
-{
-"word": "between"
-},
-{
-"word": "and"
-},
-{
-"word": "off"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "side"
-},
-{
-"word": "as"
-},
-{
-"word": "the"
-},
-{
-"word": "first"
-},
-{
-"word": "and"
-},
-{
-"word": "third"
-},
-{
-"word": "now"
-},
-{
-"word": "eliminated"
-},
-{
-"word": "objects"
-}
-]
-},
-{
-"string": "There is a dark green sphere on the gray surface.",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "dark"
-},
-{
-"word": "green"
-},
-{
-"word": "sphere"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "A green sphere sits towards the back of the gray surface.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "green"
-},
-{
-"word": "sphere"
-},
-{
-"word": "sits"
-},
-{
-"word": "towards"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "there is a brown sphere",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "brown"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "A green sphere was placed in the northeastern hemisphere.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "green"
-},
-{
-"word": "sphere"
-},
-{
-"word": "was"
-},
-{
-"word": "placed"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "northeastern"
-},
-{
-"word": "hemisphere"
-}
-]
-},
-{
-"string": "the ball is green, and located toward the back of the plane, in the middle.",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "ball"
-},
-{
-"word": "is"
-},
-{
-"word": "green"
-},
-{
-"word": "and"
-},
-{
-"word": "located"
-},
-{
-"word": "toward"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "middle"
-}
-]
-},
-{
-"string": "Green ball on table top",
-"word_list":
-[
-{
-"word": "Green"
-},
-{
-"word": "ball"
-},
-{
-"word": "on"
-},
-{
-"word": "table"
-},
-{
-"word": "top"
-}
-]
-},
-{
-"string": "The green sphere is on the far end of the plane and slightly to the right side.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "green"
-},
-{
-"word": "sphere"
-},
-{
-"word": "is"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "far"
-},
-{
-"word": "end"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-},
-{
-"word": "and"
-},
-{
-"word": "slightly"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "right"
-},
-{
-"word": "side"
-}
-]
-},
-{
-"string": "The object is a green sphere, situated north and center on the grey plane",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "green"
-},
-{
-"word": "sphere"
-},
-{
-"word": "situated"
-},
-{
-"word": "north"
-},
-{
-"word": "and"
-},
-{
-"word": "center"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "A green sphere in the 1st quadrant",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "green"
-},
-{
-"word": "sphere"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "1st"
-},
-{
-"word": "quadrant"
-}
-]
-}
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "at"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "far"
+            }, 
+            {
+                "word": "edge"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "table"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "midline"
+            }, 
+            {
+                "word": "that"
+            }, 
+            {
+                "word": "runs"
+            }, 
+            {
+                "word": "across"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "able"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "back"
+            }
+        ], 
+        "id": 27, 
+        "string": "A green ball sits at the far edge of the table near the midline that runs across the able from front to back"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "ball"
+            }
+        ], 
+        "id": 54, 
+        "string": "The green ball"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Green"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "upper"
+            }, 
+            {
+                "word": "part"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "slanted"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 118, 
+        "string": "Green sphere on the upper part of the slanted grey square."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Green"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "towards"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "surface"
+            }
+        ], 
+        "id": 180, 
+        "string": "Green sphere added towards the back of the surface"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Dark"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "spherical"
+            }, 
+            {
+                "word": "structure"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "north"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "platform"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 247, 
+        "string": "Dark green spherical structure to the north of the center of platform."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top-left"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top-right"
+            }, 
+            {
+                "word": "portion"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 321, 
+        "string": "the green sphere is located in the top-left corner of the top-right portion of the plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "above"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "shape"
+            }
+        ], 
+        "id": 392, 
+        "string": "there is a green ball above and to the right of center of the grey shape"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "sitting"
+            }, 
+            {
+                "word": "toward"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top"
+            }, 
+            {
+                "word": "edge"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "barely"
+            }, 
+            {
+                "word": "more"
+            }, 
+            {
+                "word": "towards"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "east"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "west"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 485, 
+        "string": "a green sphere sitting toward the top edge of the grey object, barely more towards the east than the west."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "far"
+            }, 
+            {
+                "word": "end"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }
+        ], 
+        "id": 541, 
+        "string": "The green sphere is on the far end of the plane"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "spherish"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "toward"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "rear"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "surface"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 593, 
+        "string": "A green spherish object is placed toward the right rear of the grey surface."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "dark"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "upper"
+            }, 
+            {
+                "word": "middle"
+            }, 
+            {
+                "word": "part"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "area"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 650, 
+        "string": "There is a dark green sphere in the upper middle part of the gray area."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Green"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "top"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "platform"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 748, 
+        "string": "Green sphere on the near top right side of the platform."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 772, 
+        "string": "green sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "Pakistan"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "close"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "furthest"
+            }, 
+            {
+                "word": "edge"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "area"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 861, 
+        "string": "A Pakistan green ball is placed close to the furthest edge on the gray area."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "In"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "middle"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "rear"
+            }, 
+            {
+                "word": "part"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1004, 
+        "string": "In the middle of the rear part of the plane is a green ball."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "This"
+            }, 
+            {
+                "word": "new"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "same"
+            }, 
+            {
+                "word": "shade"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "as"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "last"
+            }, 
+            {
+                "word": "two"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "it"
+            }, 
+            {
+                "word": "appears"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "be"
+            }, 
+            {
+                "word": "spherical"
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "has"
+            }, 
+            {
+                "word": "flatter"
+            }, 
+            {
+                "word": "surfaces"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "off"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "as"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "first"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "third"
+            }, 
+            {
+                "word": "-LRB-"
+            }, 
+            {
+                "word": "now"
+            }, 
+            {
+                "word": "eliminated"
+            }, 
+            {
+                "word": "-RRB-"
+            }, 
+            {
+                "word": "objects"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1027, 
+        "string": "This new object is the same shade of green as the last two, it appears to be spherical but has flatter surfaces, and is placed in between and off to the side as the first and third (now eliminated) objects."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "dark"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "surface"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1147, 
+        "string": "There is a dark green sphere on the gray surface."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "towards"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "surface"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1208, 
+        "string": "A green sphere sits towards the back of the gray surface."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "brown"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 1269, 
+        "string": "there is a brown sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "northeastern"
+            }, 
+            {
+                "word": "hemisphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1316, 
+        "string": "A green sphere was placed in the northeastern hemisphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "toward"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "middle"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1332, 
+        "string": "the ball is green, and located toward the back of the plane, in the middle."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Green"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "table"
+            }, 
+            {
+                "word": "top"
+            }
+        ], 
+        "id": 1384, 
+        "string": "Green ball on table top"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "far"
+            }, 
+            {
+                "word": "end"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "slightly"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "right"
+            }, 
+            {
+                "word": "side"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1459, 
+        "string": "The green sphere is on the far end of the plane and slightly to the right side."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "situated"
+            }, 
+            {
+                "word": "north"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "plane"
+            }
+        ], 
+        "id": 1474, 
+        "string": "The object is a green sphere, situated north and center on the grey plane"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "green"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "1st"
+            }, 
+            {
+                "word": "quadrant"
+            }
+        ], 
+        "id": 1618, 
+        "string": "A green sphere in the 1st quadrant"
+    }
 ]

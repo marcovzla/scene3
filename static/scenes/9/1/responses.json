@@ -1,1169 +1,1262 @@
 [
-{
-"string": "The red left hand of purple",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "red"
-},
-{
-"word": "left"
-},
-{
-"word": "hand"
-},
-{
-"word": "of"
-},
-{
-"word": "purple"
-}
-]
-},
-{
-"string": "red box added to the left of the purple sphere",
-"word_list":
-[
-{
-"word": "red"
-},
-{
-"word": "box"
-},
-{
-"word": "added"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "red cube added to the left of sphere",
-"word_list":
-[
-{
-"word": "red"
-},
-{
-"word": "cube"
-},
-{
-"word": "added"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "red cube to the left of the sphere",
-"word_list":
-[
-{
-"word": "red"
-},
-{
-"word": "cube"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "The red cube was added to the left of the purple sphere. the red cube is near the top-left corner of the top-left portion of the plane.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "red"
-},
-{
-"word": "cube"
-},
-{
-"word": "was"
-},
-{
-"word": "added"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "sphere"
-},
-{
-"word": "the"
-},
-{
-"word": "red"
-},
-{
-"word": "cube"
-},
-{
-"word": "is"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "left"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "top"
-},
-{
-"word": "left"
-},
-{
-"word": "portion"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "there is a red box to the left of the pink ball. ",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "box"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "pink"
-},
-{
-"word": "ball"
-}
-]
-},
-{
-"string": "there is now a red box a that the sphere could fit inside and roll around a slight amount (it would be snug were the sphere a bit larger).  It is to the northwest of the sphere, close to the west edge.",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "now"
-},
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "box"
-},
-{
-"word": "a"
-},
-{
-"word": "that"
-},
-{
-"word": "the"
-},
-{
-"word": "sphere"
-},
-{
-"word": "could"
-},
-{
-"word": "fit"
-},
-{
-"word": "inside"
-},
-{
-"word": "and"
-},
-{
-"word": "roll"
-},
-{
-"word": "around"
-},
-{
-"word": "a"
-},
-{
-"word": "slight"
-},
-{
-"word": "amount"
-},
-{
-"word": "it"
-},
-{
-"word": "would"
-},
-{
-"word": "be"
-},
-{
-"word": "snug"
-},
-{
-"word": "were"
-},
-{
-"word": "the"
-},
-{
-"word": "sphere"
-},
-{
-"word": "a"
-},
-{
-"word": "bit"
-},
-{
-"word": "larger"
-},
-{
-"word": "It"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "northwest"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "sphere"
-},
-{
-"word": "close"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "west"
-},
-{
-"word": "edge"
-}
-]
-},
-{
-"string": "A small red cube is to the left of the light purple object.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "small"
-},
-{
-"word": "red"
-},
-{
-"word": "cube"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "light"
-},
-{
-"word": "purple"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "A red cube was added to the left of the pink sphere. ",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "red"
-},
-{
-"word": "cube"
-},
-{
-"word": "was"
-},
-{
-"word": "added"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "pink"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "The red cube is to the left of the purple sphere",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "red"
-},
-{
-"word": "cube"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "red square",
-"word_list":
-[
-{
-"word": "red"
-},
-{
-"word": "square"
-}
-]
-},
-{
-"string": "A small. magenta ball is on the further edge of the gray pentagon area. Left to the ball, a red cube is close to a corner of the gray area.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "small"
-},
-{
-"word": "magenta"
-},
-{
-"word": "ball"
-},
-{
-"word": "is"
-},
-{
-"word": "on"
-},
-{
-"word": "the"
-},
-{
-"word": "further"
-},
-{
-"word": "edge"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "pentagon"
-},
-{
-"word": "area"
-},
-{
-"word": "Left"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "ball"
-},
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "cube"
-},
-{
-"word": "is"
-},
-{
-"word": "close"
-},
-{
-"word": "to"
-},
-{
-"word": "a"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "area"
-}
-]
-},
-{
-"string": "The cube is in the back corner of the plane, near the ball.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "cube"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "plane"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "ball"
-}
-]
-},
-{
-"string": "The red box is larger than the purple and placed very near the back of the picture but to the left of Purple.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "red"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "larger"
-},
-{
-"word": "than"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "and"
-},
-{
-"word": "placed"
-},
-{
-"word": "very"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "picture"
-},
-{
-"word": "but"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "Purple"
-}
-]
-},
-{
-"string": "There is a red brick to the left of the purple sphere.",
-"word_list":
-[
-{
-"word": "There"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "brick"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "A red cube sits towards the back corner of the gray surface.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "red"
-},
-{
-"word": "cube"
-},
-{
-"word": "sits"
-},
-{
-"word": "towards"
-},
-{
-"word": "the"
-},
-{
-"word": "back"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "gray"
-},
-{
-"word": "surface"
-}
-]
-},
-{
-"string": "there is a brown block to the left of the sphere",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "brown"
-},
-{
-"word": "block"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": " A red cube was placed west of the pink sphere.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "red"
-},
-{
-"word": "cube"
-},
-{
-"word": "was"
-},
-{
-"word": "placed"
-},
-{
-"word": "west"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "pink"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "the box is red, and is to the left of the magenta ball. The box is in line with the magenta ball",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "red"
-},
-{
-"word": "and"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "magenta"
-},
-{
-"word": "ball"
-},
-{
-"word": "The"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "line"
-},
-{
-"word": "with"
-},
-{
-"word": "the"
-},
-{
-"word": "magenta"
-},
-{
-"word": "ball"
-}
-]
-},
-{
-"string": "red block placed to left of pink ball",
-"word_list":
-[
-{
-"word": "red"
-},
-{
-"word": "block"
-},
-{
-"word": "placed"
-},
-{
-"word": "to"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "pink"
-},
-{
-"word": "ball"
-}
-]
-},
-{
-"string": "The red rectangle is to the left of the small purple sphere.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "red"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "is"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "small"
-},
-{
-"word": "purple"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "The object is a small red cube located in the upper-left corner of the grey plane",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "small"
-},
-{
-"word": "red"
-},
-{
-"word": "cube"
-},
-{
-"word": "located"
-},
-{
-"word": "in"
-},
-{
-"word": "the"
-},
-{
-"word": "upper"
-},
-{
-"word": "left"
-},
-{
-"word": "corner"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "grey"
-},
-{
-"word": "plane"
-}
-]
-},
-{
-"string": "a red block west of the purple sphere",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "block"
-},
-{
-"word": "west"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "purple"
-},
-{
-"word": "sphere"
-}
-]
-},
-{
-"string": "ON the 10 o. clock there is a red cube.",
-"word_list":
-[
-{
-"word": "ON"
-},
-{
-"word": "the"
-},
-{
-"word": "10"
-},
-{
-"word": "o"
-},
-{
-"word": "clock"
-},
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "red"
-},
-{
-"word": "cube"
-}
-]
-}
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "hand"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "purple"
+            }
+        ], 
+        "id": 69, 
+        "string": "The red left hand of purple"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 134, 
+        "string": "red box added to the left of the purple sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 195, 
+        "string": "red cube added to the left of sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 262, 
+        "string": "red cube to the left of the sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 350, 
+        "string": "The red cube was added to the left of the purple sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top-left"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "top-left"
+            }, 
+            {
+                "word": "portion"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 351, 
+        "string": "the red cube is near the top-left corner of the top-left portion of the plane."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 430, 
+        "string": "there is a red box to the left of the pink ball."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "now"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "that"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "could"
+            }, 
+            {
+                "word": "fit"
+            }, 
+            {
+                "word": "inside"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "roll"
+            }, 
+            {
+                "word": "around"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "slight"
+            }, 
+            {
+                "word": "amount"
+            }, 
+            {
+                "word": "-LRB-"
+            }, 
+            {
+                "word": "it"
+            }, 
+            {
+                "word": "would"
+            }, 
+            {
+                "word": "be"
+            }, 
+            {
+                "word": "snug"
+            }, 
+            {
+                "word": "were"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "bit"
+            }, 
+            {
+                "word": "larger"
+            }, 
+            {
+                "word": "-RRB-"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 525, 
+        "string": "there is now a red box a that the sphere could fit inside and roll around a slight amount (it would be snug were the sphere a bit larger)."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "It"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "northwest"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "close"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "west"
+            }, 
+            {
+                "word": "edge"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 526, 
+        "string": "It is to the northwest of the sphere, close to the west edge."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "light"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 608, 
+        "string": "A small red cube is to the left of the light purple object."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 665, 
+        "string": "A red cube was added to the left of the pink sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 688, 
+        "string": "The red cube is to the left of the purple sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "square"
+            }
+        ], 
+        "id": 787, 
+        "string": "red square"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 905, 
+        "string": "A small."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "on"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "further"
+            }, 
+            {
+                "word": "edge"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "pentagon"
+            }, 
+            {
+                "word": "area"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 906, 
+        "string": "magenta ball is on the further edge of the gray pentagon area."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Left"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "close"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "area"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 907, 
+        "string": "Left to the ball, a red cube is close to a corner of the gray area."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 972, 
+        "string": "The cube is in the back corner of the plane, near the ball."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "larger"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "very"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "picture"
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "Purple"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1083, 
+        "string": "The red box is larger than the purple and placed very near the back of the picture but to the left of Purple."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "There"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1156, 
+        "string": "There is a red brick to the left of the purple sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "towards"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "surface"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1212, 
+        "string": "A red cube sits towards the back corner of the gray surface."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "brown"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 1267, 
+        "string": "there is a brown block to the left of the sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "west"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1288, 
+        "string": "A red cube was placed west of the pink sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "ball"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1371, 
+        "string": "the box is red, and is to the left of the magenta ball."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "line"
+            }, 
+            {
+                "word": "with"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "magenta"
+            }, 
+            {
+                "word": "ball"
+            }
+        ], 
+        "id": 1372, 
+        "string": "The box is in line with the magenta ball"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "pink"
+            }, 
+            {
+                "word": "ball"
+            }
+        ], 
+        "id": 1410, 
+        "string": "red block placed to left of pink ball"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "sphere"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1509, 
+        "string": "The red rectangle is to the left of the small purple sphere."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "small"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "upper-left"
+            }, 
+            {
+                "word": "corner"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "gray"
+            }, 
+            {
+                "word": "plane"
+            }
+        ], 
+        "id": 1568, 
+        "string": "The object is a small red cube located in the upper-left corner of the grey plane"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "west"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "purple"
+            }, 
+            {
+                "word": "sphere"
+            }
+        ], 
+        "id": 1586, 
+        "string": "a red block west of the purple sphere"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "ON"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "10"
+            }, 
+            {
+                "word": "o."
+            }, 
+            {
+                "word": "clock"
+            }, 
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "red"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1656, 
+        "string": "ON the 10 o. clock there is a red cube."
+    }
 ]

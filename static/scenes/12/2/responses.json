@@ -1,1103 +1,1193 @@
 [
-{
-"string": "the further blue object",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "further"
-},
-{
-"word": "blue"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "bigger blue box added above the other blue box.",
-"word_list":
-[
-{
-"word": "bigger"
-},
-{
-"word": "blue"
-},
-{
-"word": "box"
-},
-{
-"word": "added"
-},
-{
-"word": "above"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "blue"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "box-like prism added behind original object",
-"word_list":
-[
-{
-"word": "box"
-},
-{
-"word": "like"
-},
-{
-"word": "prism"
-},
-{
-"word": "added"
-},
-{
-"word": "behind"
-},
-{
-"word": "original"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "Very large blue cube sitting behind other two objects",
-"word_list":
-[
-{
-"word": "Very"
-},
-{
-"word": "large"
-},
-{
-"word": "blue"
-},
-{
-"word": "cube"
-},
-{
-"word": "sitting"
-},
-{
-"word": "behind"
-},
-{
-"word": "other"
-},
-{
-"word": "two"
-},
-{
-"word": "objects"
-}
-]
-},
-{
-"string": "the blue cube was added up from the blue square. the distance between each object is the same.",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "cube"
-},
-{
-"word": "was"
-},
-{
-"word": "added"
-},
-{
-"word": "up"
-},
-{
-"word": "from"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "square"
-},
-{
-"word": "the"
-},
-{
-"word": "distance"
-},
-{
-"word": "between"
-},
-{
-"word": "each"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "the"
-},
-{
-"word": "same"
-}
-]
-},
-{
-"string": "there is a blue box above the blue rectangle",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "blue"
-},
-{
-"word": "box"
-},
-{
-"word": "above"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "rectangle"
-}
-]
-},
-{
-"string": "a new blue box, positioned to the north of the old one, is a little less wide, and a little less tall, but about 2.5 times as thick as the old blue box.",
-"word_list":
-[
-{
-"word": "a"
-},
-{
-"word": "new"
-},
-{
-"word": "blue"
-},
-{
-"word": "box"
-},
-{
-"word": "positioned"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "north"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "old"
-},
-{
-"word": "one"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "little"
-},
-{
-"word": "less"
-},
-{
-"word": "wide"
-},
-{
-"word": "and"
-},
-{
-"word": "a"
-},
-{
-"word": "little"
-},
-{
-"word": "less"
-},
-{
-"word": "tall"
-},
-{
-"word": "but"
-},
-{
-"word": "about"
-},
-{
-"word": "2"
-},
-{
-"word": "5"
-},
-{
-"word": "times"
-},
-{
-"word": "as"
-},
-{
-"word": "thick"
-},
-{
-"word": "as"
-},
-{
-"word": "the"
-},
-{
-"word": "old"
-},
-{
-"word": "blue"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "A larger blue cuboid box is behind the other one.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "larger"
-},
-{
-"word": "blue"
-},
-{
-"word": "cuboid"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "one"
-}
-]
-},
-{
-"string": "A bigger blue cube was added above the first blue object. ",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "bigger"
-},
-{
-"word": "blue"
-},
-{
-"word": "cube"
-},
-{
-"word": "was"
-},
-{
-"word": "added"
-},
-{
-"word": "above"
-},
-{
-"word": "the"
-},
-{
-"word": "first"
-},
-{
-"word": "blue"
-},
-{
-"word": "object"
-}
-]
-},
-{
-"string": "the blue box is in between the yellow and blue boxes",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "yellow"
-},
-{
-"word": "and"
-},
-{
-"word": "blue"
-},
-{
-"word": "boxes"
-}
-]
-},
-{
-"string": "blue cube",
-"word_list":
-[
-{
-"word": "blue"
-},
-{
-"word": "cube"
-}
-]
-},
-{
-"string": "A blue cereal box stand sidewase left to the center. A yellowish lunch box is in front of the blue box. A blue storage box is behind the blue cereal box.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "blue"
-},
-{
-"word": "cereal"
-},
-{
-"word": "box"
-},
-{
-"word": "stand"
-},
-{
-"word": "sidewase"
-},
-{
-"word": "left"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "center"
-},
-{
-"word": "A"
-},
-{
-"word": "yellowish"
-},
-{
-"word": "lunch"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "in"
-},
-{
-"word": "front"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "box"
-},
-{
-"word": "A"
-},
-{
-"word": "blue"
-},
-{
-"word": "storage"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "cereal"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "Behind the blue rectangular prisim is a blue cube.",
-"word_list":
-[
-{
-"word": "Behind"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prisim"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "blue"
-},
-{
-"word": "cube"
-}
-]
-},
-{
-"string": "A new blue object has been added, it is bigger than the other two objects and placed behind them.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "new"
-},
-{
-"word": "blue"
-},
-{
-"word": "object"
-},
-{
-"word": "has"
-},
-{
-"word": "been"
-},
-{
-"word": "added"
-},
-{
-"word": "it"
-},
-{
-"word": "is"
-},
-{
-"word": "bigger"
-},
-{
-"word": "than"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "two"
-},
-{
-"word": "objects"
-},
-{
-"word": "and"
-},
-{
-"word": "placed"
-},
-{
-"word": "behind"
-},
-{
-"word": "them"
-}
-]
-},
-{
-"string": "The big blue brick is behind the other two.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "big"
-},
-{
-"word": "blue"
-},
-{
-"word": "brick"
-},
-{
-"word": "is"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "two"
-}
-]
-},
-{
-"string": "A large blue box sits behind the blue rectangle.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "large"
-},
-{
-"word": "blue"
-},
-{
-"word": "box"
-},
-{
-"word": "sits"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "rectangle"
-}
-]
-},
-{
-"string": "there is a large blue square behind the smaller blue block",
-"word_list":
-[
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "large"
-},
-{
-"word": "blue"
-},
-{
-"word": "square"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "smaller"
-},
-{
-"word": "blue"
-},
-{
-"word": "block"
-}
-]
-},
-{
-"string": "A large blue cube was placed north of the tall blue rectangular prism.",
-"word_list":
-[
-{
-"word": "A"
-},
-{
-"word": "large"
-},
-{
-"word": "blue"
-},
-{
-"word": "cube"
-},
-{
-"word": "was"
-},
-{
-"word": "placed"
-},
-{
-"word": "north"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "tall"
-},
-{
-"word": "blue"
-},
-{
-"word": "rectangular"
-},
-{
-"word": "prism"
-}
-]
-},
-{
-"string": "the box is blue and larger than the other blue box, and sits behind and a little to the left of the  other blue box",
-"word_list":
-[
-{
-"word": "the"
-},
-{
-"word": "box"
-},
-{
-"word": "is"
-},
-{
-"word": "blue"
-},
-{
-"word": "and"
-},
-{
-"word": "larger"
-},
-{
-"word": "than"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "blue"
-},
-{
-"word": "box"
-},
-{
-"word": "and"
-},
-{
-"word": "sits"
-},
-{
-"word": "behind"
-},
-{
-"word": "and"
-},
-{
-"word": "a"
-},
-{
-"word": "little"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "left"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "other"
-},
-{
-"word": "blue"
-},
-{
-"word": "box"
-}
-]
-},
-{
-"string": "blue square block placed in back of other blocks",
-"word_list":
-[
-{
-"word": "blue"
-},
-{
-"word": "square"
-},
-{
-"word": "block"
-},
-{
-"word": "placed"
-},
-{
-"word": "in"
-},
-{
-"word": "back"
-},
-{
-"word": "of"
-},
-{
-"word": "other"
-},
-{
-"word": "blocks"
-}
-]
-},
-{
-"string": "The large blue cube is behind the skinny blue box and slightly to it's left.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "large"
-},
-{
-"word": "blue"
-},
-{
-"word": "cube"
-},
-{
-"word": "is"
-},
-{
-"word": "behind"
-},
-{
-"word": "the"
-},
-{
-"word": "skinny"
-},
-{
-"word": "blue"
-},
-{
-"word": "box"
-},
-{
-"word": "and"
-},
-{
-"word": "slightly"
-},
-{
-"word": "to"
-},
-{
-"word": "it's"
-},
-{
-"word": "left"
-}
-]
-},
-{
-"string": "The object is a large blue cube, located north to the blue rectangle and halfway between the plane's upper edge and the blue rectangle ",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "object"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "large"
-},
-{
-"word": "blue"
-},
-{
-"word": "cube"
-},
-{
-"word": "located"
-},
-{
-"word": "north"
-},
-{
-"word": "to"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "and"
-},
-{
-"word": "halfway"
-},
-{
-"word": "between"
-},
-{
-"word": "the"
-},
-{
-"word": "plane's"
-},
-{
-"word": "upper"
-},
-{
-"word": "edge"
-},
-{
-"word": "and"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "rectangle"
-}
-]
-},
-{
-"string": "The yellow block is south of the blue block.",
-"word_list":
-[
-{
-"word": "The"
-},
-{
-"word": "yellow"
-},
-{
-"word": "block"
-},
-{
-"word": "is"
-},
-{
-"word": "south"
-},
-{
-"word": "of"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "block"
-}
-]
-},
-{
-"string": "Now there is a bigger blue cube near the blue rectangle cube.",
-"word_list":
-[
-{
-"word": "Now"
-},
-{
-"word": "there"
-},
-{
-"word": "is"
-},
-{
-"word": "a"
-},
-{
-"word": "bigger"
-},
-{
-"word": "blue"
-},
-{
-"word": "cube"
-},
-{
-"word": "near"
-},
-{
-"word": "the"
-},
-{
-"word": "blue"
-},
-{
-"word": "rectangle"
-},
-{
-"word": "cube"
-}
-]
-}
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "further"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "object"
+            }
+        ], 
+        "id": 80, 
+        "string": "the further blue object"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "bigger"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "above"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 148, 
+        "string": "bigger blue box added above the other blue box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "box-like"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "original"
+            }, 
+            {
+                "word": "object"
+            }
+        ], 
+        "id": 206, 
+        "string": "box-like prism added behind original object"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Very"
+            }, 
+            {
+                "word": "large"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "sitting"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "two"
+            }, 
+            {
+                "word": "objects"
+            }
+        ], 
+        "id": 273, 
+        "string": "Very large blue cube sitting behind other two objects"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "up"
+            }, 
+            {
+                "word": "from"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 382, 
+        "string": "the blue cube was added up from the blue square."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "distance"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "each"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "same"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 383, 
+        "string": "the distance between each object is the same."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "above"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "rectangle"
+            }
+        ], 
+        "id": 441, 
+        "string": "there is a blue box above the blue rectangle"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "new"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "positioned"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "north"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "old"
+            }, 
+            {
+                "word": "one"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "little"
+            }, 
+            {
+                "word": "less"
+            }, 
+            {
+                "word": "wide"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "little"
+            }, 
+            {
+                "word": "less"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "but"
+            }, 
+            {
+                "word": "about"
+            }, 
+            {
+                "word": "2.5"
+            }, 
+            {
+                "word": "times"
+            }, 
+            {
+                "word": "as"
+            }, 
+            {
+                "word": "thick"
+            }, 
+            {
+                "word": "as"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "old"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 549, 
+        "string": "a new blue box, positioned to the north of the old one, is a little less wide, and a little less tall, but about 2.5 times as thick as the old blue box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "larger"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "cuboid"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "one"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 619, 
+        "string": "A larger blue cuboid box is behind the other one."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "bigger"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": "above"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "first"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 676, 
+        "string": "A bigger blue cube was added above the first blue object."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "boxes"
+            }
+        ], 
+        "id": 706, 
+        "string": "the blue box is in between the yellow and blue boxes"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "cube"
+            }
+        ], 
+        "id": 798, 
+        "string": "blue cube"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "cereal"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "stand"
+            }, 
+            {
+                "word": "sidewase"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "center"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 929, 
+        "string": "A blue cereal box stand sidewase left to the center."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "yellowish"
+            }, 
+            {
+                "word": "lunch"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "front"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 930, 
+        "string": "A yellowish lunch box is in front of the blue box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "storage"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "cereal"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 931, 
+        "string": "A blue storage box is behind the blue cereal box."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prisim"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 984, 
+        "string": "Behind the blue rectangular prisim is a blue cube."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "new"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "has"
+            }, 
+            {
+                "word": "been"
+            }, 
+            {
+                "word": "added"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "it"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "bigger"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "two"
+            }, 
+            {
+                "word": "objects"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "them"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1088, 
+        "string": "A new blue object has been added, it is bigger than the other two objects and placed behind them."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "big"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "brick"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "two"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1152, 
+        "string": "The big blue brick is behind the other two."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "large"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1224, 
+        "string": "A large blue box sits behind the blue rectangle."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "large"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "smaller"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "block"
+            }
+        ], 
+        "id": 1274, 
+        "string": "there is a large blue square behind the smaller blue block"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "A"
+            }, 
+            {
+                "word": "large"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "was"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "north"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "tall"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "rectangular"
+            }, 
+            {
+                "word": "prism"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1292, 
+        "string": "A large blue cube was placed north of the tall blue rectangular prism."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "larger"
+            }, 
+            {
+                "word": "than"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "sits"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "little"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "box"
+            }
+        ], 
+        "id": 1366, 
+        "string": "the box is blue and larger than the other blue box, and sits behind and a little to the left of the  other blue box"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "square"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "placed"
+            }, 
+            {
+                "word": "in"
+            }, 
+            {
+                "word": "back"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "other"
+            }, 
+            {
+                "word": "blocks"
+            }
+        ], 
+        "id": 1394, 
+        "string": "blue square block placed in back of other blocks"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "large"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "behind"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "skinny"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "box"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "slightly"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "it"
+            }, 
+            {
+                "word": "'s"
+            }, 
+            {
+                "word": "left"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1539, 
+        "string": "The large blue cube is behind the skinny blue box and slightly to it's left."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "object"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "large"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": ","
+            }, 
+            {
+                "word": "located"
+            }, 
+            {
+                "word": "north"
+            }, 
+            {
+                "word": "to"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "halfway"
+            }, 
+            {
+                "word": "between"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "plane"
+            }, 
+            {
+                "word": "'s"
+            }, 
+            {
+                "word": "upper"
+            }, 
+            {
+                "word": "edge"
+            }, 
+            {
+                "word": "and"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "rectangle"
+            }
+        ], 
+        "id": 1555, 
+        "string": "The object is a large blue cube, located north to the blue rectangle and halfway between the plane's upper edge and the blue rectangle"
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "The"
+            }, 
+            {
+                "word": "yellow"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "south"
+            }, 
+            {
+                "word": "of"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "block"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1597, 
+        "string": "The yellow block is south of the blue block."
+    }, 
+    {
+        "word_list": [
+            {
+                "word": "Now"
+            }, 
+            {
+                "word": "there"
+            }, 
+            {
+                "word": "is"
+            }, 
+            {
+                "word": "a"
+            }, 
+            {
+                "word": "bigger"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "near"
+            }, 
+            {
+                "word": "the"
+            }, 
+            {
+                "word": "blue"
+            }, 
+            {
+                "word": "rectangle"
+            }, 
+            {
+                "word": "cube"
+            }, 
+            {
+                "word": "."
+            }
+        ], 
+        "id": 1631, 
+        "string": "Now there is a bigger blue cube near the blue rectangle cube."
+    }
 ]
