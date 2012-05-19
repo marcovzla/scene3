@@ -2,1447 +2,1575 @@
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 7, 
+        ],
+        "id": 7,
         "string": "The yellow cylinder is to the left of the blue sphere."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "small"
-            }, 
+                "word": "small",
+                "object_binding": 1
+            },
             {
-                "word": "gold"
-            }, 
+                "word": "gold",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "near"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "back"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "corner"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "table"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 16, 
+        ],
+        "id": 16,
         "string": "a small gold cylinder is near the back left corner of the table."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 1
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 43, 
+        ],
+        "id": 43,
         "string": "The yellow object."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Yellow"
-            }, 
+                "word": "Yellow",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "located"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "upper"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "slanted"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "square"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 107, 
+        ],
+        "id": 107,
         "string": "Yellow cylinder located in upper right of slanted grey square."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "slightly"
-            }, 
+            },
             {
                 "word": "farther"
-            }, 
+            },
             {
                 "word": "than"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
+                "word": "sphere",
+                "object_binding": 0
             }
-        ], 
-        "id": 160, 
+        ],
+        "id": 160,
         "string": "yellow cylinder added to the left and slightly farther than the sphere"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 1
+            },
             {
-                "word": "cylindrical"
-            }, 
+                "word": "cylindrical",
+                "object_binding": 1
+            },
             {
-                "word": "structure"
-            }, 
+                "word": "structure",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 0
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "standing"
-            }, 
+            },
             {
                 "word": "upright"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 233, 
+        ],
+        "id": 233,
         "string": "The cylindrical structure is behind the blue object and is standing upright."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "was"
-            }, 
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "up"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 297, 
+        ],
+        "id": 297,
         "string": "The yellow cylinder was added up and to the left of the blue sphere."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "near"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "top"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "top-left"
-            }, 
+            },
             {
                 "word": "portion"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 298, 
+        ],
+        "id": 298,
         "string": "The yellow cylinder is near the top of the top-left portion of the plane."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "there"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "located"
-            }, 
+            },
             {
                 "word": "above"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "ball"
-            }, 
+                "word": "ball",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 368, 
+        ],
+        "id": 368,
         "string": "there is a yellow cylinder located above and to the left of the blue ball."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "stationed"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "northwest"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 466, 
+        ],
+        "id": 466,
         "string": "A yellow cylinder, stationed to the northwest of the blue sphere."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "I"
-            }, 
+            },
             {
                 "word": "also"
-            }, 
+            },
             {
                 "word": "now"
-            }, 
+            },
             {
                 "word": "realize"
-            }, 
+            },
             {
                 "word": "that"
-            }, 
+            },
             {
                 "word": "I"
-            }, 
+            },
             {
                 "word": "probably"
-            }, 
+            },
             {
                 "word": "used"
-            }, 
+            },
             {
                 "word": "directions"
-            }, 
+            },
             {
                 "word": "wrong"
-            }, 
+            },
             {
                 "word": "before"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 467, 
+        ],
+        "id": 467,
         "string": "I also now realize that I probably used directions wrong before."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "I"
-            }, 
+            },
             {
                 "word": "am"
-            }, 
+            },
             {
                 "word": "directionally"
-            }, 
+            },
             {
                 "word": "retarded"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "forgive"
-            }, 
+            },
             {
                 "word": "me"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 468, 
+        ],
+        "id": 468,
         "string": "I am directionally retarded, forgive me."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
+                "word": "sphere",
+                "object_binding": 0
             }
-        ], 
-        "id": 497, 
+        ],
+        "id": 497,
         "string": "The yellow cylinder is to the left of the blue sphere"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "3D"
-            }, 
+                "word": "3D",
+                "object_binding": 1
+            },
             {
-                "word": "octagon"
-            }, 
+                "word": "octagon",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 582, 
+        ],
+        "id": 582,
         "string": "A yellow 3D octagon is placed to the left and behind the blue object."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "There"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "now"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 1
+            },
             {
                 "word": "that"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "towards"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "upper"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "corner"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "area"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 639, 
+        ],
+        "id": 639,
         "string": "There is now a yellow object that is to the left and towards the upper left corner of the area."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "was"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "west"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "very"
-            }, 
+            },
             {
                 "word": "slightly"
-            }, 
+            },
             {
                 "word": "north"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 722, 
+        ],
+        "id": 722,
         "string": "A yellow cylinder was placed west and very slightly north of the blue sphere."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "They"
-            }, 
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "next"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 733, 
+        ],
+        "id": 733,
         "string": "They added a cylinder next to the blue sphere."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "near"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "top"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "side"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 734, 
+        ],
+        "id": 734,
         "string": "The yellow sphere is near the top left side."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "cylinderical"
-            }, 
+                "word": "cylinderical",
+                "object_binding": 1
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 1
+            },
             {
                 "word": "further"
-            }, 
+            },
             {
                 "word": "from"
-            }, 
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
+                "word": "sphere",
+                "object_binding": 0
             }
-        ], 
-        "id": 761, 
+        ],
+        "id": 761,
         "string": "yellow cylinderical object further from blue sphere"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "furthest"
-            }, 
+            },
             {
                 "word": "edge"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "huge"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "pentagon"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "mat"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 830, 
+        ],
+        "id": 830,
         "string": "A blue sphere is placed on the furthest edge of a huge, pentagon, gray mat."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 1
+            },
             {
-                "word": "short"
-            }, 
+                "word": "short",
+                "object_binding": 1
+            },
             {
                 "word": ","
-            }, 
+            },
             {
-                "word": "olive-colored"
-            }, 
+                "word": "olive-colored",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "close"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "furthest"
-            }, 
+            },
             {
                 "word": "corner"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "same"
-            }, 
+            },
             {
                 "word": "mat"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 831, 
+        ],
+        "id": 831,
         "string": "A short, olive-colored cylinder is placed left to the sphere, close of the furthest corner on the same mat."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "There"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "light"
-            }, 
+            },
             {
                 "word": "source"
-            }, 
+            },
             {
                 "word": "from"
-            }, 
+            },
             {
                 "word": "4"
-            }, 
+            },
             {
                 "word": "o'clock"
-            }, 
+            },
             {
                 "word": "direction"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 832, 
+        ],
+        "id": 832,
         "string": "There is a light source from 4 o'clock direction."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "In"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "back"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "side"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "cyilider"
-            }, 
+                "word": "cyilider",
+                "object_binding": 1
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1001, 
+        ],
+        "id": 1001,
         "string": "In the back left side of the plane is a yellow cyilider."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "This"
-            }, 
+                "word": "This",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "octahedron"
-            }, 
+                "word": "octahedron",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "smaller"
-            }, 
+            },
             {
                 "word": "than"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "ball"
-            }, 
+                "word": "ball",
+                "object_binding": 0
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "appears"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "be"
-            }, 
+            },
             {
                 "word": "very"
-            }, 
+            },
             {
                 "word": "back"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "picture"
             }
-        ], 
-        "id": 1044, 
+        ],
+        "id": 1044,
         "string": "This yellow octahedron is smaller than the ball and appears to be very back in the picture"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Yellow"
-            }, 
+                "word": "Yellow",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "across"
-            }, 
+            },
             {
                 "word": "from"
-            }, 
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
+                "word": "sphere",
+                "object_binding": 0
             }
-        ], 
-        "id": 1110, 
+        ],
+        "id": 1110,
         "string": "Yellow cylinder across from blue sphere"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1200, 
+        ],
+        "id": 1200,
         "string": "A yellow cylinder sits to the left of the blue sphere."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 1
+            },
             {
-                "word": "orange"
-            }, 
+                "word": "orange",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "more"
-            }, 
+            },
             {
                 "word": "distant"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "ball"
+                "word": "ball",
+                "object_binding": 0
             }
-        ], 
-        "id": 1235, 
+        ],
+        "id": 1235,
         "string": "the orange cylinder is more distant and to the left of the blue ball"
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "cylinder"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "yellow"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "located"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "blue"
-            }, 
+            },
             {
                 "word": "ball"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1320, 
+        ],
+        "id": 1320,
         "string": "the cylinder is yellow, and is located to the left of the blue ball."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "back"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "ball"
+                "word": "ball",
+                "object_binding": 0
             }
-        ], 
-        "id": 1398, 
+        ],
+        "id": 1398,
         "string": "yellow cylinder placed to left and back of blue ball"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "slightly"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1450, 
+        ],
+        "id": 1450,
         "string": "The cylinder is to the left of and slightly behind the sphere."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "The"
-            }, 
+            },
             {
                 "word": "object"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "yellow"
-            }, 
+            },
             {
                 "word": "cylinder"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "situated"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "upper"
-            }, 
+            },
             {
                 "word": "left-hand"
-            }, 
+            },
             {
                 "word": "corner"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "with"
-            }, 
+            },
             {
                 "word": "respects"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "blue"
-            }, 
+            },
             {
                 "word": "sphere"
             }
-        ], 
-        "id": 1486, 
+        ],
+        "id": 1486,
         "string": "The object is a yellow cylinder, situated to the upper left-hand corner on the grey plane, with respects to the blue sphere"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "northwest"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "original"
-            }, 
+                "word": "original",
+                "object_binding": 0
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1615, 
+        ],
+        "id": 1615,
         "string": "a yellow cylinder northwest of the original object."
     }
 ]
