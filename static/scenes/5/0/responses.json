@@ -2,1195 +2,1275 @@
     {
         "word_list": [
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "tiny"
-            }, 
+                "word": "tiny",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "table"
             }
-        ], 
-        "id": 24, 
+        ],
+        "id": 24,
         "string": "a tiny blue cylinder is on the table"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 0
+            },
             {
                 "word": "at"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "middle"
-            }, 
+            },
             {
                 "word": "left"
             }
-        ], 
-        "id": 51, 
+        ],
+        "id": 51,
         "string": "The blue object at the middle left"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "small"
-            }, 
+                "word": "small",
+                "object_binding": 0
+            },
             {
-                "word": "teal"
-            }, 
+                "word": "teal",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "middle"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "slanted"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "square"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 115, 
+        ],
+        "id": 115,
         "string": "small teal cylinder in the right middle of the slanted grey square."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "small"
-            }, 
+                "word": "small",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "towards"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "surface"
             }
-        ], 
-        "id": 176, 
+        ],
+        "id": 176,
         "string": "small blue cylinder placed towards the center of the surface"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Small"
-            }, 
+                "word": "Small",
+                "object_binding": 0
+            },
             {
-                "word": "light"
-            }, 
+                "word": "light",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "platform"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 242, 
+        ],
+        "id": 242,
         "string": "Small light blue cylinder to the right of the center of the platform."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "near"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "bottom-left"
-            }, 
+            },
             {
                 "word": "corner"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "top-right"
-            }, 
+            },
             {
                 "word": "portion"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 315, 
+        ],
+        "id": 315,
         "string": "The blue cylinder is near the bottom-left corner of the top-right portion of the plane."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "smaller"
-            }, 
+            },
             {
                 "word": "than"
-            }, 
+            },
             {
                 "word": "average"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 316, 
+        ],
+        "id": 316,
         "string": "The blue cylinder is smaller than average."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "there"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "light"
-            }, 
+                "word": "light",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "shape"
             }
-        ], 
-        "id": 387, 
+        ],
+        "id": 387,
         "string": "there is a light blue cylinder to the right of center on the grey shape"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "small"
-            }, 
+                "word": "small",
+                "object_binding": 0
+            },
             {
                 "word": ","
-            }, 
+            },
             {
-                "word": "very"
-            }, 
+                "word": "very",
+                "object_binding": 0
+            },
             {
-                "word": "light"
-            }, 
+                "word": "light",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": "just"
-            }, 
+            },
             {
                 "word": "west"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "origin"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "this"
-            }, 
+            },
             {
                 "word": "strange"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "object"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 479, 
+        ],
+        "id": 479,
         "string": "a small, very light blue cylinder sits just west of the origin of this strange grey object."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "The"
-            }, 
+            },
             {
                 "word": "diameter"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "close"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "height"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 480, 
+        ],
+        "id": 480,
         "string": "The diameter is close to the height."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Th"
-            }, 
+                "word": "Th",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "middle"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
             }
-        ], 
-        "id": 537, 
+        ],
+        "id": 537,
         "string": "Th blue cylinder is to the right of the middle of the plane"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "small"
-            }, 
+                "word": "small",
+                "object_binding": 0
+            },
             {
-                "word": "3D"
-            }, 
+                "word": "3D",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "octagon"
-            }, 
+                "word": "octagon",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "toward"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "back"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "surface"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 590, 
+        ],
+        "id": 590,
         "string": "A small 3D blue octagon is placed toward the back right of the grey surface."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "There"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "small"
-            }, 
+                "word": "small",
+                "object_binding": 0
+            },
             {
-                "word": "turquoise"
-            }, 
+                "word": "turquoise",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "middle"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "side"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "area"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 647, 
+        ],
+        "id": 647,
         "string": "There is small turquoise cylinder in the middle right side of the gray area."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Cyan"
-            }, 
+                "word": "Cyan",
+                "object_binding": 0
+            },
             {
-                "word": "color"
-            }, 
+                "word": "color",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "middle"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "pentagon"
-            }, 
+            },
             {
                 "word": "looking"
-            }, 
+            },
             {
                 "word": "shape"
-            }, 
+            },
             {
                 "word": "platform"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 745, 
+        ],
+        "id": 745,
         "string": "Cyan color cylinder on the middle of the pentagon looking shape platform."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "teal"
-            }, 
+                "word": "teal",
+                "object_binding": 0
+            },
             {
-                "word": "3d"
-            }, 
+                "word": "3d",
+                "object_binding": 0
+            },
             {
-                "word": "cylinderical"
-            }, 
+                "word": "cylinderical",
+                "object_binding": 0
+            },
             {
-                "word": "tube"
+                "word": "tube",
+                "object_binding": 0
             }
-        ], 
-        "id": 769, 
+        ],
+        "id": 769,
         "string": "teal 3d cylinderical tube"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "short"
-            }, 
+                "word": "short",
+                "object_binding": 0
+            },
             {
                 "word": ","
-            }, 
+            },
             {
-                "word": "cyan"
-            }, 
+                "word": "cyan",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "at"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "area"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 857, 
+        ],
+        "id": 857,
         "string": "A short, cyan cylinder is at the center of the gray area."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 966, 
+        ],
+        "id": 966,
         "string": "The cylinder is in the center of the plane."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "This"
-            }, 
+                "word": "This",
+                "object_binding": 0
+            },
             {
-                "word": "light"
-            }, 
+                "word": "light",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "very"
-            }, 
+            },
             {
                 "word": "small"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "has"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "very"
-            }, 
+            },
             {
                 "word": "long"
-            }, 
+            },
             {
                 "word": "shadow"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1050, 
+        ],
+        "id": 1050,
         "string": "This light blue cylinder is very small and has a very long shadow."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "It"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "toward"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right-middle"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1051, 
+        ],
+        "id": 1051,
         "string": "It is toward the right-middle."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "There"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "teal"
-            }, 
+                "word": "teal",
+                "object_binding": 0
+            },
             {
-                "word": "brick"
-            }, 
+                "word": "brick",
+                "object_binding": 0
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "surface"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1134, 
+        ],
+        "id": 1134,
         "string": "There is a teal brick on the gray surface."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "teal"
-            }, 
+                "word": "teal",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "was"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "near"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "enter"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "easter"
-            }, 
+            },
             {
                 "word": "hemisphere"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1162, 
+        ],
+        "id": 1162,
         "string": "A teal cylinder was placed near the enter in the easter hemisphere."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "small"
-            }, 
+                "word": "small",
+                "object_binding": 0
+            },
             {
-                "word": "light"
-            }, 
+                "word": "light",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1183, 
+        ],
+        "id": 1183,
         "string": "A small light blue cylinder."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "there"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "small"
-            }, 
+            },
             {
                 "word": "pink"
-            }, 
+            },
             {
                 "word": "cylinder"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
             }
-        ], 
-        "id": 1261, 
+        ],
+        "id": 1261,
         "string": "there is a small pink cylinder on the plane"
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "cylinder"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "teal"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "small"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "little"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1374, 
+        ],
+        "id": 1374,
         "string": "the cylinder is teal and small, and sits a little right of the center of the plane."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "cylinder"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "middle"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "table"
             }
-        ], 
-        "id": 1422, 
+        ],
+        "id": 1422,
         "string": "grey cylinder on middle right of table"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 0
+            },
             {
-                "word": "small"
-            }, 
+                "word": "small",
+                "object_binding": 0
+            },
             {
-                "word": "light"
-            }, 
+                "word": "light",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "vertical"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "it"
-            }, 
+            },
             {
                 "word": "'s"
-            }, 
+            },
             {
                 "word": "horizontal"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1495, 
+        ],
+        "id": 1495,
         "string": "The small light blue cylinder is in the center of the vertical plane and to the right of it's horizontal center."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "The"
-            }, 
+            },
             {
                 "word": "object"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "tiny"
-            }, 
+            },
             {
                 "word": "cyan"
-            }, 
+            },
             {
                 "word": "cylinder"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "located"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "plane"
             }
-        ], 
-        "id": 1550, 
+        ],
+        "id": 1550,
         "string": "The object is a tiny cyan cylinder, located to the right of the center of the grey plane"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "cyan"
-            }, 
+                "word": "cyan",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "east"
-            }, 
+            },
             {
                 "word": "that"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "about"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "x"
-            }, 
+            },
             {
                 "word": "axis"
             }
-        ], 
-        "id": 1624, 
+        ],
+        "id": 1624,
         "string": "a cyan cylinder to the east that is about on the x axis"
     }
 ]
