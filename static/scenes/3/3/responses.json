@@ -2,1837 +2,2012 @@
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 3
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
-                "word": "block"
-            }, 
+                "word": "block",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "disc"
-            }, 
+                "word": "disc",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 9, 
+        ],
+        "id": 9,
         "string": "The yellow block is to the right of the red disc."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 3
+            },
             {
-                "word": "square"
-            }, 
+                "word": "square",
+                "object_binding": 3
+            },
             {
-                "word": "gold"
-            }, 
+                "word": "gold",
+                "object_binding": 3
+            },
             {
-                "word": "brick"
-            }, 
+                "word": "brick",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "near"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "disk"
-            }, 
+                "word": "disk",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 18, 
+        ],
+        "id": 18,
         "string": "a square gold brick is near and to the right of the red disk."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 3
+            },
             {
-                "word": "ellow"
-            }, 
+                "word": "ellow",
+                "object_binding": 3
+            },
             {
-                "word": "square"
-            }, 
+                "word": "square",
+                "object_binding": 3
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 3
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 45, 
+        ],
+        "id": 45,
         "string": "The ellow square object."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Narrow"
-            }, 
+                "word": "Narrow",
+                "object_binding": 3
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 3
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 109, 
+        ],
+        "id": 109,
         "string": "Narrow yellow box to the right of the red cylinder."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Upright"
-            }, 
+                "word": "Upright",
+                "object_binding": 3
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
-                "word": "square"
-            }, 
+                "word": "square",
+                "object_binding": 3
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 3
+            },
             {
                 "word": "set"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 2
+            },
             {
                 "word": "but"
-            }, 
+            },
             {
                 "word": "also"
-            }, 
+            },
             {
                 "word": "slightly"
-            }, 
+            },
             {
                 "word": "closer"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "viewer"
             }
-        ], 
-        "id": 167, 
+        ],
+        "id": 167,
         "string": "Upright yellow square prism set to the right of the red prism but also slightly closer to the viewer"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 3
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
                 "word": "``"
-            }, 
+            },
             {
-                "word": "wall"
-            }, 
+                "word": "wall",
+                "object_binding": 3
+            },
             {
                 "word": "''"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 235, 
+        ],
+        "id": 235,
         "string": "A yellow \"wall\" is to the right of the red object."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "The"
-            }, 
+            },
             {
                 "word": "wall"
-            }, 
+            },
             {
                 "word": "'s"
-            }, 
+            },
             {
                 "word": "shadow"
-            }, 
+            },
             {
                 "word": "touches"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "object"
-            }, 
+            },
             {
                 "word": "next"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "itself"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 236, 
+        ],
+        "id": 236,
         "string": "The wall's shadow touches the object next to itself."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 3
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
-                "word": "square"
-            }, 
+                "word": "square",
+                "object_binding": 3
+            },
             {
                 "word": "was"
-            }, 
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "disc"
-            }, 
+                "word": "disc",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 301, 
+        ],
+        "id": 301,
         "string": "The yellow square was added to the right of the red disc."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 3
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
-                "word": "square"
-            }, 
+                "word": "square",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "standing"
-            }, 
+            },
             {
                 "word": "up"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 302, 
+        ],
+        "id": 302,
         "string": "The yellow square is standing up."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 3
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
-                "word": "square"
-            }, 
+                "word": "square",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "oriented"
-            }, 
+            },
             {
                 "word": "at"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "bottom-center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "top-right"
-            }, 
+            },
             {
                 "word": "portion"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 303, 
+        ],
+        "id": 303,
         "string": "The yellow square is oriented at the bottom-center of the top-right portion of the plane."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "there"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 3
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
-                "word": "square"
-            }, 
+                "word": "square",
+                "object_binding": 3
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "righe"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "circle"
+                "word": "circle",
+                "object_binding": 2
             }
-        ], 
-        "id": 372, 
+        ],
+        "id": 372,
         "string": "there is a yellow square to the righe of the red circle"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 3
+            },
             {
-                "word": "thin"
-            }, 
-            {
-                "word": ","
-            }, 
-            {
-                "word": "flat"
-            }, 
+                "word": "thin",
+                "object_binding": 3
+            },
             {
                 "word": ","
-            }, 
+            },
             {
-                "word": "cracker-like"
-            }, 
-            {
-                "word": "yellow"
-            }, 
-            {
-                "word": "box"
-            }, 
+                "word": "flat",
+                "object_binding": 3
+            },
             {
                 "word": ","
-            }, 
+            },
+            {
+                "word": "cracker-like",
+                "object_binding": 3
+            },
+            {
+                "word": "yellow",
+                "object_binding": 3
+            },
+            {
+                "word": "box",
+                "object_binding": 3
+            },
+            {
+                "word": ","
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "large"
-            }, 
+            },
             {
                 "word": "face"
-            }, 
+            },
             {
                 "word": "horizontally"
-            }, 
+            },
             {
                 "word": "aligned"
-            }, 
+            },
             {
                 "word": "with"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "bottom"
-            }, 
+            },
             {
                 "word": "side"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "flat"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "object"
             }
-        ], 
-        "id": 470, 
+        ],
+        "id": 470,
         "string": "A thin, flat, cracker-like yellow box, the large face horizontally aligned with the bottom side of the flat grey object"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 3
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
-                "word": "cube"
-            }, 
+                "word": "cube",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "cylinder"
+                "word": "cylinder",
+                "object_binding": 2
             }
-        ], 
-        "id": 500, 
+        ],
+        "id": 500,
         "string": "The yellow cube is to the right of the red cylinder"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 3
+            },
             {
-                "word": "short"
-            }, 
+                "word": "short",
+                "object_binding": 3
+            },
             {
-                "word": "3D"
-            }, 
+                "word": "3D",
+                "object_binding": 3
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
-                "word": "square"
-            }, 
+                "word": "square",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "its"
-            }, 
+            },
             {
                 "word": "side"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 584, 
+        ],
+        "id": 584,
         "string": "A short 3D yellow square is placed on its side to the right of the red object."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "Now"
-            }, 
+            },
             {
                 "word": "there"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 3
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
-                "word": "rectagular"
-            }, 
+                "word": "rectagular",
+                "object_binding": 3
+            },
             {
-                "word": "cube"
-            }, 
+                "word": "cube",
+                "object_binding": 3
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "slice"
-            }, 
+                "word": "slice",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 641, 
+        ],
+        "id": 641,
         "string": "Now there is a yellow rectagular cube to the right of the red slice."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 3
+            },
             {
-                "word": "thin"
-            }, 
+                "word": "thin",
+                "object_binding": 3
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 3
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 3
+            },
             {
                 "word": "was"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "east"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "octagonal"
-            }, 
+                "word": "octagonal",
+                "object_binding": 2
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 724, 
+        ],
+        "id": 724,
         "string": "A thin yellow rectangular prism was placed east of the red octagonal prism."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "They"
-            }, 
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 3
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 3
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 3
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "its"
-            }, 
+            },
             {
                 "word": "side"
-            }, 
+            },
             {
                 "word": "next"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "hexagon"
-            }, 
+                "word": "hexagon",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 736, 
+        ],
+        "id": 736,
         "string": "They added a rectangular box on its side next to the red hexagon."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "It"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "side"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "hexagon"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 737, 
+        ],
+        "id": 737,
         "string": "It is on the right side of the hexagon."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "thin"
-            }, 
+                "word": "thin",
+                "object_binding": 3
+            },
             {
-                "word": "3D"
-            }, 
+                "word": "3D",
+                "object_binding": 3
+            },
             {
-                "word": "square"
-            }, 
+                "word": "square",
+                "object_binding": 3
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 3
+            },
             {
                 "word": "next"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "disk"
+                "word": "disk",
+                "object_binding": 2
             }
-        ], 
-        "id": 763, 
+        ],
+        "id": 763,
         "string": "thin 3D square object next to red disk"
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "There"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "closely"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "furthest"
-            }, 
+            },
             {
                 "word": "edge"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "huge"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "pentagon"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "mat"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 837, 
+        ],
+        "id": 837,
         "string": "There is a blue sphere placed closely to the furthest edge of a huge, pentagon, gray mat."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "A"
-            }, 
+            },
             {
                 "word": "short"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "olive-colored"
-            }, 
+            },
             {
                 "word": "cylinder"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "sphere"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 838, 
+        ],
+        "id": 838,
         "string": "A short, olive-colored cylinder is left to the sphere."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
-            {
-                "word": ","
-            }, 
-            {
-                "word": "octagon"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
                 "word": ","
-            }, 
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "octagon",
+                "object_binding": 2
+            },
+            {
+                "word": ","
+            },
+            {
+                "word": "prism",
+                "object_binding": 2
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "front"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 839, 
+        ],
+        "id": 839,
         "string": "A red, octagon, prism is in front of the sphere."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "An"
-            }, 
+                "word": "An",
+                "object_binding": 3
+            },
             {
-                "word": "olive"
-            }, 
+                "word": "olive",
+                "object_binding": 3
+            },
             {
                 "word": ","
-            }, 
+            },
             {
-                "word": "square"
-            }, 
+                "word": "square",
+                "object_binding": 3
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "next"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "octagon"
-            }, 
+                "word": "octagon",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 840, 
+        ],
+        "id": 840,
         "string": "An olive, square prism is on the right, next to the octagon."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "Directly"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "disk"
-            }, 
+                "word": "disk",
+                "object_binding": 2
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 3
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
-                "word": "cube"
-            }, 
+                "word": "cube",
+                "object_binding": 3
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1003, 
+        ],
+        "id": 1003,
         "string": "Directly to the right of the red disk is a yellow cube."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "The"
-            }, 
+            },
             {
                 "word": "yellow"
-            }, 
+            },
             {
                 "word": "box-shaped"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "darker"
-            }, 
+            },
             {
                 "word": "yellow"
-            }, 
+            },
             {
                 "word": "than"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "second"
-            }, 
+            },
             {
                 "word": "object"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "but"
-            }, 
+            },
             {
                 "word": "as"
-            }, 
+            },
             {
                 "word": "tall"
-            }, 
+            },
             {
                 "word": "as"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "blue"
-            }, 
+            },
             {
                 "word": "object"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1046, 
+        ],
+        "id": 1046,
         "string": "The yellow box-shaped is a darker yellow than the second object, but as tall as the blue object."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "Its"
-            }, 
+            },
             {
                 "word": "shadow"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "covering"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "octahedron"
-            }, 
+                "word": "octahedron",
+                "object_binding": 2
+            },
             {
                 "word": "as"
-            }, 
+            },
             {
                 "word": "it"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "quite"
-            }, 
+            },
             {
                 "word": "close"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "it"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1047, 
+        ],
+        "id": 1047,
         "string": "Its shadow is covering the red octahedron as it is quite close to it."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Yellow"
-            }, 
+                "word": "Yellow",
+                "object_binding": 3
+            },
             {
-                "word": "brick"
-            }, 
+                "word": "brick",
+                "object_binding": 3
+            },
             {
                 "word": "next"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "cylinder"
+                "word": "cylinder",
+                "object_binding": 2
             }
-        ], 
-        "id": 1112, 
+        ],
+        "id": 1112,
         "string": "Yellow brick next to red cylinder"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 3
+            },
             {
-                "word": "skinny"
-            }, 
+                "word": "skinny",
+                "object_binding": 3
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
-                "word": "cube"
-            }, 
+                "word": "cube",
+                "object_binding": 3
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "flat"
-            }, 
+                "word": "flat",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1202, 
+        ],
+        "id": 1202,
         "string": "A skinny yellow cube sits to the right of the flat red cylinder."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 3
+            },
             {
-                "word": "orange"
-            }, 
+                "word": "orange",
+                "object_binding": 3
+            },
             {
-                "word": "block"
-            }, 
+                "word": "block",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "tot"
-            }, 
+            },
             {
                 "word": "he"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "circle"
-            }, 
+                "word": "circle",
+                "object_binding": 2
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "front"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "ball"
+                "word": "ball",
+                "object_binding": 0
             }
-        ], 
-        "id": 1237, 
+        ],
+        "id": 1237,
         "string": "the orange block is tot he right of the red circle and in front of the blue ball"
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "box"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "pale"
-            }, 
+            },
             {
                 "word": "yellow"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "located"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "red"
-            }, 
+            },
             {
                 "word": "disk"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "which"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "front"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "both"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "blue"
-            }, 
+            },
             {
                 "word": "ball"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "yellow"
-            }, 
+            },
             {
                 "word": "cylinder"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "line"
-            }, 
+            },
             {
                 "word": "with"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "blue"
-            }, 
+            },
             {
                 "word": "ball"
             }
-        ], 
-        "id": 1322, 
+        ],
+        "id": 1322,
         "string": "the box is pale yellow, and is located to the right of the red disk, which is in front of both the blue ball and the yellow cylinder, in line with the blue ball"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
-                "word": "block"
-            }, 
+                "word": "block",
+                "object_binding": 3
+            },
             {
                 "word": "place"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "octagon"
+                "word": "octagon",
+                "object_binding": 2
             }
-        ], 
-        "id": 1400, 
+        ],
+        "id": 1400,
         "string": "yellow block place to right of red octagon"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 3
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
-                "word": "square"
-            }, 
+                "word": "square",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 2
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "aligned"
-            }, 
+            },
             {
                 "word": "with"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "cylinder"
-            }, 
+            },
             {
                 "word": "'s"
-            }, 
+            },
             {
                 "word": "side"
-            }, 
+            },
             {
                 "word": "farthest"
-            }, 
+            },
             {
                 "word": "away"
-            }, 
+            },
             {
                 "word": "from"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1452, 
+        ],
+        "id": 1452,
         "string": "The yellow square is to the right of the red cylinder and aligned with the cylinder's side farthest away from the blue sphere."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "It"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "front"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "far"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "front"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
                 "word": ","
-            }, 
+            },
             {
-                "word": "narrow"
-            }, 
+                "word": "narrow",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1453, 
+        ],
+        "id": 1453,
         "string": "It is to the right of and in front of the blue sphere, and to the far right and in front of the yellow, narrow cylinder."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "The"
-            }, 
+            },
             {
                 "word": "object"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "yellow"
-            }, 
+            },
             {
                 "word": "square"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "about"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "same"
-            }, 
+            },
             {
                 "word": "thickness"
-            }, 
+            },
             {
                 "word": "as"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "red"
-            }, 
+            },
             {
                 "word": "disk"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "standing"
-            }, 
+            },
             {
                 "word": "longitudinally"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1491, 
+        ],
+        "id": 1491,
         "string": "The object is a yellow square, about the same thickness as the red disk, and is standing longitudinally."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 3
+            },
             {
-                "word": "square"
-            }, 
+                "word": "square",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "situated"
-            }, 
+            },
             {
                 "word": "directly"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 2
+            },
             {
-                "word": "disk"
-            }, 
+                "word": "disk",
+                "object_binding": 2
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1492, 
+        ],
+        "id": 1492,
         "string": "The square is situated directly to the right of the red disk on the grey plane."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 3
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 3
+            },
             {
-                "word": "brick"
-            }, 
+                "word": "brick",
+                "object_binding": 3
+            },
             {
                 "word": "east"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "all"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "other"
-            }, 
+            },
             {
                 "word": "stuff"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1617, 
+        ],
+        "id": 1617,
         "string": "a yellow brick east of all the other stuff."
     }
 ]
