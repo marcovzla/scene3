@@ -2,1300 +2,1490 @@
     {
         "word_list": [
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "purple"
+                "word": "purple",
+                "object_binding": 2
             }
-        ], 
-        "id": 75, 
+        ],
+        "id": 75,
         "string": "the yellow between blue and purple"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "long"
-            }, 
+                "word": "long",
+                "object_binding": 4
+            },
             {
                 "word": ","
-            }, 
+            },
             {
-                "word": "thin"
-            }, 
+                "word": "thin",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 4
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 2
+            },
             {
                 "word": "boxes"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 142, 
+        ],
+        "id": 142,
         "string": "long, thin yellow box added between the blue and purple boxes."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "elongated"
-            }, 
+                "word": "elongated",
+                "object_binding": 4
+            },
             {
                 "word": ","
-            }, 
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 4
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 4
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 2
+            },
             {
                 "word": "rectangular"
-            }, 
+            },
             {
                 "word": "prisms"
             }
-        ], 
-        "id": 201, 
+        ],
+        "id": 201,
         "string": "elongated, yellow rectangular prism added between blue and pink rectangular prisms"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Long"
-            }, 
+                "word": "Long",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "cube"
-            }, 
+                "word": "cube",
+                "object_binding": 4
+            },
             {
                 "word": "in-between"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 2
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
                 "word": "large"
-            }, 
+            },
             {
                 "word": "structures"
             }
-        ], 
-        "id": 268, 
+        ],
+        "id": 268,
         "string": "Long yellow cube in-between the pink and blue large structures"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "rectangle"
-            }, 
+                "word": "rectangle",
+                "object_binding": 4
+            },
             {
                 "word": "was"
-            }, 
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 0
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 0
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 2
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 2
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 369, 
+        ],
+        "id": 369,
         "string": "the yellow rectangle was added between the blue rectangular prism and the purple rectangular prism."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "there"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 4
+            },
             {
-                "word": "second"
-            }, 
+                "word": "second",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "rectangle"
-            }, 
+                "word": "rectangle",
+                "object_binding": 4
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 2
+            },
             {
                 "word": "boxes"
             }
-        ], 
-        "id": 436, 
+        ],
+        "id": 436,
         "string": "there is a second yellow rectangle between the blue and pink boxes"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "another"
-            }, 
+                "word": "another",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 4
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "though"
-            }, 
+            },
             {
                 "word": "this"
-            }, 
+            },
             {
                 "word": "time"
-            }, 
+            },
             {
                 "word": "less"
-            }, 
+            },
             {
                 "word": "long"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "but"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "bit"
-            }, 
+            },
             {
                 "word": "wider"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "slightly"
-            }, 
+            },
             {
                 "word": "hidden"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "magenta"
-            }, 
+                "word": "magenta",
+                "object_binding": 2
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 2
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "sitting"
-            }, 
+            },
             {
                 "word": "just"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "front"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 534, 
+        ],
+        "id": 534,
         "string": "another yellow box, though this time less long, but a bit wider, is slightly hidden behind the magenta box, sitting just in front of the blue box."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 4
+            },
             {
-                "word": "short"
-            }, 
+                "word": "short",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "cuboid"
-            }, 
+                "word": "cuboid",
+                "object_binding": 4
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 4
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "light"
-            }, 
+                "word": "light",
+                "object_binding": 2
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 2
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
                 "word": "boxes"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 614, 
+        ],
+        "id": 614,
         "string": "A short yellow cuboid box is in between the light purple and blue boxes."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 4
+            },
             {
-                "word": "thin"
-            }, 
+                "word": "thin",
+                "object_binding": 4
+            },
             {
                 "word": ","
-            }, 
+            },
             {
-                "word": "long"
-            }, 
+                "word": "long",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "rectangle"
-            }, 
+                "word": "rectangle",
+                "object_binding": 4
+            },
             {
                 "word": "was"
-            }, 
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 2
+            },
             {
                 "word": "rectangles"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 671, 
+        ],
+        "id": 671,
         "string": "A thin, long yellow rectangle was added in between the blue and pink rectangles."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 4
+            },
             {
-                "word": "thin"
-            }, 
+                "word": "thin",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 4
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "middle"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "all"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "other"
-            }, 
+            },
             {
                 "word": "shapes"
             }
-        ], 
-        "id": 700, 
+        ],
+        "id": 700,
         "string": "The thin yellow box is in the middle of all the other shapes"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "thin"
-            }, 
+                "word": "thin",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "3d"
-            }, 
+                "word": "3d",
+                "object_binding": 4
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 4
+            },
             {
-                "word": "block"
+                "word": "block",
+                "object_binding": 4
             }
-        ], 
-        "id": 793, 
+        ],
+        "id": 793,
         "string": "thin yellow 3d rectangular block"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 2
+            },
             {
-                "word": "magenta"
-            }, 
+                "word": "magenta",
+                "object_binding": 2
+            },
             {
-                "word": "tall"
-            }, 
+                "word": "tall",
+                "object_binding": 2
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 2
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 919, 
+        ],
+        "id": 919,
         "string": "A magenta tall box is left to the center."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 4
+            },
             {
-                "word": "yellowish"
-            }, 
+                "word": "yellowish",
+                "object_binding": 4
+            },
             {
-                "word": "handi"
-            }, 
+                "word": "handi",
+                "object_binding": 4
+            },
             {
-                "word": "wrap"
-            }, 
+                "word": "wrap",
+                "object_binding": 4
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 4
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "magenta"
-            }, 
+                "word": "magenta",
+                "object_binding": 2
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 920, 
+        ],
+        "id": 920,
         "string": "A yellowish handi wrap box is behind the magenta box."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 4
+            },
             {
-                "word": "handi"
-            }, 
+                "word": "handi",
+                "object_binding": 4
+            },
             {
-                "word": "wrap"
-            }, 
+                "word": "wrap",
+                "object_binding": 4
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 4
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "follow"
-            }, 
+            },
             {
                 "word": "by"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "yellowish"
-            }, 
+                "word": "yellowish",
+                "object_binding": 1
+            },
             {
-                "word": "small"
-            }, 
+                "word": "small",
+                "object_binding": 1
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 1
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 921, 
+        ],
+        "id": 921,
         "string": "A blue box is behind the handi wrap box, follow by a yellowish small box."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 3
+            },
             {
-                "word": "magenta"
-            }, 
+                "word": "magenta",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "away"
-            }, 
+            },
             {
                 "word": "from"
-            }, 
+            },
             {
                 "word": "all"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 922, 
+        ],
+        "id": 922,
         "string": "A magenta cylinder is right to the blue box, away from all."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "Between"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 2
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 2
+            },
             {
-                "word": "prisim"
-            }, 
+                "word": "prisim",
+                "object_binding": 2
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 0
+            },
             {
-                "word": "prisim"
-            }, 
+                "word": "prisim",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 4
+            },
             {
-                "word": "prisim"
-            }, 
+                "word": "prisim",
+                "object_binding": 4
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 981, 
+        ],
+        "id": 981,
         "string": "Between the pink rectangular prisim and the blue rectangular prisim is a yellow rectangular prisim."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "This"
-            }, 
+                "word": "This",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 4
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "longer"
-            }, 
+            },
             {
                 "word": "but"
-            }, 
+            },
             {
                 "word": "smaller"
-            }, 
+            },
             {
                 "word": "than"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 1
+            },
             {
-                "word": "other"
-            }, 
+                "word": "other",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 1
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "appears"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "be"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
-                "word": "Blue"
-            }, 
+                "word": "Blue",
+                "object_binding": 0
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "first"
-            }, 
+                "word": "first",
+                "object_binding": 2
+            },
             {
-                "word": "placed"
-            }, 
+                "word": "placed",
+                "object_binding": 2
+            },
             {
-                "word": "Purple"
-            }, 
+                "word": "Purple",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1081, 
+        ],
+        "id": 1081,
         "string": "This yellow box is longer but smaller than the other yellow object and appears to be in between Blue and the first placed Purple."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "There"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "now"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "brick"
-            }, 
+                "word": "brick",
+                "object_binding": 4
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "other"
-            }, 
+            },
             {
                 "word": "objects"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1144, 
+        ],
+        "id": 1144,
         "string": "There is now a yellow brick between the other objects."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 4
+            },
             {
-                "word": "short"
-            }, 
+                "word": "short",
+                "object_binding": 4
+            },
             {
-                "word": "skinny"
-            }, 
+                "word": "skinny",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "block"
-            }, 
+                "word": "block",
+                "object_binding": 4
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": "inbetween"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 2
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
                 "word": "blocks"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1207, 
+        ],
+        "id": 1207,
         "string": "A short skinny yellow block sits inbetween the pink and blue blocks."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 4
+            },
             {
-                "word": "orange"
-            }, 
+                "word": "orange",
+                "object_binding": 4
+            },
             {
-                "word": "block"
-            }, 
+                "word": "block",
+                "object_binding": 4
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "laying"
-            }, 
+            },
             {
                 "word": "betwen"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "block"
-            }, 
+                "word": "block",
+                "object_binding": 0
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 2
+            },
             {
-                "word": "block"
+                "word": "block",
+                "object_binding": 2
             }
-        ], 
-        "id": 1233, 
+        ],
+        "id": 1233,
         "string": "the orange block is laying betwen the blue block and the purple block"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 4
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 4
+            },
             {
                 "word": "was"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 0
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 0
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 2
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 2
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1315, 
+        ],
+        "id": 1315,
         "string": "A yellow rectangular prism was placed in between the blue rectangular prism and the pink rectangular prism."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "box"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "yellow"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "magenta"
-            }, 
+            },
             {
                 "word": "tower"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "blue"
-            }, 
+            },
             {
                 "word": "tower"
             }
-        ], 
-        "id": 1346, 
+        ],
+        "id": 1346,
         "string": "the box is yellow, and sits between the magenta tower and the blue tower"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "block"
-            }, 
+                "word": "block",
+                "object_binding": 4
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 2
+            },
             {
                 "word": "blocks"
             }
-        ], 
-        "id": 1408, 
+        ],
+        "id": 1408,
         "string": "yellow block placed in between blue and pink blocks"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 4
+            },
             {
-                "word": "smaller"
-            }, 
+                "word": "smaller",
+                "object_binding": 4
+            },
             {
                 "word": ","
-            }, 
+            },
             {
-                "word": "wider"
-            }, 
+                "word": "wider",
+                "object_binding": 4
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 4
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 1
+            },
             {
-                "word": "first"
-            }, 
+                "word": "first",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 1
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 2
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1470, 
+        ],
+        "id": 1470,
         "string": "The smaller, wider box is between the first yellow box and the purple box."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "The"
-            }, 
+            },
             {
                 "word": "object"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "thin"
-            }, 
+            },
             {
                 "word": "yellow"
-            }, 
+            },
             {
                 "word": "rectangle"
-            }, 
+            },
             {
                 "word": "situated"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "purple"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "dark"
-            }, 
+            },
             {
                 "word": "blue"
-            }, 
+            },
             {
                 "word": "rectangles"
             }
-        ], 
-        "id": 1537, 
+        ],
+        "id": 1537,
         "string": "The object is a thin yellow rectangle situated in between the purple and dark blue rectangles"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 4
+            },
             {
-                "word": "skinny"
-            }, 
+                "word": "skinny",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "prick"
-            }, 
+                "word": "prick",
+                "object_binding": 4
+            },
             {
                 "word": "south"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "brick"
-            }, 
+                "word": "brick",
+                "object_binding": 0
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "north"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 2
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 2
+            },
             {
-                "word": "one"
+                "word": "one",
+                "object_binding": 2
             }
-        ], 
-        "id": 1577, 
+        ],
+        "id": 1577,
         "string": "a skinny yellow prick south of the blue brick and north of the purple one"
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "There"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "another"
-            }, 
+                "word": "another",
+                "object_binding": 4
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 4
+            },
             {
-                "word": "rectangle"
-            }, 
+                "word": "rectangle",
+                "object_binding": 4
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 2
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1651, 
+        ],
+        "id": 1651,
         "string": "There is another yellow rectangle between blue and purple."
     }
 ]
