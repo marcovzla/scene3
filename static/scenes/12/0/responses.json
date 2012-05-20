@@ -2,1069 +2,1144 @@
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
+                "word": "blue",
+                "object_binding": 0
             }
-        ], 
-        "id": 78, 
+        ],
+        "id": 78,
         "string": "The blue"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "bottom"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "slanted"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "square"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 145, 
+        ],
+        "id": 145,
         "string": "blue box added to the bottom of the slanted grey square."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "upright"
-            }, 
+                "word": "upright",
+                "object_binding": 0
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 0
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 0
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "surface"
             }
-        ], 
-        "id": 204, 
+        ],
+        "id": 204,
         "string": "upright rectangular prism added to left of the center of the surface"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Standing"
-            }, 
+                "word": "Standing",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "skinny"
-            }, 
+                "word": "skinny",
+                "object_binding": 0
+            },
             {
-                "word": "cube"
+                "word": "cube",
+                "object_binding": 0
             }
-        ], 
-        "id": 271, 
+        ],
+        "id": 271,
         "string": "Standing blue skinny cube"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "square"
-            }, 
+                "word": "square",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "standing"
-            }, 
+            },
             {
                 "word": "up"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "portion"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 378, 
+        ],
+        "id": 378,
         "string": "the blue square is standing up in the center of the left portion of the plane."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "there"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "rectangle"
-            }, 
+                "word": "rectangle",
+                "object_binding": 0
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "shape"
             }
-        ], 
-        "id": 439, 
+        ],
+        "id": 439,
         "string": "there is a blue rectangle to the left of center of the grey shape"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "wide"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "about"
-            }, 
+            },
             {
                 "word": "1.5"
-            }, 
+            },
             {
                 "word": "times"
-            }, 
+            },
             {
                 "word": "as"
-            }, 
+            },
             {
                 "word": "wide"
-            }, 
+            },
             {
                 "word": "as"
-            }, 
+            },
             {
                 "word": "it"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "tall"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "1\\/3"
-            }, 
+            },
             {
                 "word": "as"
-            }, 
+            },
             {
                 "word": "long"
-            }, 
+            },
             {
                 "word": "as"
-            }, 
+            },
             {
                 "word": "it"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "tall"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "face"
-            }, 
+            },
             {
                 "word": "toward"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "viewer"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 538, 
+        ],
+        "id": 538,
         "string": "a blue box, wide, about 1.5 times as wide as it is tall, and 1/3 as long as it is tall, sits, face toward the viewer."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "cuboid"
-            }, 
+                "word": "cuboid",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "its"
-            }, 
+            },
             {
                 "word": "side"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "toward"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "middle"
-            }, 
+            },
             {
                 "word": "front"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "surface"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 617, 
+        ],
+        "id": 617,
         "string": "A blue cuboid box on its side is toward the middle front of the grey surface."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "rectangle"
-            }, 
+                "word": "rectangle",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "lower"
-            }, 
+            },
             {
                 "word": "middle"
-            }, 
+            },
             {
                 "word": "area"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 674, 
+        ],
+        "id": 674,
         "string": "A blue rectangle is to the lower middle area."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "THe"
-            }, 
+                "word": "THe",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
             }
-        ], 
-        "id": 704, 
+        ],
+        "id": 704,
         "string": "THe blue box is in the plane"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "thin"
-            }, 
+                "word": "thin",
+                "object_binding": 0
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 0
+            },
             {
-                "word": "block"
+                "word": "block",
+                "object_binding": 0
             }
-        ], 
-        "id": 796, 
+        ],
+        "id": 796,
         "string": "blue thin rectangular block"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "cereal"
-            }, 
+                "word": "cereal",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "stand"
-            }, 
+            },
             {
                 "word": "sidewase"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 926, 
+        ],
+        "id": 926,
         "string": "A blue cereal box stand sidewase left to the center."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "Near"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "front"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 0
+            },
             {
-                "word": "prisim"
-            }, 
+                "word": "prisim",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 982, 
+        ],
+        "id": 982,
         "string": "Near the front of the plane is a blue rectangular prisim."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "near"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "middle"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "screen"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1085, 
+        ],
+        "id": 1085,
         "string": "The blue box is near the middle of the screen."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "It"
-            }, 
+                "word": "It",
+                "object_binding": 0
+            },
             {
                 "word": "appears"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "be"
-            }, 
+            },
             {
                 "word": "large"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "height"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "length"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1086, 
+        ],
+        "id": 1086,
         "string": "It appears to be large in height and length."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "There"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "brick"
-            }, 
+                "word": "brick",
+                "object_binding": 0
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "surface"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1150, 
+        ],
+        "id": 1150,
         "string": "There is a blue brick on the gray surface."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "skinny"
-            }, 
+                "word": "skinny",
+                "object_binding": 0
+            },
             {
                 "word": ","
-            }, 
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 0
+            },
             {
-                "word": "block"
-            }, 
+                "word": "block",
+                "object_binding": 0
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "surface"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1222, 
+        ],
+        "id": 1222,
         "string": "A skinny, blue rectangular block sits on the gray surface."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "there"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "dark"
-            }, 
+                "word": "dark",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "block"
-            }, 
+                "word": "block",
+                "object_binding": 0
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "teh"
-            }, 
+            },
             {
                 "word": "plane"
             }
-        ], 
-        "id": 1272, 
+        ],
+        "id": 1272,
         "string": "there is a dark blue block on teh plane"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "tall"
-            }, 
+                "word": "tall",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 0
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 0
+            },
             {
                 "word": "was"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "near"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "southwestern"
-            }, 
+            },
             {
                 "word": "hemisphere"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1290, 
+        ],
+        "id": 1290,
         "string": "A tall blue rectangular prism was placed near the center of the plane in the southwestern hemisphere."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "box"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "blue"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "its"
-            }, 
+            },
             {
                 "word": "edge"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "little"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "teh"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
             }
-        ], 
-        "id": 1363, 
+        ],
+        "id": 1363,
         "string": "the box is blue, and sits on its edge a little to teh left of the center of the plane"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 0
+            },
             {
-                "word": "block"
-            }, 
+                "word": "block",
+                "object_binding": 0
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "table"
-            }, 
+            },
             {
                 "word": "top"
             }
-        ], 
-        "id": 1392, 
+        ],
+        "id": 1392,
         "string": "blue rectangular block on table top"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "vertical"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "side"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1536, 
+        ],
+        "id": 1536,
         "string": "The blue box is in the vertical center and to the left side of the plane."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "The"
-            }, 
+            },
             {
                 "word": "object"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "blue"
-            }, 
+            },
             {
                 "word": "rectangle"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "standing"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "it"
-            }, 
+            },
             {
                 "word": "'s"
-            }, 
+            },
             {
                 "word": "edge"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "lower-left"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "plane"
             }
-        ], 
-        "id": 1553, 
+        ],
+        "id": 1553,
         "string": "The object is a blue rectangle, standing on it's edge and to the lower-left of the center of the grey plane"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "block"
-            }, 
+                "word": "block",
+                "object_binding": 0
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "3rd"
-            }, 
+            },
             {
                 "word": "quadrant"
             }
-        ], 
-        "id": 1595, 
+        ],
+        "id": 1595,
         "string": "a blue block in the 3rd quadrant"
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "There"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "rectangle"
-            }, 
+                "word": "rectangle",
+                "object_binding": 0
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plateform"
             }
-        ], 
-        "id": 1629, 
+        ],
+        "id": 1629,
         "string": "There is a blue rectangle on the plateform"
     }
 ]
