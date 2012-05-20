@@ -2,1378 +2,1505 @@
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 3
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 3
+            },
             {
                 "word": "further"
-            }, 
+            },
             {
                 "word": "than"
-            }, 
+            },
             {
-                "word": "another"
-            }, 
+                "word": "another",
+                "object_binding": 2
+            },
             {
-                "word": "one"
+                "word": "one",
+                "object_binding": 2
             }
-        ], 
-        "id": 74, 
+        ],
+        "id": 74,
         "string": "The purple further than another one"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 140, 
+        ],
+        "id": 140,
         "string": "purple cylinder added to the right of the blue box."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "all"
-            }, 
+            },
             {
                 "word": "other"
-            }, 
+            },
             {
                 "word": "objects"
             }
-        ], 
-        "id": 200, 
+        ],
+        "id": 200,
         "string": "pink cylinder added to the right of all other objects"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Pink"
-            }, 
+                "word": "Pink",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
-                "word": "of"
-            }, 
+                "word": "of",
+                "object_binding": 3
+            },
             {
-                "word": "modest"
-            }, 
+                "word": "modest",
+                "object_binding": 3
+            },
             {
-                "word": "height"
-            }, 
+                "word": "height",
+                "object_binding": 3
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "rich"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "other"
-            }, 
+            },
             {
                 "word": "structure"
             }
-        ], 
-        "id": 267, 
+        ],
+        "id": 267,
         "string": "Pink cylinder of modest height to the rich of the other structure"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 3
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "was"
-            }, 
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 0
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 365, 
+        ],
+        "id": 365,
         "string": "the purple cylinder was added to the right of the blue rectangular prism."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 3
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "located"
-            }, 
+            },
             {
                 "word": "near"
-            }, 
+            },
             {
                 "word": "left-center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "top-right"
-            }, 
+            },
             {
                 "word": "portion"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 366, 
+        ],
+        "id": 366,
         "string": "the purple cylinder is located near left-center of the top-right portion of the plane."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "there"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 3
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "below"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 1
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
-                "word": "rectangle"
+                "word": "rectangle",
+                "object_binding": 1
             }
-        ], 
-        "id": 435, 
+        ],
+        "id": 435,
         "string": "there is a pink cylinder to the right and below the yellow rectangle"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 3
+            },
             {
-                "word": "magenta"
-            }, 
+                "word": "magenta",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "east"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "other"
-            }, 
+            },
             {
                 "word": "shapes"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "bit"
-            }, 
+            },
             {
                 "word": "wider"
-            }, 
+            },
             {
                 "word": "than"
-            }, 
+            },
             {
                 "word": "it"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "tall"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 532, 
+        ],
+        "id": 532,
         "string": "a magenta cylinder sits to the east of the other shapes, a bit wider than it is tall."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "About"
-            }, 
+            },
             {
                 "word": "three"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "half"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "cylinders"
-            }, 
+            },
             {
                 "word": "could"
-            }, 
+            },
             {
                 "word": "fit"
-            }, 
+            },
             {
                 "word": "inbetween"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 533, 
+        ],
+        "id": 533,
         "string": "About three and a half of the cylinders could fit inbetween the cylinder and the blue box."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 3
+            },
             {
-                "word": "small"
-            }, 
+                "word": "small",
+                "object_binding": 3
+            },
             {
-                "word": "light"
-            }, 
+                "word": "light",
+                "object_binding": 3
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 3
+            },
             {
-                "word": "3D"
-            }, 
+                "word": "3D",
+                "object_binding": 3
+            },
             {
-                "word": "octagon"
-            }, 
+                "word": "octagon",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "In"
-            }, 
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "yellow"
-            }, 
+                "word": "yellow",
+                "object_binding": 1
+            },
             {
                 "word": "objects"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 613, 
+        ],
+        "id": 613,
         "string": "A small light purple 3D octagon is In between and to the right of the blue and yellow objects."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 3
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "all"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "other"
-            }, 
+            },
             {
                 "word": "objects"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "line"
-            }, 
+            },
             {
                 "word": "with"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 670, 
+        ],
+        "id": 670,
         "string": "A pink cylinder is to the right of all the other objects and in line with the blue object."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "other"
-            }, 
+            },
             {
                 "word": "shapes"
             }
-        ], 
-        "id": 698, 
+        ],
+        "id": 698,
         "string": "The cylinder is to the right of the other shapes"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 3
+            },
             {
-                "word": "cylindrical"
-            }, 
+                "word": "cylindrical",
+                "object_binding": 3
+            },
             {
-                "word": "tube"
+                "word": "tube",
+                "object_binding": 3
             }
-        ], 
-        "id": 792, 
+        ],
+        "id": 792,
         "string": "purple cylindrical tube"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "close"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "hind"
-            }, 
+            },
             {
                 "word": "corner"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "smaller"
-            }, 
+                "word": "smaller",
+                "object_binding": 1
+            },
             {
-                "word": "yellowish"
-            }, 
+                "word": "yellowish",
+                "object_binding": 1
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 916, 
+        ],
+        "id": 916,
         "string": "A blue prism is placed close to the left, hind corner, and a smaller yellowish box is to the right, behind the blue prism."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 2
+            },
             {
-                "word": "magenta"
-            }, 
+                "word": "magenta",
+                "object_binding": 2
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 2
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "front"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "one"
-            }, 
+                "word": "one",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 917, 
+        ],
+        "id": 917,
         "string": "A magenta prism is right in front of the blue one."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 3
+            },
             {
-                "word": "magenta"
-            }, 
+                "word": "magenta",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 0
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "away"
-            }, 
+            },
             {
                 "word": "from"
-            }, 
+            },
             {
                 "word": "all"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 918, 
+        ],
+        "id": 918,
         "string": "A magenta cylinder is right of the blue prism, away from all."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "To"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "rectagular"
-            }, 
+                "word": "rectagular",
+                "object_binding": 0
+            },
             {
-                "word": "prisims"
-            }, 
+                "word": "prisims",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 3
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
+                "word": "cylinder",
+                "object_binding": 3
             }
-        ], 
-        "id": 980, 
+        ],
+        "id": 980,
         "string": "To the right of the rectagular prisims is a pink cylinder"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "This"
-            }, 
+                "word": "This",
+                "object_binding": 3
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 3
+            },
             {
-                "word": "octahedron"
-            }, 
+                "word": "octahedron",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "other"
-            }, 
+            },
             {
                 "word": "objects"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "second"
-            }, 
+            },
             {
                 "word": "smallest"
-            }, 
+            },
             {
                 "word": "object"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1080, 
+        ],
+        "id": 1080,
         "string": "This purple octahedron is placed to the right of the other objects and is the second smallest object."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "There"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 3
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "other"
-            }, 
+            },
             {
                 "word": "objects"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1143, 
+        ],
+        "id": 1143,
         "string": "There is a purple cylinder to the right of the other objects."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 3
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": "apart"
-            }, 
+            },
             {
                 "word": "from"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "other"
-            }, 
+            },
             {
                 "word": "objects"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1206, 
+        ],
+        "id": 1206,
         "string": "A pink cylinder sits apart from the other objects."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "teh"
-            }, 
+                "word": "teh",
+                "object_binding": 3
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "standing"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "other"
-            }, 
+            },
             {
                 "word": "three"
-            }, 
+            },
             {
                 "word": "blocks"
             }
-        ], 
-        "id": 1232, 
+        ],
+        "id": 1232,
         "string": "teh pink cylinder is standing to the right of the other three blocks"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 3
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "was"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "east"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 0
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1314, 
+        ],
+        "id": 1314,
         "string": "A pink cylinder was placed east of the blue rectangular prism."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "cylinder"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "magenta"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "line"
-            }, 
+            },
             {
                 "word": "with"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "blue"
-            }, 
+            },
             {
                 "word": "tower"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
             }
-        ], 
-        "id": 1345, 
+        ],
+        "id": 1345,
         "string": "the cylinder is magenta, and sits in line with the blue tower, to the right"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 3
+            },
             {
-                "word": "cylindar"
-            }, 
+                "word": "cylindar",
+                "object_binding": 3
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "all"
-            }, 
+            },
             {
                 "word": "other"
-            }, 
+            },
             {
                 "word": "blocks"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "about"
-            }, 
+            },
             {
                 "word": "as"
-            }, 
+            },
             {
                 "word": "far"
-            }, 
+            },
             {
                 "word": "as"
-            }, 
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "block"
+                "word": "block",
+                "object_binding": 0
             }
-        ], 
-        "id": 1407, 
+        ],
+        "id": 1407,
         "string": "pink cylindar placed to the right of all other blocks, about as far as blue block"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 3
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "far"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1469, 
+        ],
+        "id": 1469,
         "string": "The purple cylinder is to the far right of the blue box."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "The"
-            }, 
+            },
             {
                 "word": "object"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "purple"
-            }, 
+            },
             {
                 "word": "cylinder"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "about"
-            }, 
+            },
             {
                 "word": "half"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "size"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "dar"
-            }, 
+            },
             {
                 "word": "blue"
-            }, 
+            },
             {
                 "word": "rectangle"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "located"
-            }, 
+            },
             {
                 "word": "about"
-            }, 
+            },
             {
                 "word": "twice"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "height"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "dark"
-            }, 
+            },
             {
                 "word": "blue"
-            }, 
+            },
             {
                 "word": "rectangle"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "dark"
-            }, 
+            },
             {
                 "word": "blue"
-            }, 
+            },
             {
                 "word": "rectangle"
             }
-        ], 
-        "id": 1532, 
+        ],
+        "id": 1532,
         "string": "The object is a purple cylinder, about half the size of the dar blue rectangle, and is located about twice the height of the dark blue rectangle to the right of the dark blue rectangle"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 3
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "east"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "vertical"
-            }, 
+                "word": "vertical",
+                "object_binding": 0
+            },
             {
-                "word": "blue"
-            }, 
+                "word": "blue",
+                "object_binding": 0
+            },
             {
-                "word": "brick"
+                "word": "brick",
+                "object_binding": 0
             }
-        ], 
-        "id": 1576, 
+        ],
+        "id": 1576,
         "string": "A purple cylinder east of the vertical blue brick"
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "There"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 3
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 3
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 3
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1650, 
+        ],
+        "id": 1650,
         "string": "There is a purple cylinder."
     }
 ]
