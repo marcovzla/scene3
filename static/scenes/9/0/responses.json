@@ -2,1015 +2,1081 @@
     {
         "word_list": [
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 0
+            },
             {
                 "word": "far"
-            }, 
+            },
             {
                 "word": "away"
             }
-        ], 
-        "id": 68, 
+        ],
+        "id": 68,
         "string": "the purple far away"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Small"
-            }, 
+                "word": "Small",
+                "object_binding": 0
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 0
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 0
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "upper"
-            }, 
+            },
             {
                 "word": "middle"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "slanted"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "sqsuare"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 133, 
+        ],
+        "id": 133,
         "string": "Small purple cylinder in upper middle of the slanted grey sqsuare."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "small"
-            }, 
+                "word": "small",
+                "object_binding": 0
+            },
             {
                 "word": ","
-            }, 
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "towards"
-            }, 
+            },
             {
                 "word": "back"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "surface"
             }
-        ], 
-        "id": 194, 
+        ],
+        "id": 194,
         "string": "small, pink sphere placed towards back of surface"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "small"
-            }, 
+                "word": "small",
+                "object_binding": 0
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "sitting"
-            }, 
+            },
             {
                 "word": "between"
-            }, 
+            },
             {
                 "word": "northwest"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "northeast"
-            }, 
+            },
             {
                 "word": "corners"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 261, 
+        ],
+        "id": 261,
         "string": "small pink sphere sitting between northwest and northeast corners."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "near"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "top-center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "top"
-            }, 
+            },
             {
                 "word": "portion"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 349, 
+        ],
+        "id": 349,
         "string": "the purple sphere is near the top-center of the top portion of the plane."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "there"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "above"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "shape"
             }
-        ], 
-        "id": 429, 
+        ],
+        "id": 429,
         "string": "there is a purple box above the center of the grey shape"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "magenta"
-            }, 
+                "word": "magenta",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "sitting"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "object"
-            }, 
+            },
             {
                 "word": "-LRB-"
-            }, 
+            },
             {
                 "word": "not"
-            }, 
+            },
             {
                 "word": "that"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "object"
-            }, 
+            },
             {
                 "word": "ever"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "I"
-            }, 
+            },
             {
                 "word": "just"
-            }, 
+            },
             {
                 "word": "do"
-            }, 
+            },
             {
                 "word": "n't"
-            }, 
+            },
             {
                 "word": "like"
-            }, 
+            },
             {
                 "word": "mentioning"
-            }, 
+            },
             {
                 "word": "it"
-            }, 
+            },
             {
                 "word": "-RRB-"
-            }, 
+            },
             {
                 "word": "toward"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "northeast"
-            }, 
+            },
             {
                 "word": "side"
             }
-        ], 
-        "id": 524, 
+        ],
+        "id": 524,
         "string": "A magenta sphere is sitting on the grey object (not that the grey object ever left, I just don't like mentioning it) toward the northeast side"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "small"
-            }, 
+                "word": "small",
+                "object_binding": 0
+            },
             {
-                "word": "light"
-            }, 
+                "word": "light",
+                "object_binding": 0
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 0
+            },
             {
-                "word": "spherish"
-            }, 
+                "word": "spherish",
+                "object_binding": 0
+            },
             {
-                "word": "object"
-            }, 
+                "word": "object",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "toward"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "back"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "surface"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 607, 
+        ],
+        "id": 607,
         "string": "A small light purple spherish object is toward the back center of the grey surface."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "There"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "upper"
-            }, 
+            },
             {
                 "word": "middle"
-            }, 
+            },
             {
                 "word": "area"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 664, 
+        ],
+        "id": 664,
         "string": "There is a pink sphere in the upper middle area."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "other"
-            }, 
+            },
             {
                 "word": "end"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "pane"
             }
-        ], 
-        "id": 687, 
+        ],
+        "id": 687,
         "string": "the purple sphere is on the other end of the pane"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
+                "word": "sphere",
+                "object_binding": 0
             }
-        ], 
-        "id": 786, 
+        ],
+        "id": 786,
         "string": "purple sphere"
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "A"
-            }, 
+            },
             {
                 "word": "small"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 903, 
+        ],
+        "id": 903,
         "string": "A small."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "magenta"
-            }, 
+                "word": "magenta",
+                "object_binding": 0
+            },
             {
-                "word": "ball"
-            }, 
+                "word": "ball",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "further"
-            }, 
+            },
             {
                 "word": "edge"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "area"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 904, 
+        ],
+        "id": 904,
         "string": "magenta ball is on the further edge of the gray area."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 0
+            },
             {
-                "word": "ball"
-            }, 
+                "word": "ball",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "far"
-            }, 
+            },
             {
                 "word": "side"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 971, 
+        ],
+        "id": 971,
         "string": "The ball is on the far side of the plane."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "This"
-            }, 
+                "word": "This",
+                "object_binding": 0
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 0
+            },
             {
-                "word": "cube"
-            }, 
+                "word": "cube",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "near"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "right"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "screen"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "appears"
-            }, 
+            },
             {
                 "word": "very"
-            }, 
+            },
             {
                 "word": "small"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1082, 
+        ],
+        "id": 1082,
         "string": "This purple cube is near the right of the screen and appears very small."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "There"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "surface"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1155, 
+        ],
+        "id": 1155,
         "string": "There is a purple sphere on the gray surface."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "small"
-            }, 
+                "word": "small",
+                "object_binding": 0
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": "towards"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "back"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "surface"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1211, 
+        ],
+        "id": 1211,
         "string": "A small pink sphere sits towards the back of a gray surface."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "there"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
             }
-        ], 
-        "id": 1266, 
+        ],
+        "id": 1266,
         "string": "there is a pink sphere in the plane"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "was"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "near"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "northern"
-            }, 
+            },
             {
                 "word": "hemisphere"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1287, 
+        ],
+        "id": 1287,
         "string": "A pink sphere was placed near the center of the northern hemisphere."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "ball"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "magenta"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": "toward"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "back"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "middle"
             }
-        ], 
-        "id": 1370, 
+        ],
+        "id": 1370,
         "string": "the ball is magenta, and sits toward the back of the plane, in the middle"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "pink"
-            }, 
+                "word": "pink",
+                "object_binding": 0
+            },
             {
-                "word": "ball"
-            }, 
+                "word": "ball",
+                "object_binding": 0
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "back"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "table"
             }
-        ], 
-        "id": 1409, 
+        ],
+        "id": 1409,
         "string": "pink ball in center back of table"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 0
+            },
             {
-                "word": "small"
-            }, 
+                "word": "small",
+                "object_binding": 0
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "far"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "plane"
-            }, 
+            },
             {
                 "word": "'s"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "close"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "edge"
-            }, 
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1504, 
+        ],
+        "id": 1504,
         "string": "The small purple sphere is far behind the plane's center close to the edge."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "The"
-            }, 
+            },
             {
                 "word": "object"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "small"
-            }, 
+            },
             {
                 "word": "sphere"
-            }, 
+            },
             {
                 "word": "located"
-            }, 
+            },
             {
                 "word": "near"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "upper"
-            }, 
+            },
             {
                 "word": "edge"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "gray"
-            }, 
+            },
             {
                 "word": "plane"
             }
-        ], 
-        "id": 1567, 
+        ],
+        "id": 1567,
         "string": "The object is a small sphere located near the center of the upper edge of the grey plane"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 0
+            },
             {
-                "word": "sphere"
-            }, 
+                "word": "sphere",
+                "object_binding": 0
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "north"
-            }, 
+            },
             {
                 "word": "part"
             }
-        ], 
-        "id": 1585, 
+        ],
+        "id": 1585,
         "string": "a purple sphere on the north part"
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "there"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "purple"
-            }, 
+                "word": "purple",
+                "object_binding": 0
+            },
             {
-                "word": "ball"
-            }, 
+                "word": "ball",
+                "object_binding": 0
+            },
             {
                 "word": "\\/"
             }
-        ], 
-        "id": 1655, 
+        ],
+        "id": 1655,
         "string": "there is a purple ball/"
     }
 ]
