@@ -2,985 +2,1129 @@
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 1
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "higher"
+                "word": "higher",
+                "object_binding": 1
             }
-        ], 
-        "id": 87, 
+        ],
+        "id": 87,
         "string": "The red higher"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "tall"
-            }, 
+                "word": "tall",
+                "object_binding": 1
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 157, 
+        ],
+        "id": 157,
         "string": "tall red cylinder added behind the red box."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "previous"
-            }, 
+                "word": "previous",
+                "object_binding": 0
+            },
             {
-                "word": "object"
+                "word": "object",
+                "object_binding": 0
             }
-        ], 
-        "id": 213, 
+        ],
+        "id": 213,
         "string": "red cylinder added behind previous object"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "very"
-            }, 
+                "word": "very",
+                "object_binding": 1
+            },
             {
-                "word": "large"
-            }, 
+                "word": "large",
+                "object_binding": 1
+            },
             {
-                "word": "re"
-            }, 
+                "word": "re",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "sitting"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 0
+            },
             {
-                "word": "cube"
+                "word": "cube",
+                "object_binding": 0
             }
-        ], 
-        "id": 280, 
+        ],
+        "id": 280,
         "string": "very large re cylinder sitting behind red rectangular cube"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 1
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "was"
-            }, 
+            },
             {
                 "word": "added"
-            }, 
+            },
             {
                 "word": "up"
-            }, 
+            },
             {
                 "word": "from"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 0
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 404, 
+        ],
+        "id": 404,
         "string": "the red cylinder was added up from the red rectangular prism."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 1
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "almost"
-            }, 
+            },
             {
                 "word": "touching"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 0
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 405, 
+        ],
+        "id": 405,
         "string": "the red cylinder is almost touching the red rectangular prism."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "there"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "above"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
-                "word": "box"
+                "word": "box",
+                "object_binding": 0
             }
-        ], 
-        "id": 448, 
+        ],
+        "id": 448,
         "string": "there is a red cylinder above the red box"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "diameter"
-            }, 
+            },
             {
                 "word": "3\\/4"
-            }, 
+            },
             {
                 "word": "as"
-            }, 
+            },
             {
                 "word": "long"
-            }, 
+            },
             {
                 "word": "as"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "as"
-            }, 
+            },
             {
                 "word": "tall"
-            }, 
+            },
             {
                 "word": "as"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": "just"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "northeast"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 560, 
+        ],
+        "id": 560,
         "string": "a red cylinder, diameter 3/4 as long as the red box, and as tall as the red box, sits just to the northeast of the box."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 1
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "3D"
-            }, 
+                "word": "3D",
+                "object_binding": 1
+            },
             {
-                "word": "octagon"
-            }, 
+                "word": "octagon",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "red"
+                "word": "red",
+                "object_binding": 0
             }
-        ], 
-        "id": 626, 
+        ],
+        "id": 626,
         "string": "A red 3D octagon is behind the red"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 1
+            },
             {
-                "word": "tall"
-            }, 
+                "word": "tall",
+                "object_binding": 1
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "octagon"
-            }, 
+                "word": "octagon",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "above"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
-                "word": "rectangle"
-            }, 
+                "word": "rectangle",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 689, 
+        ],
+        "id": 689,
         "string": "A tall red octagon is above the red rectangle."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 1
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "just"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
-                "word": "box"
+                "word": "box",
+                "object_binding": 0
             }
-        ], 
-        "id": 713, 
+        ],
+        "id": 713,
         "string": "The red cylinder is just behind the red box"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "cylindrical"
-            }, 
+                "word": "cylindrical",
+                "object_binding": 1
+            },
             {
-                "word": "tube"
+                "word": "tube",
+                "object_binding": 1
             }
-        ], 
-        "id": 805, 
+        ],
+        "id": 805,
         "string": "red cylindrical tube"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 0
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
-                "word": "tissue"
-            }, 
+                "word": "tissue",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "left"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "center"
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
                 "word": ","
-            }, 
+            },
             {
-                "word": "octagon"
-            }, 
+                "word": "octagon",
+                "object_binding": 1
+            },
             {
-                "word": "bucket"
-            }, 
+                "word": "bucket",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "tissue"
-            }, 
+                "word": "tissue",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 945, 
+        ],
+        "id": 945,
         "string": "A red tissue box is left to the center and a red, octagon bucket is behind the tissue box."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "Directly"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 0
+            },
             {
-                "word": "prisim"
-            }, 
+                "word": "prisim",
+                "object_binding": 0
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1008, 
+        ],
+        "id": 1008,
         "string": "Directly behind the red rectangular prisim is a red cylinder."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "This"
-            }, 
+                "word": "This",
+                "object_binding": 1
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "octahedron"
-            }, 
+                "word": "octahedron",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "much"
-            }, 
+            },
             {
                 "word": "larger"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "height"
-            }, 
+            },
             {
                 "word": "but"
-            }, 
+            },
             {
                 "word": "similar"
-            }, 
+            },
             {
                 "word": "in"
-            }, 
+            },
             {
                 "word": "length"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
-                "word": "Brick"
-            }, 
+                "word": "Brick",
+                "object_binding": 0
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "close"
-            }, 
+            },
             {
                 "word": "but"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "Brick"
-            }, 
+                "word": "Brick",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1093, 
+        ],
+        "id": 1093,
         "string": "This red octahedron is much larger in height but similar in length to Brick, and is placed close but behind Brick."
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "Red"
-            }, 
+                "word": "Red",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "next"
-            }, 
+            },
             {
                 "word": "to"
-            }, 
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
-                "word": "brick"
+                "word": "brick",
+                "object_binding": 0
             }
-        ], 
-        "id": 1102, 
+        ],
+        "id": 1102,
         "string": "Red cylinder next to red brick"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 1
+            },
             {
-                "word": "big"
-            }, 
+                "word": "big",
+                "object_binding": 1
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "sits"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "flat"
-            }, 
+                "word": "flat",
+                "object_binding": 0
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
-                "word": "block"
-            }, 
+                "word": "block",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1215, 
+        ],
+        "id": 1215,
         "string": "A big red cylinder sits behind the flat red block."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "there"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "brown"
-            }, 
+                "word": "brown",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "brown"
-            }, 
+                "word": "brown",
+                "object_binding": 0
+            },
             {
-                "word": "block"
+                "word": "block",
+                "object_binding": 0
             }
-        ], 
-        "id": 1252, 
+        ],
+        "id": 1252,
         "string": "there is a brown cylinder behind the brown block"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "A"
-            }, 
+                "word": "A",
+                "object_binding": 1
+            },
             {
-                "word": "large"
-            }, 
+                "word": "large",
+                "object_binding": 1
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "octagonal"
-            }, 
+                "word": "octagonal",
+                "object_binding": 1
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 1
+            },
             {
                 "word": "was"
-            }, 
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "just"
-            }, 
+            },
             {
                 "word": "north"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
-                "word": "rectangular"
-            }, 
+                "word": "rectangular",
+                "object_binding": 0
+            },
             {
-                "word": "prism"
-            }, 
+                "word": "prism",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1304, 
+        ],
+        "id": 1304,
         "string": "A large red octagonal prism was placed just north of the red rectangular prism."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "cylinder"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "red"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "and"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "located"
-            }, 
+            },
             {
                 "word": "directly"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "brick"
             }
-        ], 
-        "id": 1324, 
+        ],
+        "id": 1324,
         "string": "the cylinder is red, and is located directly behind the brick"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "placed"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
-                "word": "rectangle"
+                "word": "rectangle",
+                "object_binding": 0
             }
-        ], 
-        "id": 1426, 
+        ],
+        "id": 1426,
         "string": "red cylinder placed behind red rectangle"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "The"
-            }, 
+                "word": "The",
+                "object_binding": 1
+            },
             {
-                "word": "tall"
-            }, 
+                "word": "tall",
+                "object_binding": 1
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "behind"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
-                "word": "box"
-            }, 
+                "word": "box",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1512, 
+        ],
+        "id": 1512,
         "string": "The tall red cylinder is behind the red box."
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "The"
-            }, 
+            },
             {
                 "word": "object"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "a"
-            }, 
+            },
             {
                 "word": "large"
-            }, 
+            },
             {
                 "word": "red"
-            }, 
+            },
             {
                 "word": "cylinder"
-            }, 
+            },
             {
                 "word": ","
-            }, 
+            },
             {
                 "word": "situated"
-            }, 
+            },
             {
                 "word": "directly"
-            }, 
+            },
             {
                 "word": "above"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "red"
-            }, 
+            },
             {
                 "word": "rectangle"
             }
-        ], 
-        "id": 1543, 
+        ],
+        "id": 1543,
         "string": "The object is a large red cylinder, situated directly above the red rectangle"
-    }, 
+    },
     {
         "word_list": [
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 0
+            },
             {
-                "word": "square"
-            }, 
+                "word": "square",
+                "object_binding": 0
+            },
             {
                 "word": "south"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
+                "word": "cylinder",
+                "object_binding": 1
             }
-        ], 
-        "id": 1607, 
+        ],
+        "id": 1607,
         "string": "a square south of the cylinder"
-    }, 
+    },
     {
         "word_list": [
             {
                 "word": "There"
-            }, 
+            },
             {
                 "word": "is"
-            }, 
+            },
             {
                 "word": "now"
-            }, 
+            },
             {
-                "word": "a"
-            }, 
+                "word": "a",
+                "object_binding": 1
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 1
+            },
             {
-                "word": "cylinder"
-            }, 
+                "word": "cylinder",
+                "object_binding": 1
+            },
             {
                 "word": "on"
-            }, 
+            },
             {
                 "word": "the"
-            }, 
+            },
             {
                 "word": "top"
-            }, 
+            },
             {
                 "word": "side"
-            }, 
+            },
             {
                 "word": "of"
-            }, 
+            },
             {
-                "word": "the"
-            }, 
+                "word": "the",
+                "object_binding": 0
+            },
             {
-                "word": "other"
-            }, 
+                "word": "other",
+                "object_binding": 0
+            },
             {
-                "word": "red"
-            }, 
+                "word": "red",
+                "object_binding": 0
+            },
             {
                 "word": "."
             }
-        ], 
-        "id": 1659, 
+        ],
+        "id": 1659,
         "string": "There is now a red cylinder on the top side of the other red."
     }
 ]
